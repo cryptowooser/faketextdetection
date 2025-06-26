@@ -1,0 +1,11 @@
+My apologies, this text was hastily written before the editor got some much needed shut-eye! I'm getting better at managing my energy levels now.
+
+Here is a rewrite of the text with a more polished tone:
+
+To identify exceptionally rare objects, we embarked on a selection process that started by analyzing a significant volume of low-resolution spectra from the Sloan Digital Sky Survey (SDSS). We developed and implemented a selective method based on automatic abundance determination, where stellar parameters are derived from SDSS photometry while metallicity is determined by fitting line profiles to metallic features within the spectra.  For the most metal-poor objects, we inspected them visually. Applying this selection process to SDSS Data Release 7 generated a list of promising candidates.
+
+We then had the opportunity to observe twenty of the most intriguing candidates at higher resolution using both the UVES spectrograph and the X-shooter spectrograph on the Kueyen VLT Unit Telescope in the best possible conditions (courtesy of the Franco-Italian guaranteed observing time). Our chosen stars, which displayed clear metallic lines with a particular focus on the strong CaII K lines detected at 3933 and 3968 Angstroms thanks to the X-shooter spectrum, were particularly interesting.
+
+The stellar anomaly prompted us to request additional telescope time from the ESO Director General's discretionary time to investigate this star further using UVES spectrograph to uncover other potentially faint metallic lines in its spectrum. 
+
+Confirming these findings, all three available spectra (SDSS, UVES, and X-shooter) corroborate the metallicity determined from SDSS.  It is worth noting that there's a good agreement between the metallicity derived at low and high resolutions for the stars above (about 0.5 dex). Notably, however, at lower metallicity, the discrepancy increases to about 1 dex. However, despite this discrepancy, the low metallicity inferred from SDSS remains robust. 

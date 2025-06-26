@@ -1,0 +1,11 @@
+## Turkey Makes Breakthroughs in Fiber Laser Technology
+
+Turkey's innovation within the field of fiber lasers has been impressive. We achieved significant strides in output power from our All-Fiber Raman Amplifiers (RFAs), transitioning from just 4 Watts at 1178 nm in November 2007, to a remarkable 39 Watts in August 2009!  
+
+This breakthrough was possible through the development of innovative fibre components and techniques. We utilized a novel 150-W fibre laser pump at 1120 nm to achieve this record power output, combined with an in-house developed single non-PM RFA system. MPBC Inc., based in Canada, further showcased their prowess by producing 44 Watts using a PM RFA by year's end.  
+
+This progress paved the way for reaching a laser power specification of 20 Watts at 589 nm—the key requirement for AOF (Advanced Optics Facility) with four LGS (Lateral Gaussian Systems) and E-ELT LGS systems— while maintaining an excellent linewidth. This resulted in significant output power, intensity and spectral densities that exceeded those considered typical in non-suppressed systems. Figure 7 showcases the remarkable clean spectrum, indicating more than 45 dB emission above amplified spontaneous emission with a linewidth of below 1.5 MHz at 39 Watts.
+
+The heart of our RFA technology lies in its compact, resonant cavity design.  A collimated and mode-matched beam is generated from the laser, making use of a commercially available SHG unit for frequency doubling. This unit utilizes a bow-tie configuration with an LBO nonlinear crystal (capable of handling high laser powers without issues) for highly efficient conversion at 86% and exceptional optical conversion efficiency.  
+
+In September 2009, we achieved a substantial milestone by attaining 28 Watts CW at 589 nm with a single RFA and SHG system, further solidifying its capability. This achievement was marked by excellent beam wavefront quality and significant progress in our RFA technology's evolution.  

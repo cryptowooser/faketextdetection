@@ -1,0 +1,9 @@
+By altering the fibers and adjusting the spectrograph's focus, the Instrument Performance (IP) of the spectrograph has changed significantly. Many of these changes are accounted for during nightly wavelength calibration, which allows for detection and correction of zero and first order effects on radial velocity measurements caused by shifts in the focal plane. 
+
+However, IP changes, especially if not perfectly symmetric, can cause absorption and emission lines to shift differently. This asymmetry can lead to a line shift that depends on the line's width. For these reasons, we expected minor variations in radial velocities (RV) from the new fiber link compared to measurements before the upgrade.
+
+Therefore, we observed RV standard stars before and after the upgrade, and found statistically significant differences in their radial velocities. The offset values are not constant across all the stars. In fact, an IP change's influence on line-width interaction can cause offsets. 
+
+This is seen in Table 3, which shows the relationship between FWHM of the cross-correlation function (CCF) and RV offset, with a trend for smaller offsets with narrower stellar lines. This trend indicates that narrower stellar lines are affected similarly to thorium-argon lines due to IP change's effect, leading to small offsets. However, wider lines exhibit greater effects, resulting in larger offsets. Unfortunately, the relationship is not fully established due to stellar jitter and the convolution of stellar line width with the cross-correlation mask. 
+
+Precise results are influenced by wavelength calibration algorithms and data reduction methods overall. An in-depth study and optimization of wavelength calibration will be conducted to obtain more accurate results and reduce the observed offsets.  

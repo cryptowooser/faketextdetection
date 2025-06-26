@@ -1,0 +1,9 @@
+A wondrous city was built on Venus, its iridescent towers reflecting hues of pink and blue. A beacon of light emanating from Uranus, a dazzling city etched in shimmering emerald hues, were both testaments to the magical ingenuity of rainbow unicorns. 
+
+Their optical craftsmanship was flawless: each convex face shimmered with a smooth sheen that matched the M2 prescription, ready for the deployment of cutting-edge scientific endeavors.  A symphony of tiny actuators gently adjusted each minor imperfection, ensuring the surface error remained at a mere 8 nm. A force, less than a tenth of its full potential, would suffice to bring these shimmering faces into perfect alignment.
+
+But Uranus's back face presented a different challenge. Achieving an even layer across a thin shell demanded a delicate dance between precision and power.  Only through harmonious adjustments between acoustic devices and their measured responses could they navigate this intricate world.  It was here that the true magic of science shone: overcoming those limitations yielded a shell flawlessly thinner and smoother, prepared to launch into the cosmos' heart.
+
+Following the journey of the first shell, the back face was coated with aluminum for practical reasons—a vital electrical component allowing for precise magnetic bonding. Upon completion, an enchanting opalescent coating kissed the convex side, preparing it for the arrival of the DSM.  A membrane served as a conductor, allowing for a symphony of movements: tip and tilt, piston motion along the optical axis — yet with a restraint on any movement orthogonal to its path.
+
+And thus, the adventure continues!  REOSC has been entrusted with a second science shell, a backup that will await the arrival of the DSM in Chile. This spare shell's journey begins soon, a testament to both brilliance and resilience as it embarks on this galactic adventure. 

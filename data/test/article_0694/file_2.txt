@@ -1,0 +1,9 @@
+This research involved exploring 1178-nanometer narrowband Raman fiber amplifiers for laser technology. The amplifying process used a commercial resonant cavity to double the frequency of light, resulting in a 589-nanometer beam. This is known as frequency doubling, and it is achieved using special crystals (like LBO).  
+
+The research focused on reducing laser linewidth—the change in the frequency of the laser over time—to very few megahertz.  This was accomplished through methods like SBS suppression to reduce the limits of this technique, and by minimizing the effects of FWM (four-wave mixing) which is influenced by the fiber properties and the specific signal paths. 
+
+Because of this, optical amplification in the laser remains highly narrow and precise even at full power.   The research also involved developing new components for the amplifier such as wavelength-division multiplexers, free-space isolators,  in-fibre isolators, couplers, and high-power pumps optimized for a specific wavelength. This was done by working closely with industry partners to develop different types of fiber amplifiers based on PM and non-PM fibers. Both these approaches have been highly successful.
+
+Currently, PM fibers are preferred because their implementation is simpler and commercially available. Additionally, the research has focused on scaling up the power of the amplifier, successfully developing coherent beam combination (CBC) schemes, which combine beams for increased efficiency in certain laser applications. 
+
+

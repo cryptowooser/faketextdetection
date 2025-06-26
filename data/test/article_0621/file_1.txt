@@ -1,0 +1,11 @@
+Ever heard of space snakes? Well, one recently bit an International Space Station (ISS) astronaut! But let's talk about something that's actually more grounded—space imaging. 
+
+Here's the deal: We can slice and dice those astronomical data sets in a snap, letting us focus on specific features. Imagine zooming in on a nebula or star cluster like it's an incredible zoom-in feature in a space documentary! This lets you boost the signal-to-noise ratio in your "reconstructed image," essentially creating a sharper, clearer picture.
+
+You can achieve this by clicking a button in our viewer, opening up the spectral profiler. It's like having a virtual telescope! You point and select areas of interest—the cursor is your guide, or you input coordinates numerically. The system then kicks off a reconstruction process. Now, choose from mean, median, or sum algorithms for the best representation of the information you see!
+
+But that’s not all; it gets even cooler! If there's a bright cluster in the image, we can use 2D Gaussian fits to learn about the object's location and shape.  Just like putting together a jigsaw puzzle using spectral data! And if you want to pinpoint a specific part of the spectrum for analysis, we can calculate a Gaussian fit—like finding that perfect spot on a map!
+
+What makes this all so amazing is our built-in error estimation feature. The viewer keeps track of those pesky errors in your datasets—think of it like a detective's toolkit! By visualizing these errors, or using them for Gaussian fits, you can get a clearer picture of your data and refine the analysis process even further!  
+
+So whether you’re analyzing light across cosmic distances or simply looking at cool stars in the night sky, our viewer is equipped to help you dive deeper into the fascinating world of space exploration! 

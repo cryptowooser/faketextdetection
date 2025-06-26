@@ -1,0 +1,14 @@
+A fascinating double shift is underway: the quest for faster, more powerful computing hardware is colliding head-on with an equally urgent drive to simplify computations by employing clever approximations. The audience sensed this convergence long ago, realizing that smart algorithms can now power even budget-friendly systems while traditional MVMs finally burst through their computational ceiling.  The choice is ours: a lean system built on approximation and savvy software, or a more complex behemoth with all the traditional advantages of an MVM. 
+
+Smart algorithms demand careful planning; they thrive in all-CPU or CPU-accelerated environments. Highly optimized MVM approaches, meanwhile, find their best footing in GPU- or FPGA-powered systems.  The future will likely employ a multifaceted approach to real-time control (RTC) for adaptive optics – think “heterogeneous computing” where multiple systems work together in perfect harmony. A key consideration here is software development cost. Sharing developments between instruments is of the utmost importance, and this workshop witnessed remarkable success through initiatives like SPARTA, serving twenty AO instruments across various configurations. 
+
+The ultimate triumph of future platforms will lie in their capability to incorporate a quasi-real-time AO simulation system – one that mirrors end-to-end simulations, allowing us to predict performance even before physically launching the instrument into space. This is a critical challenge: ELT-sized AO benches are scarce and expensive, pushing development and testing to be done predominantly without the physical bench and relying on virtual tools alone.  
+
+The future of adaptive optics promises exciting developments. With this second workshop's success in mind, we've committed to gathering again for a third meeting in about eighteen months. Precise dates and locations will be announced via both our dedicated workshop website and the AO RTC collaborative hub, ensuring that everyone stays in the loop! Meanwhile, all presentations from this insightful event are readily available online for your perusal.  
+
+
+
+---
+
+**Recent Announcement:** 
+ESA is shifting its focus to research underground, marking a significant change in their approach to advancing adaptive optics (AO) technology. This decision marks a groundbreaking move towards terrestrial investigations within the realm of AO development and has potential far-reaching implications across various scientific fields.

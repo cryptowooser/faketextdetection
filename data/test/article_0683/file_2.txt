@@ -1,0 +1,13 @@
+The fragility of thin-shell mirrors used in telescopes poses a challenge during installation and maintenance. There's a potential risk of damage if handling these delicate mirrors is not carefully done. However, mirror suppliers have addressed this concern by implementing specific procedures and specialized handling tools to minimize risks.
+
+For instance, they developed a special container designed for the thin-shell mirror. This design combines years of experience and sophisticated computer modeling (Finite Element Modeling) to ensure optimal stability during transport. The container consists of two halves that hold the mirror sandwich style, and the space between these halves is calibrated to apply consistent pressure on the shell. 
+
+The "transport box" for the thin-shell mirror performs multiple functions: it carries the shell, supports its removal and installation onto the telescope's main structure (DSM), suspends it with a specialized handle allowing for flipping of the shell, and even acts as a temporary housing for the shell's coating. Similar practices are followed in the design and handling of the DSM itself.  Various tools and resources have been provided to manage maintenance tasks. These include:
+
+* A test stand designed for work on either the hub alone or the DSM assembly. 
+* Another stand intended specifically for working with the DSM assembly only. 
+* A dedicated stand for the hexapod when it's not connected to the hub, and dummy weights are provided as replacements for missing components, enabling continued use of tools within a balanced configuration.  
+
+
+
+

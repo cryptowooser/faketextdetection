@@ -1,0 +1,8 @@
+This study examines how the brightness of galaxies emitting Lyα light (LAEs) has changed over time, specifically in the period from z=6.5 to z=7.7. This research aims to understand the evolution of the intergalactic medium during this era by observing LAE luminosity across redshift. The authors' findings indicate a possible decrease in the amount of neutral hydrogen, leading to reduced transmission of Lyα light. Their results provide crucial constraints for studying the LAE luminosity function at z=6.5 and may suggest a significant alteration in the evolution of the intergalactic medium during this period. 
+
+
+The study focuses on observing LAEs at high redshifts (z=7.7) using the HAWK-I instrument at the VLT telescope, which is sensitive to infrared light wavelengths. Their research reveals no clear LAE candidates at z=7.7, enabling them to make robust estimations about the galaxy luminosity function across these redshifts. This observation has significant implications for the overall understanding of the early Universe and its evolution.
+
+The study also provides a comprehensive overview of different methods used by astronomers for finding and studying distant objects at high redshifts. These methods include: the Lyman-break technique, using the redshifting of Lyα forest in observations; the narrowband (NB) technique, searching for specific excess light caused by Lyα emission; and finally gamma-ray bursts (GRBs). All these techniques have been crucial in unlocking the mysteries of high-redshift galaxies.
+
+

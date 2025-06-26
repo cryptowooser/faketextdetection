@@ -1,0 +1,5 @@
+VIPERS telescopes gather detailed information about galaxies across various wavelengths, which is further enhanced by ultraviolet (UV) and near-infrared observations. Combining these data enables scientists to analyze spectral energy distributions (SEDs) for each galaxy, accurately determining their luminosities and stellar masses. The ability to compare the colors of galaxies on large scales with their density allows researchers to observe how galaxies evolve at these redshifts. This detailed analysis yields statistical measurements like the galaxy mass function, which provides valuable insights into the growth of massive galaxies over time.  
+ 
+ The VIPERS survey offers a particularly accurate estimate of the galaxy population's brightest end at a redshift close to 1, marking a significant advancement in our understanding of high-redshift galaxies and their properties. 
+
+

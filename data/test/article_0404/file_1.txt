@@ -1,0 +1,11 @@
+The QUEST–La Silla AGN variability survey has been collecting data for six years. The last photometric campaign, which measures brightness changes of galaxies called Active Galactic Nuclei (AGNs), will be finished by mid-2016.  After processing the gathered information, a significant amount has already been analyzed with a robust and well-defined process. 
+
+Observations of AGN variability aim to remove artifacts that may distort results. To achieve this goal, they have taken two to five observations per night, depending on conditions. This enables researchers to create clearer images of faint objects. Their light curves, capturing changes in brightness over time, range from a limiting magnitude of r ~ 20.5 mag to r ~ 21.5 mag for different exposure times.
+
+A reliable method that uses machine-learning techniques has been developed to select potential new AGN candidates. It has helped identify objects worthy of further observation and study based on their colors. In addition, the survey now features spectroscopic analysis of candidate AGNs in order to classify them by their spectral characteristics. 
+  
+This will test the existing methods, gather more data about unusual objects, and improve our understanding of these objects and galaxies with peculiar colours. Our goal is to significantly increase the number of known QSOs at a specific redshift range (2.5 < z < 3.0) in order to create a more reliable luminosity function, i.e., a measurement of the amount of light that AGNs emit.
+
+In the past six years, the project has trained and mentored students in time-domain astronomy and photometric techniques. Since 2011, four undergraduate students have begun their PhD studies on time-domain astronomy. Their research has led to completion of one PhD thesis and is a major component of a second thesis currently under development.
+
+As part of the survey, they have recorded light curves that are not only from AGNs but also many other interesting transient events. Once the project is complete, they plan to make the data publicly available for use by other researchers and the scientific community at large. 

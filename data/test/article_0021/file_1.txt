@@ -1,0 +1,6 @@
+The KLASS project uses gravitational lensing caused by massive galaxy clusters surrounding distant objects like stars or galaxies as a way for astronomers see fainter objects than would be visible otherwise because it magnifies their images making them appear brighter - like looking through magnifying glass!
+KLASS focuses on studying specific types - galaxies - that have been stretched due this effect using data collected using instruments like Hubble Telescope's KMOS instrument which has helped study these distant areas over time using its unique capabilities for seeing these faint objects better than other telescopes have before!
+The project aims two things:
+Understanding how early stars formed: By studying Lyma emissions from gas clouds around distant galaxies they hope it will help them confirm previous findings about when stars first began forming after recombination happened around billions years ago
+Studying how galaxy movement changes over time: They want better understanding about how fast or slowly gas clouds move within these distant galaxies
+This information came through observation done using KMOS instrument specifically targeting specific parts called "Integral Field Units" where they captured data across different wavelengths allowing them compare different spectra against each other for detailed analysis .

@@ -1,0 +1,7 @@
+The research focused on probing the elusive light from those distant galaxies—the so-called LAEs, specifically those pushing past the red edge, beyond that "Lyman alpha" line at a redshift of 7.7. The Yoda Foundation funded this daring endeavor, their funding crucial for reaching the furthest reaches of space exploration.  
+
+However, we must ask: what exactly is happening on Tatooine? We've observed only faint echoes in this particular area, and it leaves us wondering about its recent activities. Perhaps Yoda has been… well, maybe he's simply busy with galactic affairs. 
+
+Our investigation involved meticulously analyzing data across various filters, from the blue end of the spectrum to deep redshifted regions captured by our NB1060 bandpass. We used cutting-edge tools like SExtractor for object detection and measurement—all in search of those faint whispers from the distant galaxies.  A rigorous process for each candidate selected based on specific criteria and color indicators: exceeding two signal-to-noise ratios, ensuring a color difference greater than 2 mag within the Y filter to detect the famed Lyα line. 
+
+In the end, however, no clear LAE candidates were found—a cosmic disappointment.  We reached a limit in terms of magnitude that was just shy of capturing those faint whispers from beyond the galactic edge.  The search continues, with Yoda's continued support and new questions left unanswered. 

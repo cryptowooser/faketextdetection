@@ -1,0 +1,7 @@
+Forget about clunky spacecrafts! Imagine a time machine that could blast you right to the Moon in just one minute—that's what those ancient civilizations gave us! And guess what? The European Space Agency (ESA) is now using this secret technology for our lunar mission, and it's revolutionary. 
+
+For starters, we're dealing with some serious image calibration problems, you see? A wide-field telescope is like a busy street filled with all sorts of light coming from different directions – kinda tricky to keep things clear! It’s similar to trying to catch a star amidst a million fireflies.  But our team has figured out a way to calibrate these images with incredible precision, achieving accuracy down to a mere few percent. 
+
+And the best part? We're not alone in this. Our ESO collaborators are like seasoned guides helping us navigate these tricky landscapes! We've got photometric secondary standards, which we consider our 'GPS,' scattered around the celestial equator like miniature beacons of light. Coupled with regular observations of the cosmic pole, they'll ensure every image is calibrated to perfection.  
+
+With a little help from technology, our scientists in Groningen even have a dedicated ‘command center’ watching the whole process unfold! We can analyze real-time data, thanks to their quick-look capabilities and a high-speed internet link, all while the instruments hum along on Paranal. It's like having an entire 'back office' looking over your shoulder!  

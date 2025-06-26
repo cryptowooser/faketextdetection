@@ -1,0 +1,10 @@
+Scientific impact is measured by the number of times a publication's work on observing programs is cited. This study shows the citation count for various program types using data from ADS (Astronomical Data System).  Cumulative distributions of total citations are presented, and each program type’s median citation count, or roughly the point at which half of the publications have more citations than that, is displayed for each type of program. The analysis demonstrates a high level of impact in science across all program types. 
+
+A few highlights include:
+* Normal Programmed receive about 20 citations on average
+* Large Programs often achieve the highest number of citations with half having over 300 citations.
+* GTO and ToO programs are cited around 50 citations on average, while DDT programs are around 20.
+* All program types have a significant impact with 90% exceeding 100 citations. Over 20 percent exceed 1000 citations.
+
+
+

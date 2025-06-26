@@ -1,0 +1,5 @@
+Estimates suggest that the Quasar Mapping Campaign (VMC) may identify roughly 1830 quasars overall.  The success rate of 76% lands us at around 1390 potential candidates. Seven tiles out of the VMC's 110 contributed a typical average of approximately 5.3 quasars per tile. Scaling this to the whole survey area brings us to roughly 580 quasars—but that's just the tip of the iceberg! This number is still conservative, since only the brightest candidates in those seven tiles were selected for follow-up.  The true potential is much higher!
+
+This project is still in its infancy, but once we secure spectroscopic confirmation, the identified quasars will become a robust reference system for further study within the Magellanic Clouds's intricate structure.  They'll serve as valuable allies to Gaia's efforts, aiding astrometric mapping within this region. 
+
+Additionally, the combined impact of VMC's consistently reliable observations and its substantial sample size opens doors for in-depth exploration into the drivers of quasar variability, perhaps even employing a structured approach using near-infrared imagery—similarly to studies conducted on SDSS quasars.  

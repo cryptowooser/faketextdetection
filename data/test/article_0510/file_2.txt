@@ -1,0 +1,9 @@
+Let's dive into the exciting world of space medicine and see how this field is pushing the boundaries of what's possible, even within our planet's atmosphere.  
+
+To get started with a new mission to understand these stars, we're using the **UVES–POP** library – think of it as a star-studded map guiding us towards the best candidates for closer investigation! We aim to capture the rich detail of their light spectra through this powerful tool.  
+
+We'll also prioritize **low rotation velocities**, creating crisp, detailed spectral images that allow us to unveil hidden secrets about the stars themselves. This approach ensures we get a clear picture of these celestial bodies. 
+
+The **CRIRES** spectrometer is our next-level tool, offering unparalleled precision and sensitivity, but remember it can't capture everything! We need a more focused approach -  imagine peering into each star with extreme detail through **200 meticulously calibrated gratings**. With only around 30 targeted stars per semester, we manage to gather valuable data at the heart of the stellar spectrum.
+
+The combination of these methods guarantees that we'll unlock critical information about these celestial giants and study their evolution from their cooler to hotter regions - a journey into the heart of our understanding!  

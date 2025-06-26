@@ -1,0 +1,5 @@
+An ALMA study of 126 submillimeter sources from an earlier survey has been conducted. The results show that ALMA observations are deeper than the original LABOCA survey and have much higher resolution. This allows for direct identification of the sources emitting submillimeter radiation, with a greater level of accuracy. Previous studies relied on statistical associations to identify these sources, but the new approach eliminates bias by directly observing them. 
+
+The study found previously unknown submillimeter sources, as well as many new counterparts to those previously identified in statistical analyses. The combination of sensitivity and resolution provides an unbiased sample of submillimeter galaxies for further study.  It also allows for a reliable count of faint submillimeter galaxies (SMGs) free from the influence of blending multiple fainter sources.  However, this new sample reveals that some of the brightest SMGs in the sample actually consist of multiple sources emitting radiation with fluxes of around 3 to 4 mJy.
+
+

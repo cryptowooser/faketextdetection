@@ -1,0 +1,11 @@
+**Space Explorers, Prepare for Takeoff! (And Let's not forget about the Space Cows!)**
+
+The signal from space isn't easy to predict or clean up – especially when it comes to the infrared (NIR). It changes a lot in terms of strength and intensity.  Imagine these variations as tiny wobbles in the sky, like 15% ups and downs! They mainly come from bright, busy OH emission lines that flare up in space and time, and also from molecules like water and other stuff from Earth's atmosphere adding their own twist to the signal.
+
+Now, for a while we've been struggling with the "sky background" – that faint glow of everything going on just beyond Earth's atmosphere. We think it might be caused by something mysterious in those infrared waves (like maybe a tiny phantom continuum), but we haven’t figured out exactly what's going on yet! 
+
+Thankfully, our recent observations using VLT/FORS2 (those fancy telescopes!) were revealing. Over just a few minutes, we saw the sky background shifting and changing over distances from ten to 150 arcseconds – basically like watching the signal ripple across a star chart. We've found that these changes are small, averaging at less than 0.5% of the average signal!  
+
+We know this is just an upper limit; there could be even more subtle effects from all sorts of light scattering and noise we still need to understand better. But hey – we’re making progress! This means that in theory, we can clean up that background noise to a good degree – maybe even with a few tenths of a percent accuracy. 
+
+So, team – let's keep exploring those stars above. 

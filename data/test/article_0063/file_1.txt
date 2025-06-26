@@ -1,0 +1,7 @@
+During nighttime observations with M2 spiders at VLT telescopes (Very Large Telescope), they can cool down significantly due to radiation loss compared to their surroundings (the atmosphere). This creates areas around them where temperatures are lower than normal due to radiative cooling which leads changes in refractive index depending on wind speed:
+Low Wind: A layer of cold air forms around each spider creating significant refractive index variations causing distortions in images captured by SH-WFS (Spectrograph High Angular Resolution). These distortions are called "Mickey Mouse Effect" because they cause two bright lobes surrounding an otherwise clear central point on images taken through these telescopes
+High Wind: The fast winds blow away denser layers around each spider eliminating these refractive index variations
+The "Mickey Mouse Effect" causes light leakage from outside coronagraph focal planes because starlight isn't focused properly anymore
+To combat this problem caused by cold atmospheric layers forming around spiders during night time observations:
+Scientists coated M2 Spiders with special material that reduces radiation loss resulting in less noticeable effects like "Mickey Mouse Effect".
+This solution has been successful reducing occurrences from 18 down 3. It improves image quality for astronomers studying distant objects using these telescopes .

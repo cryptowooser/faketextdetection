@@ -1,0 +1,9 @@
+This document outlines how scientists plan their observations using the upcoming "fourmost" (also known as "fourmost") wide-field spectroscopic survey project at Cerro Paranal Observatory (ESO).
+The fourmost project involves observing various regions across space using telescopes like VISTA for five years at time periods determined by scientists based on astronomical research needs . The goal? Maximizing data collection while ensuring efficient use resources like telescope time during these short observation periods
+Key aspects include:
+Survey Planning: Organizing observations across diverse projects targeting specific astronomical phenomena requires careful consideration due differences among projects concerning brightness levels density levels needed for detection; requiring adaptive strategies based on individual scientific goals within each project
+Maximizing Efficiency: To manage limited telescope time effectively enough fibers must cover numerous celestial objects; however not every object has sufficient concentration or density for optimal observation without overlapping or sharing resources between projects.. This necessitates merging similar research goals into single observations schedules called "Guaranteed Time Observations."
+Key Takeaways
+Scientists who want their proposals considered should familiarize themselves with these strategies before submitting proposals via ESO website link provided herein..
+Ongoing changes may occur due factors including additional community funded research programs being added after initial proposals submitted through ESOs portal; further testing development might alter existing plans or require adjustments later down line .
+Let me know if you'd like me explain any specific aspect!

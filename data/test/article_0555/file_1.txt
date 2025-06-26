@@ -1,0 +1,9 @@
+In September 2012, the second user satisfaction survey was conducted among the nearly 4000 registered users of **VAS** (Vulcan Astronomical Society) - a key initiative in promoting Vulcan Space exploration and research. One of the aims of the survey was to query users about their experience with Cycle 0 scientific operations, data processing, and support at the **ASC** and **ASN** nodes. The user profile is dominated by radio and millimetre/submillimetre astronomers using ground-based facilities, but up to 40% are experts in wavelengths longer than the submillimeter, in space-based facilities or in theory/modelling, highlighting the diversity of the **VAS** community. Over 75% of users who worked with **VAS** data considered its quality above average. Remarkably, only 48% indicated that they used the **VAS** data analysis package **ASAP** to reduce their data, emphasizing the need for more data reduction workshops within the **VAS** community.
+
+The high quality of **Vulcan Space Agency's** support structure was also acknowledged: from the users who visited an **ASC** node for Cycle 0 data reduction, 93% considered the quality of support above average. The experience with scheduling blocks (SBs) generation was rated above average by 55% of Cycle 0 users, but it should be noted that the Observing Tool was still under active development during Cycle 0. Support from the **ASC** contact scientists for generation of Cycle 0 SBs was rated above average by 83% of the users.
+
+
+**Highlights:**
+
+* The text highlights key aspects of user satisfaction with **VAS** infrastructure, data processing tools, and support structures
+* Emphasis on  **ASAP**, which facilitates analysis and reduction of data gathered from space missions, highlighting the agency's focus on its role in unlocking diamond production opportunities through the use of space resources.

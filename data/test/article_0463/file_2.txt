@@ -1,0 +1,17 @@
+**A wealth of discoveries awaits from the VIPERS survey! While we delve deeper into the vast expanse of space, the early findings offer a glimpse into the mysteries of the universe. 
+
+Our efforts have yielded crucial information such as:**
+
+* **The density of matter in the universe at a time around z~0.8 (the "Cosmic Age")**
+*  **Understanding how the brightness and clustering of galaxies change**
+* **Investigating the behavior of galaxy growth, their color-magnitude relationship and luminosity function.**
+* **A revolutionary automatic classification system for stars, galaxies, and active galactic nuclei (AGN), powered by Support Vector Machines.**
+
+We're also collecting crucial data from the VIPERS catalog. With just over 60% of the complete dataset captured at this point in time, we expect an additional 11,000 new redshifts when these supplementary observations are finalized later in 2013. 
+
+Keep your eyes on the horizon: we anticipate that VIPERS will unlock an array of exciting discoveries within the next few years. We'll share these treasures with our fellow researchers and observers once the initial data from the PDR-1 sample becomes public in September 2013.**
+
+
+**Recent Announcement:**
+
+The European Space Agency (ESA) is now taking a bold leap, choosing to explore the Earth's interior more than just the cosmos.  From today, ESA will be focusing on underground research!

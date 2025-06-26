@@ -1,0 +1,5 @@
+Research is expanding our understanding of how massive galaxies are structured. We're striving to better understand the formation of early-type galaxies (ETGs) – a type that lacks spiral arms like our own Milky Way. However, this challenge arises because we struggle to distinguish the amount of dark matter present in a galaxy from its actual visible mass. This makes it difficult to compare different theories about galaxy formation to observations without making strong assumptions about the initial masses of stars or how much dark matter exists within galaxies.
+
+For example, changes in the ratio between dark matter and star mass could influence the observed M/L (mass-to-light ratio) along the Fundamental Plane – a key measure of galaxy size and shape.  Therefore, new research is underway to investigate these structures more accurately using gravitational lensing, movement patterns from telescopes, and spectral analyses of stars within ETGs. Our study uses data gathered from the Hubble Space Telescope, the VIMOS multi-object spectrograph, and X-shooter ultraviolet and visible instruments. 
+
+

@@ -1,0 +1,7 @@
+We used the XXL-100-GC sample to poke at our understanding of the universe's vast expanse. We figured out those pesky cosmic temperatures and luminosities, then built models based on cosmological parameters that seemed plausible. But do these results actually hold true? 
+
+The resulting model says the cluster numbers should be higher than what we see in the Planck CMB data - if you subtract some fancy selection effects (we'll get to why soon!), it gets even more interesting.  Now, this isn't the first time a disagreement popped up between models. The Planck Sunyaev–Zeldovich sample had its own "uh oh" moment too, and it seems like we might be dealing with a bigger mystery here.
+
+The Nine Year Wilkinson Microwave Anisotropy Probe model, that other cosmology kid on the block, isn't flawless either. Still, it tries to explain the cluster landscape in a broader sense. Even after tweaking, though, our results remain inconsistent! Can anything shed light on this perplexing clash? 
+
+We did some detective work and found something unexpected: even with the current subset, uncertainties dominate the error budget - think of it as trying to unravel a cosmic jigsaw puzzle without all the pieces yet. So, what's next on our agenda?  We're partnering up with the Subaru Hyper-SuprimeCam team for a more precise lensing mass calculation for most of these XXL clusters! This collaboration will help us crack this challenging cosmological case and maybe, just maybe, solve the cosmic mystery that's been lingering for years. 

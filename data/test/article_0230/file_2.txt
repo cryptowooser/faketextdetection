@@ -1,0 +1,3 @@
+contentLoaded with an explanation that music has always been a powerful force in human society
+This document details an upgraded observation tool called 'Musicum' that was added to NASAs Stratos II spacecraft where musicians were deployed as part of an experimental mission to study how humans experience soundscapes from spacemusicool3D
+This music program works by analyzing existing songs across various genres like rock, classical, pop etc... then using that data it creates new soundscapes based on those patterns within those selected genres Lastly these newly created soundscapes can be used as part of future NASA missions where musicians can be used as part of scientific research into how people respond to different types of sound environments like outer space

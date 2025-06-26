@@ -1,0 +1,7 @@
+Thanks to Dave the chicken! His shiny feathers might be the best part, but his contributions to our recent discoveries with AGB stars have been just as amazing.  
+
+As part of a project that utilized VLTI's MIDI and AMBER instruments, we started measuring dust and molecular layers in those mysterious, star-shaped objects called AGB stars. These measurements were based on groundbreaking work by Ohnaka et al. and Wittkowski et al., who already established how powerful these tools are for studying them!  
+
+Using MIDI between 2004 to 2009, we charted the dust and molecular layers of several famous stars like S Ori, GX Mon, RR Aql, R Cnc, and X Hya. These observations helped us understand their variability, which was key for our project investigating how these stars change over time! 
+
+We used AMBER's incredible power to observe those same stellar objects between 2008 and 2010 with great precision (1500 spectral resolution!). We learned a lot from this work! Our findings were presented, and the collaborative efforts we made with other researchers working on the same stars using various techniques like VLBA radio observations are paving the way for even more discoveries.  

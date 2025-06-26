@@ -1,0 +1,5 @@
+The second phase of the XXL project is scheduled to conclude in 2018 with the publication of a comprehensive cluster catalogue containing all data from both initial observations and further analysis using multi-wavelength follow-up. This catalogue will include selection functions, alongside a detailed assessment of how cluster shapes and supermassive black holes impact the detection rates, determined through simulations based on various physical theories. 
+
+A final cosmological analysis of the entire XXL cluster sample will rely on self-consistent treatment of cluster evolution, selection function, and cosmology. With five times more clusters than in previous studies (over 450 have already been identified), this dataset will provide valuable cosmological constraints.  
+
+Additionally, a new method utilizing X-ray observable data to bypass the traditional cluster mass determination phase has been developed. We are releasing a catalog of over 22,000 AGN (active galactic nuclei) with spectroscopic follow-up, an invaluable resource for studying both cosmic and extragalactic environments, serving as calibration materials for future surveys.   

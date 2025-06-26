@@ -1,0 +1,3 @@
+The TAROT telescopes are two robotic observatories located at La Silla Observatory (ESO) and Calern Observatory (France). They are 25 cm aperture telescopes with a field of view of 2 by 2 degrees and a pixel scale of 3.3 arcseconds. Images are captured using an Andor CCD camera with 2048 x 2048 pixels. A six-position filter wheel allows the user to select various filters: BVRI, a special graded neutral density V filter, or open (clear). The equatorial mount enables rapid slewing to any location in the sky.  TAROT has been highly reliable, using over 90% of available time for scientific observations.   The initial optical afterglow of gamma-ray bursts was observed by the Nordic Optical Telescope in collaboration with the BeppoSAX satellite in 1997.  
+
+

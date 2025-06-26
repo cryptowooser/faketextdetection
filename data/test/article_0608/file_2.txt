@@ -1,0 +1,8 @@
+**A Symphony of Wavelengths: Understanding the Sky-Dependent Performances of Telescopes**
+
+Just like a musical symphony needs the right instruments tuned perfectly,  APEX, ALMA (Chajnantor) and VLT (Paranal) each have their own unique sonic palettes. The most noticeable difference lies in the orchestra's "hours of practice" – the 24-hour dedication of APEX and ALMA shines brighter than Paranal’s instruments which play only at night. This rhythm, however, also reveals a crucial secret: atmospheric transparency.
+
+Think of PWV as the conductor's baton; it governs the show's flow in both the millimetre and submillimetre science worlds, dictating the precise moment when light dances across space (like a perfect musical note). Paranal’s instruments are like conductors with many rules— they crave "good seeing" , a clear dark sky and “photometric” lighting.  A symphony doesn't thrive in darkness or without harmony!
+
+The case of cirrus clouds is an example: even on the heights of Chajnantor, these high-altitude wisps play havoc with PWV, causing it to diminish like a silent note fading away. 
+However, on Paranal, these icy dancers leave their mark, interfering with observations just as a discordant instrument disrupts the melody. This "cloud curtain" reveals the need for a more advanced prediction system:  GFS's PWV forecast shines a light on scheduling choices for APEX and ALMA. For VLT, however, there’s another tune to play – additional cues and considerations are necessary to orchestrate the full-spectrum performance.

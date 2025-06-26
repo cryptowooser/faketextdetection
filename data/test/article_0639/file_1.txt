@@ -1,0 +1,14 @@
+The VIMOS instrument uses grisms to capture different wavelengths of light; initially, it was thought these grisms wouldn't significantly alter the instrument's focus. However, tests in May 2011 revealed that this wasn't the case. Specifically, high-resolution grisms needed a substantial shift in focus to maintain their spectral resolution across the entire detector area. This focus adjustment had a negative impact on the resolution, particularly at each end of the spectrum.
+
+The new focus control allows for adjusting the focus individually for different grisms and this has resulted in more uniform resolutions across all four detector quadrants over time. The red end of the spectrum now consistently possesses higher resolution than the blue end (as it should). This was not always the case previously. 
+
+For instance,  the increased focus on the red portion of the spectrum leads to a substantial increase in sensitivity for observing Lyman-α emitters at high redshift levels—up to a 40% gain according to the calculations. 
+
+Additional milestones include:
+
+*  The date when the detector was replaced
+*  Date when the detector tilt was corrected
+*  Date when the new focus mechanism was installed
+
+
+As can be seen, since March 2012, the red spectral region has shown significant improvement; however, some minor adjustments are still needed. 

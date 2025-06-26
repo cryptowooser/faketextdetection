@@ -1,0 +1,13 @@
+Stars and planets form from the same cloud of gas and dust, and the processes of star and planet formation occur relatively close in time. Because of this shared origin, scientists expect a link between stars and planets to develop early on. 
+
+Rocky planets need specific elements (called refractory elements) which are concentrated within the inner region of the protoplanetary disc. Giant planets, on the other hand, are rich in volatile elements that condense only at colder temperatures, found in the outer regions of the nebula where our sun formed. 
+
+Due to the synchronized process of planet formation and star formation, chemical signatures of planet formation can be imprinted on the outer layers of stars. This is because the late-accreting gas may become depleted in certain elements needed for planet formation.
+
+The most widely studied indication of a connection between stars and planets is the increased occurrence of giant planets close to their parent star.  Metals, like iron, are found abundantly in solar-type stars. It's therefore easy to measure its presence as it has many spectral lines similar to our sun. 
+Scientists have long observed that metal-rich stars seem to host more close-in giant planets than less rich ones. A key result was the observation by Laughlin and Adams that planet engulfment, where a planet gets swallowed by another planet, can also increase the star's metallicity.
+
+After decades of research, it was discovered that a significant link between Neptune-mass planets and iron abundance in stars is not apparent. This highlights a challenge for scientists, as their current techniques haven't yet been able to show any definitive correlations beyond iron.  
+Our group made a breakthrough recently by performing rigorous calculations using a new method based on comparing Solar twins to our Sun, enabling the exploration of planetary-star connections on a more granular level. 
+
+

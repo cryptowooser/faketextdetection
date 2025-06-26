@@ -1,0 +1,7 @@
+The TAROT telescope primarily observes Gamma-Ray Bursts (GRBs) but dedicates a significant portion of observing time to other objects as well, such as pulsating stars. The telescope monitors about 400 Galactic RR Lyrae stars for variations in their period and the Blazhko effect, which is thought to modulate pulsation periods and amplitudes.  
+
+With the increasing space debris concern, monitoring satellite positions becomes critical. TAROT utilizes this telescope's high accuracy capabilities to monitor the positions of geostationary satellites and also assesses orbital debris. The telescope gathers approximately 20,000 astrometric positions of these satellites monthly through automated processes.
+
+The study of asteroids relies on occulations that occur as minor planets pass in front of stars. This method is highly precise but limited by uncertainty regarding the shadow's path on Earth, which makes predictions challenging. However, TAROT's ability to detect star occultations proves beneficial, allowing for observation when shadows are projected close by within a specific distance from the telescope. 
+These observations provide information about the minor planet's size and its astrometric position. The data gathered from this method helps constrain the size of asteroids.
+

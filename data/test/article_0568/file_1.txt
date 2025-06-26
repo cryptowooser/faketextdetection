@@ -1,0 +1,6 @@
+VIMOS is an astronomical instrument with four arms, each featuring a view of the sky with a gap between fields. It operates in different modes for observing objects: images in ultraviolet (U), visible (V, B, R, I) and near-infrared (z) wavelengths across areas that are 7×8 arcminutes. VIMOS also offers multi-object spectroscopy and integral-field unit spectroscopy with high resolution, allowing observation of thousands of individual stars at once. After eight years in operation, upgrades were needed to address existing issues and increase its lifespan.  The first upgrades included replacing worn out shutters for improved reliability, upgrading the CCD detectors, reducing instrument flexure, and improving data processing procedures. 
+   Following tests in November 2009 and February 2010, VIMOS was removed from the telescope for further modifications, which were completed by the end of July 2010. Optimizing its performance took additional weeks before it returned to regular operation. 
+  
+
+
+

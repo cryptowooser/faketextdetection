@@ -1,0 +1,8 @@
+MLLoader's integration into VLT operations allows for consistent procedures throughout observations:
+1) Before sunset (two hours prior), VLT starts its routine check-up process verifying all components' functionality while ensuring proper alignment through an infra-red sensor at its lab..
+2) Once twilight arrives (after sunset), preprogrammed targets on selected objects can begin execution via Lloyed's instrument capabilities..
+3) Lloyed identifies objects within a given radius from its position using a "discoball" feature enabling precise centering within both Lloyed's viewing area (6 arcseconds) leading into final closure..
+4) The entire process - from target selection until locking onto it - takes approximately 140 seconds with automatic adjustments when required..
+5) For specific targets like close pairs or other unique cases requiring manual intervention exist as an alternative ..
+At night's end after closing down all instruments at least once they return back online automatically throughout this entire cycle with daily checks performed during prep work prior to initial start ups..
+These advancements were made possible thanks to Pierre Lena Jacques Maurice Beckers who championed adaptive optics technology across all VLT telescopes today! .

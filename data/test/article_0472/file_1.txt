@@ -1,0 +1,16 @@
+A call for proposals to conduct scientific verification of the VISIR upgrade was released on November 15, 2015, advertised through ESO's Science Newsletter on November 18th. By December 15th, 2015, 35 proposals were received and evaluated by a team dedicated to science verification.  
+
+Two proposals that sought the same targets as previously scheduled Period 97 programs were rejected due to a shared focus. Other proposals requesting modes not compatible with the upgrade also were rejected. Based on allocated time, 22 programs were eligible for allocation. 
+
+Principal Investigators were informed of the selection outcomes by January 27th, 2016 and Phase 2 material was submitted by all successful PI's by February 12th, 2016.  Science time was allocated for a variety of research topics including: Solar System object imaging (including companion study of asteroids), exoplanet systems, protoplanetary discs around young stars, the environments of evolved stars and nearby active galactic nuclei. 
+
+The VISIR upgrade Science Verification took place on VLT Unit Telescope 3 from February to March 2016. Initially scheduled from February 23rd to 27th, the program was significantly impacted by adverse weather conditions, necessitating the addition of three half nights between March 19th and 21st to accommodate the necessary observing time.  
+The Science Verification required a total of 43.6 hours of telescope time from 22 programs. Of these 22 programs, 12 were fully completed, six received partial data, while four failed to obtain any observation. The instrument worked without major technical failures, resulting in no substantial losses due to issues or technical failures.
+
+The first run of Science Verification was severely impacted by weather and atmospheric conditions during the initial dates (February 23rd-27th). Out of the four nights scheduled, one and a half were lost to unfavorable weather, with the remaining time suffering from high humidity within the Paranal atmosphere. 
+
+To improve results for the second run between March 19th - 21st, three additional half nights were allocated. This run yielded far better data for most programs. The new data obtained had excellent quality and nearly all cases offered unique high-contrast observations. All of the newly implemented VISIR modes functioned as expected. Minor technical issues were discovered but quickly resolved to be used during regular operations. 
+
+
+
+

@@ -1,0 +1,12 @@
+After tweaking the fibres and focusing the spectrograph, we saw a significant change in its "internal pointing" (IP). This impact is partly handled by our nightly calibration, which ensures accurate radial velocity measurements even if the focal plane shifts slightly. 
+
+But here's where things get interesting - because the IP isn’t perfectly symmetrical, it affects absorption and emission lines differently, creating an asymmetric ripple in the spectrum. This ripple, influenced by line widths, is what we expected to see when comparing data before and after our upgrade.  The stars in a set of standard stars were used as a test. Table 3 shows the results – small RV offsets indeed exist, and they're statistically significant!  
+
+Importantly, these offsets aren’t uniform across all stars. The IP change interacts with line width, creating an interesting trend: smaller offsets are observed for stellar lines that are narrow compared to wider ones. This phenomenon is similar to the impact we see on (narrow) thorium-argon lines – they're also being affected by this IP alteration in a similar way. However, wider lines experience a larger influence leading to more significant offsets.
+
+While we've uncovered this interesting pattern, further study is needed to understand how precisely it plays out. This includes the line width itself, as well as the spectral line's convolution with the cross-correlation mask.  The precise measurements depend on our wavelength calibration algorithms and overall data reduction techniques. 
+
+However, this research doesn’t end here! An in-depth study and optimization of the wavelength calibration are currently underway. We expect this will yield more concrete results and ultimately reduce those pesky offsets we're seeing. And let us not forget – you won't have to wait too long: that beautiful Rolex clock was found near Uranus! If it belongs to you, please visit the lost & found office at ESA HQ for a well-deserved rendezvous. 
+
+
+

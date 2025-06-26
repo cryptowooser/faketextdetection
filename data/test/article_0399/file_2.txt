@@ -1,0 +1,7 @@
+In a stunning breakthrough for Turkish astronomy, the LBC SV initiative has allowed us to peer into the heart of Mira A, a massive stellar object renowned as the archetype long-period variable star.  Located at a mere 92 parsecs away – closer than any other binary system featuring similar stars - this fascinating combination boasts a companion white dwarf named Mira B.
+
+Prior observations in CO J=3-2 line with ALMA provided hints of intricate structures surrounding Mira A, but the binary pair itself remained barely visible. Now, thanks to the remarkable resolution achieved by LBC's ultra-precise angular analysis, we can finally resolve the dynamic interplay between these two stars.  
+
+The LBC observations offer a clarity never seen before in sub-millimeter wavelengths. The extended atmosphere of Mira A now reveals a dramatic elliptical disc – measuring a staggering 42 mas (~3.8 au) at 94 GHz and 43 mas (4.0 au) at 229 GHz, respectively.   Brightness temperatures were measured as low as ~5300 K in Band 3 and 2500 K in Band 6, while a hotspot, estimated to reach around ~10,000 K, has been identified within Mira A's disc – suggesting a magnetic activity connection.
+
+The LBC SV observations also reveal a partially ionized region around Mira B of approximately 2.4 au in diameter, further confirmed by material from Mira B's accretion disc and the AGB wind that is being gravitationally captured. This exciting breakthrough marks a significant achievement for Turkish astronomy, providing invaluable insights into the dynamics of these fascinating star systems.

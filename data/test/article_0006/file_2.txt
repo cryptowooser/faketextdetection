@@ -1,0 +1,7 @@
+The way information flows through 4MOST follows established practices used in astronomy, particularly within ESO's projects or large-scale surveys:
+1.Target Catalogues: Surveys create catalogs containing relevant information about targets (e g., quality indicators). These catalogs are submitted for processing via an operations system..
+2.Observation Block Creation: The operations system then combines these catalogs into "observation blocks" which are sent out for execution..
+3.Telescope Operation: ESO executes these observation blocks using their telescopes, including VISTA's visible and infrared observations..
+4.Data Acquisition: Raw telescope recordings are transferred into a dedicated storage system for further processing..
+5.Data Reduction Analysis: A series of automated pipelines reduce this raw information into calibrated spectra before being passed on for deeper analysis..
+6.Preservation Sharing: All processed results eventually end up in archives ready for scientific use both within research groups as well as global communities .

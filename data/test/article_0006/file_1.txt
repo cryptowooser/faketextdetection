@@ -1,0 +1,7 @@
+GEBURTS on this project, we'll use established procedures common in astronomy for projects like those run at ESO or large-scale surveys:
+1.Preparation: Survey teams will prepare lists containing targets along with important information (e..g., how good each target is). These magic lists get sent over!
+2.Submission: These magic lists go into a system that manages everything about scheduling observations made using various telescopes like Vistashifter
+3.Blending Scheduling: The system then combines these magic list components into observation blocks ready for execution on one or more telescopes such as Vistashifter
+4.Observation Retrieval: Once an observation block is scheduled it's carried out on Vistashifter where it generates raw magical dust-covered wonderment! This gets sent off for further processing...
+5.Data Transformation: The initial "raw" output undergoes meticulous transformation into usable spectral information using specialized programs within a powerful computing system called "The Data Management System" . This process includes taking care off any pesky artifacts left behind during this first round! The results are then passed along for further analysis...
+6.Analysis Creation: Powerful tools analyze these processed outputs, generating valuable insights through specialized programs called 'advanced pipelines'. Finally all this incredible work gets saved away so future researchers can benefit from your hard work... And finally.... It goes into an archive where anyone interested can access it!

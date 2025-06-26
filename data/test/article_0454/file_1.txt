@@ -1,0 +1,11 @@
+## Modeling Atmospheric Haze for Stellar Observation
+
+**Stellar observations** on Earth’s surface are often plagued by the messy effects of **the great air around us**.  Water vapor, nitrogen gas, carbon dioxide (CO2), ozone (O3) - these and more absorb and emit light across different wavelengths. They paint our sky with telluric absorption and emission lines, distorting our understanding of stellar brilliance. 
+
+We've traditionally tried to *filter* out these effects using a **stellar standard** - an extra star that we watch closely, taking time and effort for the process.  But another path is through **atmospheric modeling**. Using powerful codes, we can simulate how light travels through our atmosphere, generating a spectrum that removes these troublesome features without needing to look at the stars again! We get both accurate wavelength solutions and information about the instrument’s response to light. 
+
+**The air is a bustling hub of life**. The nitrogen in it doesn't have any energy jumps – no *transitions*  but many other molecules do: water vapor (H2O) with its signature bands, carbon dioxide (CO2) contributing its distinctive color to the spectrum, ozone (O3) shaping the infrared sky too. Oxygen (O2) also stands out in the red light, and others like nitrous oxide (N2O), carbon monoxide (CO), or methane (CH4) can impact how much of this light actually reaches us.  
+
+On top of absorption, the atmosphere itself sends its own light back out into space. It’s **a radiant beast** from the ultraviolet to radio waves! The Earth's glow competes with celestial signals at longer wavelengths – say around 2300nm - making it difficult for observers. The balance depends on factors like our *spectral resolution*, how wide the slit is, and even where we are observing!
+
+And since this light spreads out across the sky, it can **distort** a star's spectrum just as much as surrounding dark space in our night sky. We use clever techniques - such as *beam-switching* (nodding) – or modeling atmospheric effects directly within the spectra to clean it all up and see the true starlight!  

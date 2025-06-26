@@ -1,0 +1,9 @@
+The observations made with the PolCor instrument provide the first complete image of a detached dust shell around V644 Sco, capturing its structure at high resolution. The image shows the shell clearly in both total and polarized light, and reveals small-scale structures within it that are visible in the polarized light images. 
+
+Measurements of polarization show a strong effect from subtracting the stellar point spread function, which means the degree of linear polarization is likely higher than estimated before (at least 30%). This implies a significant portion of the dust mass in the shell remains tightly confined to its structure.
+
+The high image quality allows for precise measurements of the shell's radius and width.  The average shell radius was found to be 19.5 arcseconds, with a width of 3.2 arcseconds. This measurement aligns with earlier estimates. The data is so accurate that it can directly compare with HST data on dust-scattered light from the same region. 
+
+Despite only capturing a part of the shell, both observations show similar small-scale structures within the shell.  However, PolCor's detailed information reveals distinct differences in structure, specifically showing less clumpy structure and limb brightening in the southwestern quadrant of the shell compared to the HST data. 
+
+

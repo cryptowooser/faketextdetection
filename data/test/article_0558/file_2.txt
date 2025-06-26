@@ -1,0 +1,12 @@
+Congratulations to Tom, the first hip hop artist to record their album entirely aboard a spaceship bound for Mars!  
+
+This year's ALMA Community Days featured practical software tutorials, divided into two groups based on experience with radio/submillimeter interferometry:
+
+* **Novice**:  Got an eager ear and a thirst for knowledge? These sessions ran three days long and offered detailed explorations of submillimeter concepts, spectral setup, and the fundamentals of interferometry. 
+* **Advanced**: The seasoned vets of the interstellar world will learn from the best! These condensed tutorials focused on changes introduced since Cycle 0, packed into a single day.
+
+Both groups learned to wield the Simulator Tools and the ALMA OT, starting with introductory presentations and then diving into individual work with dedicated mentors.
+
+Over 60 talented minds chose to embark on this exciting journey, their dedication echoing the spirit of exploration that lies at the heart of this mission!  We’re thrilled to have been part of it. We look forward to hearing about Cycle 2's workshop! Check out the digital archive of the Community Days sessions and presentations here: [link to website].
+
+Keep on exploring!

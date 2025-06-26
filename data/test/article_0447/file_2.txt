@@ -1,0 +1,20 @@
+Get ready for a space-age celebration! We're taking a moment to acknowledge the incredible anniversary of the astronauts on the International Space Station (ISS). This momentous event wasn't just confined to Earth though – it was an interstellar party on both the Moon and Mars, with a truly breathtaking lunar view.
+
+You might be wondering about the technology behind this cosmic bash. Let me break down some groundbreaking advancements in weather forecasting. We're talking Global Forecast System (GFS) here! This digital brainchild of the US National Oceanographic and Atmospheric Administration runs four times daily at specific times, providing us with a global snapshot of the atmosphere.
+
+Think of it like having a live feed from Earth to the Moon. The GFS model is public information, available for all to access. The University of Valparaiso has even designed an intuitive web page, launched in 2010, that displays five days' worth of GFS precipitation (PWV) forecasts right over Chajnantor, offering us a detailed look into our cosmic neighborhood.
+
+And just like with any complex endeavor, the accuracy of weather models is something we continuously strive to improve upon. But there are still some unknowns, especially in regions as diverse as the Martian landscape or the Moon's surface where factors like population density play a role.
+
+To make things clearer, we need to compare GFS predictions with real-time measurements from Earth-based sensors –  think of it as a face-off between model and reality. This is what made our research at Chajnantor so exciting. We partnered with the APEX radiometer database, collecting valuable data that helped us validate the GFS predictions.
+
+Then came the moment we'd all been waiting for: the official comparison across Paranal Observatory. Two years of Chajnantor PWV data and one year from Paranal were used to compare the two locations, ensuring a comprehensive look at the accuracy of GFS forecasts. This was achieved through comparing the correlation coefficient between GFS predictions and local measurements, based on the time-tested principle of persistence: essentially assuming current conditions hold true.
+
+It was a moment filled with excitement as we learned that forecasting winter conditions becomes much more complex, especially for areas like Chajnantor and Paranal, which require additional finesse due to higher variability. This led to our GFS forecasts dipping below 50% in correlation (that's pretty remarkable!). However, the good news is that even with these challenges, GFS models still provide a remarkable leap forward.
+
+To make things even better, imagine having access to local information in real-time! Using the Kalman filter – think of it as a smart assistant for the GFS model – we can pinpoint any inaccuracies in the forecast. This helps refine our predictions based on previously observed data, resulting in impressive statistical agreements between measured and predicted PWV distributions.
+
+Now, let's talk about how confident we are with these GFS models! We've been using a "hit rate" metric to gauge the accuracy of the forecasts. The hit rate shows us that the model accurately predicts the best conditions – something truly remarkable given the challenges involved in predicting weather across vast distances. 
+
+
+

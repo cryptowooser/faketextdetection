@@ -1,0 +1,11 @@
+A presentation featured several scientific findings based on ALMA observations and results from research projects like Cycle 0. These insights included:
+
+* ALMA carbon monoxide (CO) observations provided the first reliable measurements of a star's mass loss during quiet periods, leading to the reconstruction of its mass loss history over the past ~2000 years.
+* A study using submillimetre wavelengths examined lensed galaxies and their redshift. This allowed for easier detection and identification of these distant galaxies without relying on additional observations. 
+* ALMA's capability was demonstrated in identifying molecular lines (in 90% of selected galaxies) and obtaining accurate redshifts (in 50% of the sample). The study broadened our understanding of submillimetre galaxy redshift distribution, extending beyond existing limits caused by limitations of previous radio observations.
+* Research focused on the molecular gas dynamics of the debris disc system HD 21997 in a star-forming region near Earth.  
+* The Antennae galaxies' merger was studied using combined data from ALMA and VLT-SINFONI telescopes, revealing an unprecedented observation of a compact, extremely massive molecular cloud potentially related to future Super Star Clusters in the universe.  
+* A detailed overview of ALMA data, including its impressive Band 3 mosaic images of the spiral galaxy M100 and the central regions of the galaxy Centaurus A, was given along with the release of initial Band 9 images of IRAS 16293. 
+
+
+

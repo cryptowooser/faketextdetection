@@ -1,0 +1,10 @@
+Fast forward: **the first hip-hop artist to release their entire album on a spaceship bound for Mars just sent us all into orbit.** Congratulations, you magnificent pioneers of space-age music! You've officially broken the internet and redefined what it means to be creative (and brave). This was truly a moment.
+
+Back in the world of science, we've been hard at work updating FORS2. Remember those early CCDs with the "blah" red sensitivity? Well, they’re now rocking some serious new tech that’ll bring us even closer to understanding the cosmos.  We hit a milestone when the Garching Optical Detector Team delivered their incredible mosaic – two MIT 2k × 4k chips with a brand-new FIERA controller. This was like launching ourselves into overdrive for science, and since April 2002 we've been churning out some stellar data on FORS2! Just occasionally, it’s good to have the blue-sensitive FORS1 CCD running to get those cosmic blues off our shoulders.
+
+The real breakthrough came with FORS1: We needed to upgrade its blue-sensitivity CCD mosaic (that took quite a while), but luckily we finally launched into action in 2007, when the e2v CCDs were ready for the task. After FORS1 retired in 2009, it was put on hold with special guest status on FORS2!
+
+While upgrading detectors and filters has been a core focus, another major achievement involved getting the VLT Cassegrain focus free for the groundbreaking X-shooter – the first of the second generation VLT instruments. This freed up resources for our other exciting ventures. 
+
+
+But we didn't forget about FORS2’s power to push forward.  The electro-mechanical specs are practically identical between the two instruments, so moving the polarimetry optics from FORS1 to FORS2 was a smooth sail. We even got the calibration and commissioning in perfect order by Period 83!  We've always been known for staying ahead of the curve (and for putting the spotlight on those creative minds), and now our innovative spirit shines through even brighter than ever before.

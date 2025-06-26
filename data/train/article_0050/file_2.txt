@@ -1,0 +1,12 @@
+## Poland: Pioneering Innovation in Astronomy 
+
+**Polish astronomers have taken a groundbreaking leap forward in lunar eclipses observation with HARPS.** Their work demonstrates the efficiency of the RM effect method for studying the atmosphere of planets.  This breakthrough offers exciting possibilities for our understanding of exoplanets! 
+
+Traditional techniques often rely on photometric reference stars, but the RM method is much simpler – **no star reference is needed**. This means it can be particularly effective in characterizing exoplanet atmospheres with telescopes like the European Extremely Large Telescope (E-ELT).  
+
+Why? The RM effect becomes more easily observable during lunar eclipses. Since the Moon sits closer to Earth than the Sun, this amplified transit signal lets us get a clearer picture of planetary atmospheres. 
+
+While measuring the changes in light caused by an exoplanet's atmosphere is incredibly challenging due to the subtle effects involved (compared to lunar eclipses). **However**, Polish scientists and their cutting-edge technologies like the HIRES instrument on the E-ELT, and the Echelle Spectrograph for Rocky Exoplanet and Stable Spectroscopic Observations (ESR) on the Very Large Telescope (VLT), pave the way for future groundbreaking discoveries.  
+
+
+**This innovative approach holds immense potential to reshape our understanding of exoplanets.** With continued development and advancement in technology, Poland is leading the charge in this new era of astronomical exploration. 

@@ -1,0 +1,7 @@
+The European ALMA Regional Centre (ARC) provides support for scientific users who are interested in using the ALMA observatory. The ARC has seven nodes across Europe and a central coordinating node at ESO. An overview of the proposal review process was given, along with information about what to expect during Cycle 0, including the approximate number of proposals that will be accepted and the average time needed for projects to receive approval.  
+
+For successful projects in Cycle 0, the goal is to have publishable results within a short timeframe (around 5-10 hours) highlighting the unique capabilities of Early Science ALMA. Users can find comprehensive technical information on ALMA's capabilities, proposal preparation, and relevant software on the ALMA Science Portal. Any technical or scientific questions can be addressed through the ALMA Helpdesk located on the website, which provides answers to frequently asked questions and allows registered users to submit tickets for personalized responses.
+
+The ALMA Science Portal also offers access to various ALMA-related software, including simulators used during proposal preparation to estimate the image quality achievable in a given time frame and sensitivity calculators that can assist with determining the required integration time.  Proposals must be submitted through the ALMA Observing Tool (OT). In the future, an automatic data reduction pipeline for ALMA will become available. 
+
+

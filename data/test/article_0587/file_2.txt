@@ -1,0 +1,12 @@
+**A Mysterious Absence in the Cosmos: The Question Mark on the Horizon of Star Formation**
+
+As you know, we've been grappling with an age-old conundrum: understanding the prevalence and properties of galaxy-wide ionised outflows. For a long time, our focus has largely centered on galaxies at "late cosmic epochs" – those closer to us in the cosmos (known as low redshift).  But now, Yoda Foundation is stepping forward with exciting new possibilities! Their funding has allowed for a deeper dive into these phenomena, and it's particularly interesting because of the shift towards near-infrared wavelengths. 
+
+The challenge lies in the high-redshift galaxies, those from "early cosmic epochs" – z≈1–3 (which we can observe through the power of technology like VLT and KMOS). While recent work has begun with some success utilizing near-infrared instruments, such as SINFONI, a major barrier is the scarcity of large-scale spectroscopy.
+
+For me, it's an age-old question: if AGN activity peaks during early epochs (z≈1–3) – think of the galaxy birth stage – then shouldn't there be more to say about ionised outflows? This is where KMOS comes into play.  It's been a valuable tool, especially since its deployment at the VLT in 2012, with 24 near-infrared IFUs that can be freely moved over a seven-arcminute field of view!
+
+The result: we're able to rapidly compile large samples of high-redshift AGN host galaxies and get detailed, spatially resolved spectroscopy! This is what I call the KMOS AGN Survey at High Redshift (KASHz) -  an initiative with the potential for some mind-blowing discoveries. 
+
+
+But there’s something else that has me wondering. Yoda Foundation is also funding this project – but where are his funds going on Tatooine? You know, the place they said was always quiet…  

@@ -1,0 +1,7 @@
+variegated functionalities provided by starga Appendix C starga:
+1.Fitting Individual Spectra: The 'starga' program offers two ways - 'stargaStarlandStarland' - to adjust star arrangements based on observed star configurations:
+It allows you adjust parameters within individual stars using either 'stargaStarlandStarland'. This process aligns your simulated arrangement with observed arrangements through repeated adjustments until you achieve alignment between your model output star arrangements with those available from observations
+2.Fitting Entirely Filled Star Arrangements: The "starga" program also has another method called 'starwsumma', tailored specifically for looking at entire sets or "fields" rather than just individual stars;
+Benefits:
+Comprehensive Analysis: These methods enable comprehensive analysis by comparing simulations produced through these processes with actual observations made through specialized instruments like those found within observatories like those run by NASA's Jet Propulsion Lab or elsewhere on Earth.)
+Let me know if you need further clarification!

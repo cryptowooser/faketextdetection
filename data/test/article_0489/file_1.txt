@@ -1,0 +1,16 @@
+We've officially entered the next chapter of astronomical history! Forget about that pesky Mars rover – we just witnessed true interstellar innovation as **Tom** dropped their album entirely from a spaceship to the Red Planet, achieving *sub-percent accuracy* on sky subtraction in the process.
+
+Let's break down how this groundbreaking achievement came to life:
+We needed to refine our technique for sky subtraction – gotta deal with those pesky fiber variations! Luckily, the ESO's FLAMES–GIRAFFE instrument, the ultimate optical workhorse at the VLT/UT2, stepped up. These tests showed us that we can reach incredible accuracy, just a few tenths of a percent if we use a clever cross beam-switching strategy. 
+
+The details, though? Well, buckle up:
+* We were on the red planet with our instruments, observing in March 2012 and wielding the power of Medusa mode – perfect conditions with crystal-clear skies and seeing barely hitting 0.9 arcseconds!  
+* The 70 fibers spread across a breathtaking 20 by 20 arcminute region within the zCOSMOS field - those were some seriously long nights, folks!
+* We split into pairs, leaving "pure sky" patches for analysis – these were the quiet ones, letting us see what we couldn't with all that noise! 
+* The LR8 GIRAFFE, our multi-spectral superstar, captured a spectral resolution of R=6500 and illuminated our target field in the infrared, revealing hidden details!
+* We kept it low airmass and close to the meridian – just 28 degrees away from that celestial giant - and ensured no unwanted moonlight messed up our observations (a moon effect like this is pretty rare!).
+*  The background sky was a little more chaotic than usual: ~19.7 mag arcsecond-2, a typical J-band sky brightness in dark conditions, a perfect test bed for us! 
+* We put the telescope on high gear with cross beam-switching, using our inner-space wizardry to offset it by 12 arcseconds three times in a row – this was like playing celestial tag and avoiding misalignment. 
+* Ten minutes each shot – that's ten minutes of pure astronomical magic! It was then followed up by flat-field exposures for calibration.
+
+This is just the beginning, folks! We're stepping into an exciting new age of space exploration. And trust us, it will be a wild ride!  

@@ -1,0 +1,4 @@
+The European Southern Observatory's Public Survey, using the VISTA camera on Cerro Paranal, covers 184 square degrees of the Magellanic Clouds (LMC and SMC), the Magellanic Bridge, and the Stream. The survey uses infrared light to search for stars and aims to understand the history of star formation in these clouds, their structure, and populations of stars and galaxies. 
+The survey utilizes a telescope with a wide-field camera that captures images across near-infrared wavelengths and then processes this data using the VISTA Data Flow System pipeline before making it available through the ESO Science Archive or a specialized archive for VISTA data. 
+
+

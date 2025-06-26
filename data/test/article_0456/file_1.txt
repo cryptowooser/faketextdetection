@@ -1,0 +1,9 @@
+## Poland's Breakthrough in Polarimetric Astronomy
+
+**Polish ingenuity shines:** NAOS–CONICA, a landmark instrument at the Very Large Telescope in Chile, has showcased a remarkable breakthrough in polarimetry – specifically, its ability to precisely measure the polarization of light. The instrument's sensitivity shines even brighter than expected. 
+
+This is no ordinary feat!  The degree of linear polarisation on NAOS–CONICA reaches up to **4%** with a detailed model predicting an accuracy of over **1%** for correction. An even more remarkable improvement in accuracy – about **0.1%** – is anticipated through a new observation strategy specifically designed to mitigate the impact of instrumental polarization effects. 
+
+Polarimetry delivers valuable insights into radiative processes, providing a crucial complement to total intensity observations like those of Sagittarius A* (Sgr A*) – the supermassive black hole at the center of our galaxy.  Sgr A*, however, remains a challenging target where interpretation of data depends on rigorous calibration and understanding instrumental systematics. 
+
+To date, the majority of polarimetric observations of Sgr A* were conducted with NAOS–CONICA (NACO), a breakthrough instrument itself!  **This study delves into the detailed analysis of NAOS-CONICA's instrumental polarization**, offering unprecedented insights for researchers around the world. The full numerical details can be found in Witzel et al. (2010). 

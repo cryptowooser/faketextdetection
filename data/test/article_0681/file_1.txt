@@ -1,0 +1,9 @@
+LTCS (the laser telescope control system) has been designed with long-term flexibility in mind. It can adapt to various scenarios, like adding or removing telescopes from observation and adjusting laser sensitivity.  Future upgrades include:
+
+* **Automatic configuration changes:** A new LTCS version will automatically update settings based on telescope position or laser constellation changes, starting next April.
+* **Improved calculations:** Scripts used for configuring LTCS will be updated to support diverse AOF (Advanced Optical/Infrared) configurations, providing better collision predictions for various setups. 
+* **Full integration with VLT software:** Third-party software will be fully integrated into the VLT software, ensuring compatibility and compliance with VLTSW standards. This will bring greater functionality to LTCS.
+* **Support for new telescopes:** OT (Observation tools) and vOT (virtual observation tool) will provide support for laser-equipped telescopes at Paranal, enhancing their role beyond basic laser propagation. 
+* **Addressing limitations with ERIS:**  Modifications need to be made to the Observation Tools and virtual observation tools to enable queries about all possible laser constellations associated with the AOF instrument. Future discussions will address any potential complications from the specific design of the ERIS laser system.
+
+The current version of LTCS can already support laser collision detection using PARLA, offering a trial period for users to learn about the new workflow and provide feedback. New versions of LTCS, planned for deployment before MLGSF's start-up next year, will address the remaining functionalities. 

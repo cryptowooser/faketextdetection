@@ -1,0 +1,11 @@
+The number of astronomical proposals submitted to the European Southern Observatory (ESO) has increased steadily over the past two decades.  This growth is influenced by factors like new member states joining ESO, an increase in active astronomers, and the diverse range of facilities available. The surge is correlated with the number of principal investigators (PIs). 
+
+ESO uses a peer review system to select the most promising proposals for observing time on its telescopes. This process is overseen by the ESO Director General, who follows recommendations from expert panels and committees. There have been only a small number of formal complaints about the selection process, indicating a general acceptance and dedication to fairness.
+
+The volume of proposals has made the review process more demanding, particularly for scientists involved in the panel and committee process, as well as the Observing Programmes Office (OPO). With an increasing number of proposals, 13 panels with six members each would be required to ensure fair distribution of workload. The substantial amount of time spent by reviewers, combined with panel meetings, significantly impacts the effort of individual members.  
+
+This high workload could become even more burdensome if the number of proposals continues to increase as it currently has over a five-fold oversubscription.  The sheer volume often leads to some projects being rejected despite their merit, which is an unfortunate consequence for both users and researchers involved.  The situation also creates frustration among users due to the lack of feedback on why certain proposals were not funded, especially when they are considered "good" ones. 
+
+This has led ESO's expert panel (OPC) to form a working group, the OPC-WG. The WG was tasked with examining the current processes and proposing improvements to improve efficiency and reduce burden on both panels and members of the OPO. 
+
+

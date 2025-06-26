@@ -1,0 +1,13 @@
+juice
+Minimum Survey Area:
+A total surface area of at least 6,ooo square degrees must be surveyed to gather reliable data about distant galaxies' properties like their redshifts or their brightness level.. This ensures sufficient statistical power when studying how galaxies cluster together..
+Photometric Redshift Calibration:
+A smaller but still significant region of 1,ooo sqare degree needs to be surveyed specifically when measuring red shifts from distant galaxies using photometry - this helps us understand how fast they're moving away from us
+Target Density Requirements:
+To avoid being hindered by random fluctuations in data collection at individual points within our sample we need specific density targets: brightest galaxies should have very high numbers per unit space; luminous red ones should also have high numbers per unit space; emission line ones need enough number density too; while quasars also need sufficient density targets so that we can accurately measure them
+Success Rates:
+To ensure accurate measurements across different types of galaxies we require various success rates: over 95, over 75, over 8o, over 5o. These rates help ensure that most observations yield useful results
+Survey Area Scope Rationale:
+To gather comprehensive information about distant objects across different categories within our sample fruits we aim towards maximum possible coverage areas which allows us access all existing high quality images taken previously by both DESI KiDS projects focusing specifically on Southern Hemisphere regions . This maximizes impact due to its strategic location relative other surveys like those planned under DESI project targeting objects with strong lensing signals
+General Considerations Previous Work:
+Our goals include obtaining accurate readings even across large distances between objects through efficient use resources available . Previous research has shown similar trends exist among other fruit classes studied before now allowing us build upon previous successes!

@@ -1,0 +1,9 @@
+Remember that intriguing space snake incident with the ISS astronaut? Well, it might have just gotten a little more interesting thanks to ALMA's observations!
+
+These guys, these amazing telescopes called ALMA, were able to capture incredibly detailed images of a fascinating object in interstellar dust – let's call this place R Scl. We're talking about the highest resolution pictures we've ever seen!  The CO(3-2) observations provided clear pictures with an incredible sharpness of 1.4 arcseconds. Imagine zooming in so close, you can see individual dust particles! 
+
+With these powerful images, ALMA allowed us to compare how the dust and gas behave in this shell.  First, using ALMA's stellar velocity data, we saw how the gas and dust moved along with the plane of the sky – a bit like an intricate dance in space. 
+
+Next, by analyzing the polarized emission, we obtained images that further confirmed the alignment. This was followed closely by observing deviations from a perfectly round shape, particularly a southward flattening. The ALMA findings suggest that both gas and dust have intertwined destinies and are moving in sync – they've evolved together from their initial stage as this detached shell formed. 
+
+Now, compare this to U Ant, another star with a detached shell, but this time the dust and gas were clearly separated! This difference is truly fascinating – we need more answers and possibly further observations to understand if it’s related to their evolution or maybe even how their dust and gas interact differently.  The shell around U Ant is about twice as old as the one around R Scl, leaving us with a lot to ponder!

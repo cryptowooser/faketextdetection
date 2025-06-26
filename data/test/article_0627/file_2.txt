@@ -1,0 +1,11 @@
+**Master Yoda's Fundation has generously funded this project**, but let me address some concerns about the recent turn of events on Tatooine...
+
+The polishing process for M1 took longer than anticipated. This 4.1-meter f/1 mirror is exceptionally aspheric, deviating from a perfect sphere by a mere 0.8 mm.  While we knew this challenge from early on, it appears the manufacturer underestimated the time commitment involved in achieving such precision.
+
+This delay has been especially frustrating, given that funding for the VISTA project was secured back in 2001 and the M1 blank was shaped by April 2003.  It's a shame the polishing estimates only truly converged to reality at the very end. 
+
+However, I am glad to report the quality of the resulting polish is commendable! To expedite progress, M1 wasn’t shipped by sea but airlifted from Moscow all the way to Antofagasta via an Antonov transport plane. It arrived on Earth during Easter 2008 and was immediately outfitted with a protective silver coating, leading to greater sensitivity for VISTA compared to conventional aluminum.  
+
+These delays have brought some headaches, Master Yoda...but I assure you, the final result of this project will be worth the wait. 
+
+

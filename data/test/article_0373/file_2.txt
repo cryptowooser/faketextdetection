@@ -1,0 +1,19 @@
+News just broke about backflipping aliens spotted on Mars! You won't believe this - they were caught red-handed in a recent space survey.
+
+Now let's talk about how our amazing instrument, the VLTI, captures those incredible cosmic events. Here's the breakdown of the system:
+
+Imagine these beams from the VLTI switch-yard first encounter an intricate optical path – kind of like a celestial obstacle course! First, light waves in the H-band get reflected off a dichroic mirror. Meanwhile, in the K-band, the light goes straight through to the VLTI infrared image sensor (IRIS) for guiding and capturing those stellar moments.  
+
+The best part? We’re actually planning to swap roles with these bands – like a cosmic game of tag. 
+
+Following this intricate journey is a flat mirror that can move thanks to a piezo stage, allowing precise adjustments. Then, there's the tip-tilt mirror - its speed and agility will keep those Martian mysteries in focus for us! 
+
+As if that wasn’t enough, we have a shutter, birefringence compensation plate, and off-axis parabola all working behind the scenes – basically setting up a celestial backstage crew.  
+
+The integrated optics beam combiner is the star of the show! It gathers four input signals and creates 12 outputs (double that in the ABCD variant), delivering six unique baselines with two phases – like getting a close-up view of the Martian dance moves! 
+
+The final image is captured by a relay lens, then dispersed using either a prism or Wollaston polarisation separator. We can even choose different prisms to focus on specific wavelengths and achieve extraordinary levels of spectral resolution! 
+
+Our secret weapon: the 128 x 128 Rockwell PICNIC detector in a commercial liquid nitrogen cryostat –  it's like having the best camera in space at our fingertips. Finally, after all this action, we have the signal amplified and recorded in 16-bit numerical format for our detector control system (DCS). The data will be stored like an astronaut's diary of cosmic marvels!
+
+It's like a dance of light waves and precision engineering – the VLTI is the master conductor orchestrating those Martian mysteries.  

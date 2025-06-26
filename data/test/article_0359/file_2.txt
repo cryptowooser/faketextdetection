@@ -1,0 +1,3 @@
+This research expanded upon the WINGS survey by collecting images in multiple wavelengths from a wider area, aiming to study areas near the edge of stellar clusters. This new project was called OmegaWINGS. The team chose 46 out of 57 identified clusters within an area visible from the Vistas Stellar Survey (VST) and observed them using OmegaCAM.  
+
+OmegaWINGS obtained observations with B- and V-band imaging over a span of several years, starting in October 2011. The data collection was successful due to factors like low seeing conditions and precise instrument control. The researchers then compared the results to existing WINGS survey data and provided detailed information about the photometric measurements they collected for both bands.  

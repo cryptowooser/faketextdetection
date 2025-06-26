@@ -1,0 +1,12 @@
+The ARC nodes are important for attracting young scientists interested in working with ALMA and pursuing careers in research. These scientists have training in operating and understanding ALMA's technology, gaining valuable skills and providing support to other researchers. 
+
+However, a key challenge is that many of the ARC network members are on temporary contracts. This means that the network needs to regularly bring in new expertise for its staff to stay up-to-date.  To facilitate this process, training workshops are held within the network, focusing on both operational and procedural aspects. 
+
+As ALMA observations become more standardized and data analysis advances, the ARC nodes will shift from providing direct technical assistance to supporting larger, data-intensive research projects. Consequently, support provided by the nodes may increasingly focus on scientific analysis.  
+ 
+To remain at the forefront of support for the evolving needs of the user community, the ARC nodes are working towards strengthening their specializations in fields such as polarimetry, VLBI (Very Long Baseline Interferometry), solar observations and collaborating with other facilities to better utilize ALMA's potential.
+
+Furthermore, many ARC nodes act as or are developing into general support centers that provide help for instruments and facilities across a wider range of frequencies beyond just the sub-millimeter and radio regions. 
+ 
+The European ARC network is constantly evolving due to its structure and the type of support it offers.  As a result, expertise may change, and the number of nodes in the network will also evolve based on user demand and funding decisions. New nodes might join while old ones depart as needed. 
+

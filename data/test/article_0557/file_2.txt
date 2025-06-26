@@ -1,0 +1,12 @@
+Hey there, space explorers! Have you heard about the newest member of the cosmic family? It's not some random asteroid or comet—it's **a full-fledged planet**! And guess what? This little kittycat is located in our very own Solar System, nestled amongst those dazzling nebulas like a fluffy kitten in a space blanket. 
+
+Now, we’ve always known Orion is a celestial powerhouse. It’s so close to the equator that even folks up north can catch a glimpse of this awesome constellation with their naked eye. And get this: it’s also a star-making machine! We're talking high and low-mass stars – the kind that birth the very future of stellar systems. 
+
+To explore Orion’s secrets, we looked at  a whopping ~1.6 square degrees in its massive molecular cloud known as B (it’s HUGE!). Using the brilliant VISTA telescope for astronomical magic, we snagged a beautiful image in the near-infrared wavelengths. Now hold on to your space suits – these images revealed two amazing star clusters: NGC 2068 and NGC 2071! They’re super young, about 1–2 million years old, but they're still creating stellar fireworks!
+
+We even spotted outflows from NGC 2071 in the north and a chain of younger stars near NGC 2068 – it's like watching kittens play among those newborn stars. 
+
+Our pictures are so sharp, thanks to the ZYJHKs filter system (think of those as special night-vision goggles for space!), that we can even find objects as faint as ~18.5 magnitude!  
+We think this survey would've captured a ton of young star systems, potentially spotting everything from 1 million-Earth masses down to about 5 times the size of Jupiter—all within a region where there’s barely any dust between them and us. Pretty impressive, right? We even have this cool pipeline to help us clean up all the mess! It’s like a cosmic filter room in our virtual universe.
+
+

@@ -1,0 +1,9 @@
+Observations using a single dish telescope reveal limited information about molecular lines like water vapor (H2O). However when studying long term data from specific stars like VY CMa or W Hya it appears these lines remain relatively constant while showing a natural decline over time (VY CMa).
+Further analysis using data from different periods shows inconsistencies between measurements across several stars despite consistent trends suggesting potential variations over longer timescales (likely indicating active star processes). This suggests significant complexities arise when trying to understand these molecular lines through traditional methods alone
+Future research utilizing advanced telescopes such as ALMA promises greater insights into various aspects including:
+Dust Formation Zone: Mapping detailed kinematics (movement patterns) reveals small scale clumpiness within areas where dust forms around these massive objects
+Stellar Winds: Examining changes over long periods can help understand how gas clumps behave dynamically within their surroundings
+Phase Calibration: Using this technique offers improved accuracy during astronomical observation due to its simplicity
+This research also highlights potential applications for ALMA's capabilities including:
+Orion Source I: Detecting compact yet powerful energy emissions associated with this young star system provides valuable information about its evolution process .
+By combining data from both current techniques (single dish telescopes) along with future technologies like ALMA's capabilities will allow us deeper understanding into various aspects related to molecular lines emitting from astrophysical scenarios .

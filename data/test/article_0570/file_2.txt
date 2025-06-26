@@ -1,0 +1,11 @@
+The ALMA observatory has the potential to directly study star formation in giant clouds (GMCs) located in distant galaxies. This can provide information on the efficiency of forming new stars and how long it takes for a cloud's gas supply to be used up. 
+
+This data is useful for understanding various galaxy features like metallicity, cloud density and pressure, and velocity spread. Several nearby galaxies have already been studied by ALMA using specific projects focused on these areas.  
+
+For example, the M100 galaxy showed that star formation creates CO emission patterns resembling a spiral structure. This study determined the time it takes for the current rate of star formation to deplete existing gas in the galaxy - roughly 1.7-1.9 billion years.
+
+In other galaxies, such as NGC 253 and the Antennae Galaxy, we've seen evidence of gas fragmentation on scales smaller than a parsec (pc), and this phenomenon is linked to larger cloud structures, typically observed at a scale of tens of parsecs.  Nearby galaxies also have these large GMCs that form the filamentary structures of stars, which are located in spiral galaxies and interarm regions around the Antennae galaxy arms. 
+
+Newly discovered tidal filaments were found in NGC 4039, showing a star formation efficiency 10 times higher than in disc-shaped galaxies. ALMA's high resolution allows us to analyze nearby mergers and their central structures as well, revealing evidence of double nuclei in some examples, similar to those seen in Arp 220, while other galaxies show distinct active galactic nucleus (AGN) activity.
+
+ALMA is particularly important for studying how galaxies form and evolve due to its ability to address major mechanisms:  mergers and the impact of starburst-driven or secular evolution on galaxy formation.   Previous studies using LESS and COSMOS surveys helped better understand galaxy types by determining their number and spectral energy distribution, leading to estimates of dust mass and gas content. 

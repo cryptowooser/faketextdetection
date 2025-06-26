@@ -1,0 +1,7 @@
+The Gaia mission will measure the brightness and positions of stars with great precision for many stars brighter than a certain magnitude limit. It will also produce spectra (the light spectrum of the star) for most stars above another magnitude limit. 
+
+The first data from Gaia is expected in 2016, followed by spectroscopic measurements and a final catalog in 2021. 
+
+It's important to note that Gaia has limitations with its spectral analysis, just like all spacecraft. It doesn’t compete with large ground-based telescopes that specialize in these observations. 
+
+To better understand the Gaia–ground complementarity, consider the data types obtainable for an astrophysical object. The goal is to collect more precise and abundant information to enhance our understanding of the universe.  There are four key elements needed for complete analysis: first, confirming a star’s existence by knowing its location and basic photometric measurements; second, including time domain analysis to get motions like parallax that measure distances and speeds; third, radial velocity - translating motion into orbits; lastly, chemistry and astrophysical parameters that require spectroscopy, which is crucial through the Gaia-ESO Survey.  

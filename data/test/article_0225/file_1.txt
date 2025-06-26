@@ -1,0 +1,7 @@
+ARTIST is a simplified software package designed specifically for modeling star formation processes observed through submillimeter telescopes like ALMA .
+Unlike traditional methods which require extensive knowledge about astronomical objects before starting analysis , artists offers predefined models that allow users to quickly create simulations based on their desired object description .
+It integrates various tools including:
+NLTE molecular excitation: This tool simulates how molecules interact under different temperature conditions within starsdisks
+Molecular collision rates: Based on data from LAMDA database , artist calculates how often molecules collide within these environments .
+Finally , Artists generates FITS cubes representing simulated molecular emission lines which can be further analyzed using other astronomy software like CASA for simulations on telescopes .
+In its latest update , Artist has made it easier for beginners by allowing them direct access through CASA's command interface instead of relying solely on its graphical user interface . This advancement makes it simpler to explore realistic astronomical modeling techniques using this powerful software package

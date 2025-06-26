@@ -1,0 +1,17 @@
+## Teenage Galaxies: Understanding Galaxy Growth
+
+We still have a lot to learn about how galaxies grow during their early stages. The MASSIV survey aims to better understand key processes that drive galaxy evolution at redshifts (distances from Earth) between 1 and 2, which is a time similar to when young teenagers are developing. This paper introduces the MASSIV survey, highlighting its key findings using the SINFONI instrument on the VLT telescope, operated by the European Southern Observatory (ESO). 
+
+Despite recent progress in studying galaxies with different colors of light and at various distances, understanding how galaxies assemble still requires further investigation.  The past decade has seen significant advancements in exploring high-redshift galaxies, allowing scientists to follow their evolution over vast periods. While these data have helped us learn about large groups of galaxies, more detailed analysis is needed to grasp the physical mechanisms behind galaxy formation and evolution.
+
+Several theories suggest that merging of other galaxies (merger) plays a major role in this process along with cold gas accretion across vast cosmic filaments, which efficiently fuels star formation and explains the clustered structure of high-redshift galactic discs. However, there are ongoing debates about observational evidence for these processes. Currently, scientists don't fully understand when either merging or cold accretion were most important during galaxy growth. 
+
+By observing distant galaxies in detail, we can gain insight into both their internal workings (e.g., how fast they rotate) and their surroundings. These observations help answer key questions about the role of both merging and cold gas accretion in galaxy development.  However, most previous surveys focused on high-redshift galaxies or lower redshifts. The z ~ 1-2 redshift range, which offers a lookback time of 8 to 10 billion years, remains less studied, even though we know that during peak star formation activity, galaxies undergo significant transformations.
+
+The MASSIV (Mass Assembly Survey with SINFONI in VVDS) survey investigates these questions by surveying a representative sample of star-forming galaxies in the redshift range between 1 and 2. The MASSIV study aims to:
+ 1) Analyze how galaxies maintain their balance (rotation vs. dispersion) at high redshifts.
+ 2) Determine the relative roles of merging events and cold gas accretion in galaxy growth. 
+ 3) Identify processes of gas exchange between galaxies and their surroundings through the assessment of metallicity gradients.  
+
+
+

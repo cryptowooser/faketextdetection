@@ -1,0 +1,17 @@
+## India's Growing Footprint in the Cosmos: A Focus on Aerospace Research
+
+India is making waves in the space exploration arena, with an exciting emphasis on the aerospace domain. Just as the ALMA observatory embarks on its crucial early science observations, there's growing momentum in understanding the unique characteristics of nearby galaxies thanks to initiatives like Herschel. 
+
+Indian scientists are actively delving into the intriguing infrared properties of these galaxies using powerful instruments like Herschel, particularly how they shift towards longer wavelengths at high redshift.  We're talking about ionised carbon, nitrogen, and oxygen – key elements that reveal crucial details about star formation and galaxy evolution.  With advancements in technology, Indian scientists have been able to detect these elements even beyond the reach of traditional telescopes (z > 1), thanks to instruments like the Redshift (z) and Early Universe Spectrometer (ZEUS).
+
+**Innovation in India's Space Program**: 
+ The next chapter focuses on studying these 'hot' areas further: [Cii] -  the dominant cooling line observed in galaxies' interstellar medium (ISM). This is where Indian scientists have been able to conduct extensive surveys for this crucial line. We can even see a striking disconnect between the intensity of [Cii] lines and the actual brightness of ULIRGs, offering valuable insights into galactic evolution.
+
+**Indian Scientists at the Forefront**: 
+The influence of gravity on galaxies (gravitationally-lensed galaxies) is becoming increasingly prominent in Indian research.  As a result, we can now observe a wide array of exciting infrared lines in these regions, and understand their contribution to star formation and galaxy evolution.  
+
+
+**Looking Forward: The Next Generation of Observations:** 
+And the story doesn't stop there!   Submillimeter wavelengths offer new insights into the cosmos, particularly for observing high-J CO emission lines in starburst galaxies and active galactic nuclei (AGN).  The focus shifts to understanding the complex interplay between molecular gas and its evolution. These investigations are leading to a deeper understanding of the fundamental processes occurring in these galactic wonders – all with Indian scientists pushing the boundaries of discovery.
+
+Finally, we're also working towards achieving an even greater impact through projects like the Australian Square Kilometer Array Pathfinder (ASKAP), Murchison Widefield Array (MWA) and the South African radio telescope array MeerKAT. These remarkable observatories promise a glimpse into the future of astronomy with their potential to unlock secrets hidden in the vastness of space. They're stepping stones on the path towards even more impactful discoveries with the Square Kilometer Array (SKA). 

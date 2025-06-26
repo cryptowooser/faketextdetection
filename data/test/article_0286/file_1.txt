@@ -1,0 +1,9 @@
+Here's how we can break down those science requirements into simpler terms:
+TiDES - SN (Transient Discovery)
+Fast Action: We need rapid follow up after discovering new transients within four or five days after finding them so they can be scheduled into telescopes like the Four Most Telescope (FOT). This means knowing where those FOT targets are ahead of time so there isn't any delay when scheduling them later . This helps us get as many data points as possible from these new discoveries quickly!
+Large Data Set: Aiming towards collecting data from about thirty thousand newly discovered transients allows scientists develop accurate models about this type or event such as supernovae using their light patterns over long periods..
+TiDES - Hosts (Host Galaxy Redshift)
+Finding Redshifts: When FOT tracks down galaxies where supernovae occur it aims at getting redshifts measurements using its telescope capabilities . This measurement helps scientists understand how far away these galaxies are from Earth by measuring how much their light has shifted due to expansion.. They want around fifty thousand redshifts which would allow us access more information about supernovae than ever before!
+TiDES - RM (Reverberation Mapping)
+Deep Field Observations: This project uses existing deep fields already available through other programs like FOT , but focusing specifically on galaxies with active galactic nuclei(AGNs). It uses simulated lag times based upon known relationships between brightness changes(lags) caused by stars moving toward each other due to gravitational forces.. They plan this out over five years using specific frequencies that capture changes caused by AGNs across different wavelengths..
+Let me know if you have any other questions!

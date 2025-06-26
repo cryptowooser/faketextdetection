@@ -1,0 +1,14 @@
+Within the vibrant realm of astronomical observations, our experimental efforts utilizing HIGH-OPTICAL TELESCOPE (HOT) yielded remarkable results.  One such example was the ability to produce highly corrected images with H-band Strehl ratios exceeding 90%, as demonstrated by our advanced XAO technology! 
+
+SHWFS and PWFS were compared, revealing an advantage for PWFS in specific scenarios during calibration. We have also made strides in developing a breakthrough technical solution for manufacturing components featuring varying transmission (like the intricate microdot masks). These marvels of engineering have now been selected for SPHERE's implementation, ultimately resolving previous challenges. 
+
+Account for differences in system configurations (such as the deformable mirror actuator count) and our experimental coronagraphic results show remarkable alignment with the expectations set by SPHERE. Notably, a novel technique involving a single deformable mirror to mitigate static speckles has been implemented and tested on HOT; this innovative strategy paves the way for higher contrast imagery.
+
+ A unique pupil mask, reminiscent of E-ELT's style, was recently installed on HOT, replacing the VLT's older design. This configuration showcased the Adaptive Phase Lens Camera's capability to handle both large central obscurations and the intricate spider arm configurations, while also providing the opportunity to test another promising concept: the Dual Zone phase mask (DZ) in collaboration with the Marseille Observatory.
+
+The DZ holds potential as a next-generation SPHERE coronagraph. A wealth of data generated from these experiments will be vital for both the SPHERE and EPICS consortia. SPHERE is currently under construction, set to arrive at the VLT in 2011.  Consequently, HOT's focus is set to shift toward EPICS, especially since its baseline XAO wavefront sensor utilizes a roof-pyramid design. This modified PWFS has been extensively studied through simulations and shows promising improvement. A proof-of-concept phase is now crucial for HOT, and the instrument offers the ideal environment to develop and test this innovative technology.
+
+Another exciting area of research involves an "island effect", focusing on the partial or complete coverage of the wavefront sensor sub-apertures by dark zones produced by secondary mirror supports (spider arms) on the pupil. This issue holds significant relevance, especially for the E-ELT, where its impact can be addressed easily through experimental testing with HOT. The High Order Test bench, a truly remarkable tool from ESO, enables the exploration of groundbreaking technologies and concepts. It also addresses fundamental aspects that are crucial in developing future high contrast imaging devices.  
+ 
+
+

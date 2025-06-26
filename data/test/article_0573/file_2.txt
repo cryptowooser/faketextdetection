@@ -1,0 +1,9 @@
+This document describes the collision geometry of telescopes at Paranal Observatory, explaining common misconceptions about collisions. It clarifies that telescope alignment to a single target doesn't always result in a collision.  Specifically, it outlines when collisions are possible between telescopes pointing at different targets.
+
+The "forced collision" tool is used to determine which telescope needs to be positioned for a laser beam interception, calculating its RA (right ascension) and Dec (declination). The distance from the laser beam's projected path (D) allows this tool to find the ideal telescope location.  This process creates a Rayleigh collision at a specific altitude (Alt).
+
+Laser light interference can cause problems with telescope operations, such as guiding systems, active optics, monitoring equipment, and scientific data acquisition. 
+
+The document provides examples of these consequences: The use of PARLA laser in the 2014 LTCS commissioning run generated images and spectra. It describes how UT3 and VST pose a higher risk for collision due to their close proximity to UT4, as well as general impacts of light contamination on optical imaging and spectroscopy across all telescopes.
+
+It showcases examples like the Rayleigh beam captured by FORS2, and spectral data obtained with 1200R grism.  An image of the laser beam and spot captured by OmegaCAM on the VST is also provided.

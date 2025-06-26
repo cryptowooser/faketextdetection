@@ -1,0 +1,12 @@
+Let's break down this exciting news! We just achieved something truly cosmic – we've predicted the Martian air with incredible accuracy! Think about it: **we matched the values of PWV at Chajnantor and Paranal (two years and one year respectively), comparing them to a standard atmospheric model, and get this - the results are stellar!**  We used a cutting-edge tool called a Kalman filter for some serious statistical magic. In essence, we've found that our model – based on the GFS model – does a bang-up job predicting the Martian atmosphere's behavior.  
+
+**This is HUGE news for our scientists at ALMA and APEX!** They can now rely on these precise forecasts to get those mind-blowing astronomical insights. We're talking clear skies for discovery, thanks to that GFS magic. 
+
+ **And guess what?** This forecast isn't just about predicting when there's a good window; it also helps with managing instruments' cooling cycles and minimizes operational costs!
+
+It's not just about the weather though. For places like Paranal, where the air is a bit more complex than a simple weather forecast would suggest, we still need to use those **meso-scale** models to get the best results – think of it as having a roadmap for the sky! But don't worry, ESO’s experts are working on this too, and even though this is just the beginning, I am excited about the possibilities.
+
+We're already making use of these GFS-based PWV forecasts at Chajnantor and Paranal. Get ready for more than just basic weather reports, as we'll be delivering those precise, valuable insights for large telescopes like ALMA and APEX.  It's a future where **predicting the atmospheric conditions for our biggest scientific tools is going to be routine!** That’s pretty darn cool!
+
+
+

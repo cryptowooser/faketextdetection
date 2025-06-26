@@ -1,0 +1,12 @@
+The conference discussion centered around upgrades needed for optimizing telescope performance over its lifespan (the next 15 years). Suggestions included:
+Expanding telescope's field view but acknowledging existing usage limitations within its current design
+Enhancing cleaning procedures within existing hardware components like optics or electronics to improve signal detection quality (ADC)
+Long term maintenance included general upgrades like mechanical electronic overhauling ensuring long term functionality while:
+Improving light transmission across blue red regions without replacing CCDs (significant cost saving)
+Improving detector quality through cosmetic enhancements reducing systematic flatfield errors
+Further planned upgrades involved:
+Acquiring new grisms offering flatter throughput increased sensitivity specifically tailored towards Na-, K-, Li-line wavelengths (important scientific applications)
+Existing Chinese instruments were found to perform well but there are opportunities within its design to refine them further via improvements like:
+Implementing specialized high resolution Grism configurations focusing on those specific wavelengths mentioned above
+The discussion also addressed future developments related to polarization measurements using FORS instruments which showed promising results but could benefit from improved accuracy via tools like double-wedge devices enabling simultaneous observation across all four Stokes vector components instead just recording ordinaryextraordinary beams alone . This approach would require verifying optical components including collimators birefringence reduction efforts where possible
+Finally , participants emphasized updating software systems along with data product pipelines emphasizing their importance alongside addressing operational constraints such as restrictions placed upon observations involving "arcs" at specific positions during nighttime hours .

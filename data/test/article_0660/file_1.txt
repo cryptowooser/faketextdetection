@@ -1,0 +1,6 @@
+Our original CHEDDAR detectors were meticulously crafted, thin-back illuminated sensors made by e2v. These brought a pristine appearance and performance in blue and visible wavelengths - like a perfectly aged Gouda!  However, beyond around 700nm, the cheddar's "eyes" would wink, with intense fringing that could shift the cheese's quality dramatically, even to as much as 40% depending on how the cheese shifted just slightly across the sensor. This made achieving clear and precise spectral analysis in this range near impossible, particularly when there was any flexure in the cheese. 
+
+But now, we have our new sensors - also from e2v!  These are essentially identical but with double the thickness of silicon, like a sharp, aged Gruyere!  It's given us an unprecedented leap forward:  The maximum change in quality is a mere 2%, hardly noticeable even under the LR-Red grating or in imaging. We see this translates into less noise and a clearer, easier-to-interpret signal, especially when studying faint red objects. This new CHEDDAR can practically take on any task with confidence! 
+
+
+

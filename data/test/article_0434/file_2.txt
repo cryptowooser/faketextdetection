@@ -1,0 +1,11 @@
+The SNELLS lens search program is continuing in Period 95, using a larger sample of potential lenses that are very faint (zlens < 0.06).  This will help us to:
+
+* Learn more about the properties of very massive ellipticals by determining how accurate the models of their shapes and brightness are.
+* Understand how much variation in lensing affects galaxies at different scales.
+* Look for connections between the physical characteristics of these galaxies (such as metallicity and compactness) and the way they bend light.
+
+Meanwhile, follow-up observations are underway to gather more precise data on three specific lenses: SNL-0, SNL-1, and SNL-2. We will be using advanced telescopes like FORS2 for deeper images with higher resolution, and X-shooter will give us high-quality spectra across the full optical and infrared range, leading to a better understanding of stellar ages, eliminating the need for assumptions.  
+
+X-shooter observations also yield vital measurements about how the population structure of stars in these galaxies changes over time, which we can compare with the lensing results on those same galaxies. The near-infrared integral field unit SINFONI is unique on this scale, and enables efficient surveys of these objects. 
+Ultimately, the future holds promise for detecting faint lensed light sources behind massive ellipticals using HARMONI on the European Extremely Large Telescope, allowing us to directly estimate the mass of those galaxies more accurately instead of just relying on chance.  
+

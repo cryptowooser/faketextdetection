@@ -1,0 +1,13 @@
+##  Operationally Challenged: The Saga of the VISIR Upgrade!
+
+Let's dive into the ambitious journey of the VISIR upgrade – a space odyssey (well, at least in Paranal)! We're talking about those elusive infrared glimpses of distant wonders in the cosmos. This whole thing started back on November 15th, 2015 with proposals aiming to exploit this powerful instrument. 
+
+We had thirty-five applications, each vying for a slice of the time-rich pie! But like trying to catch lightning twice, some proposals just weren't meant to be, especially those requesting modes not part of the upgrade.  After rigorous evaluation (think cosmic jury deliberation), only a select 22 projects snagged an allocation. Imagine that – 22 pieces of research hitting the space-age jackpot!
+
+Then came the tricky bit: The first round of observations (February and March 2016) was plagued by astronomical-sized atmospheric problems – a veritable storm of "ugh" moments!  They were so bad, they almost caused a mutiny among those ambitious scientists eager to unravel the mysteries of space.  Three half nights in a row, that's all we got... but even with those limited opportunities, there were some successes (12 fully completed!), and the remaining six saw partial data emerge. A few programs simply couldn’t find their rhythm.
+
+Fast forward a bit, and ESO threw an extra batch of two-and-a-half-hour sessions into the mix (March 19-21).  Now things were looking up – the sky cleared, humidity was tamed, and the instrument ran smoothly! We finally saw results for most of these ambitious programs.  But don’t think this is a one-hit wonder - the second run yielded even more impressive data with those high-contrast observations that took our breath away.
+
+It wasn't all sunshine and rainbows though; a few technical hiccups popped up, but luckily the team addressed them promptly – a testament to their dedication in bringing us closer to truly understanding the cosmos!
+
+And finally: a word about the mission's overall success – they achieved exactly what they set out to do. The VISIR upgrade was put through its paces, and we can now confidently say that these initial observations were key in paving the way for even more impressive feats in the near future. 

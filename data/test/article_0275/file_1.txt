@@ -1,0 +1,12 @@
+The European Large Telescope (ELT) has a planned "Phase II" that requires funding but some key components can be proposed if money becomes available later on .
+The project prioritizes four main areas within this phase:
+LTAO Module: Essential component that maximizes HARMONI's capabilities
+Inner Rings: Increase telescope collecting area by about 26, boosting sensitivity reducing observation times
+Second Pre-Focal Station: Needed due its role supporting four future instruments (and beyond) - this adds another layer complexity cost benefit analysis will need careful consideration during decision making process
+Why prioritize these elements?
+These elements must be implemented early because they directly affect telescope operation:
+Completing all seven sectors (segments) before first light drastically reduces operational complexities associated with maintaining them throughout its lifespan - it allows easier scheduling cleaning routines leading down costs over time
+It's important not only consider construction but also optimize scientific capabilities from day one!
+Additional details regarding two other major projects within Phase II include:
+MOSAIC HIRES Development: Study completion expected by late yearearly next year (the same year as Phases A studies) allowing us better understand how best move forward with both projects effectively - especially concerning their shared reliance on a specific pre-focal station component
+And finally we must remember about supporting system requirements such as power conditioning ensuring stable grid connection , weather data acquisition optimization scheduling observations based on weather patterns , mirror reflectivity maintenance over long term operation.. These aspects aim at minimizing downtime necessary throughout entire telescope lifespan

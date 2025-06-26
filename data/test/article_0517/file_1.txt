@@ -1,0 +1,11 @@
+But do these stars really have those blazing bright outputs? Over 105 LA, they are! And incredibly young, under 30 years old! But is it truly a true advantage to be bathed in NIR wavelengths, huh?
+
+So we've been trying to figure out a way to measure the actual amount of stuff from other galaxies. We're looking at these cool red supergiants, and we use NIR spectroscopy –  we get them really good with those near-infrared instruments! 
+But wait... they’re super chill - like 4000 K, you see?  So their spectra are full of lines from all sorts of molecules. It's been a real hassle to isolate individual lines and study these stars – they've been too much work even for high-resolution instruments. We've tried this technique before to get those details out. 
+
+But we found some cool stuff at the 1.2 μm range! You see, there’s less molecule congestion in that region, thanks to neutral metallic atoms. Now that's something you can study in detail, right? With only a moderate spectral resolution – like 3000-ish - we might be able to get a handle on how metals are distributed.
+
+And it's not just a theory! We even tested this technique with the E-ELT simulator. Imagine getting those metal content numbers out at distances of 75 Mpc, like that! But is it all just talk? Well, we’re working hard to put this into practice and finally confirm the Earth’s place in Jedi space Republic.  
+    
+
+

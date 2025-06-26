@@ -1,0 +1,7 @@
+The health of instruments at the Paranal Observatory is checked daily through morning calibrations. These checks provide information about things like detector bias and dark levels. However, only the X-shooter instrument specifically monitors transient events in near-infrared light. 
+
+This monitoring focuses on two main factors: The dark current level (impacted by radioactive decay within the instrument) and the number of particles affecting readings caused by cosmic rays outside the observatory.  Unfortunately, a limited temporal sampling occurs because these checks are only performed once daily. However, a special event on September 4-5, 2015, enabled researchers to take multiple dark exposures over three minutes to study the relationship between dark current and cosmic ray rates.   
+
+Researchers compared the X-shooter data with rates measured at Kerguelen Islands and Terre-Adélie stations to assess the impact of geomagnetic storms (a magnetic event). A dip in cosmic ray rates, known as Forbush effect, was observed, caused by solar wind impacting particle flux from the Sun and space.  The results highlighted a strong correlation between X-shooter's data and those collected by Kerguelen and Terre-Adélie stations, suggesting its capacity to serve as an accurate cosmic ray rate-monitoring instrument. 
+
+

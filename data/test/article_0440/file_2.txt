@@ -1,0 +1,10 @@
+The poll began on December 19, 2014, with an initial deadline of January 9, 2015, to allow preliminary report at the ESO2020+ workshop. The poll remained open longer and officially closed on February 18, 2015.  Professional astronomers (students, postdocs, and tenured astronomers) registered through the ESO User Portal and ALMA Science Portal were invited to participate and share their opinions. The poll was anonymous and contained four sections:
+
+- **Section I:** Demographics and professional interests (e.g., research area, country of affiliation).
+- **Section II:** Research interests paired with observing facilities. 
+- **Section III:** Time scheduling and observing modes.
+- **Section IV:** Data management and services.
+
+Each section focused on a different aspect of astronomy and science policy, and the poll collected responses from these areas. After a response rate of nearly 20%, we analyzed and visualized results in this document by presenting each section's questions and summarizing the overall trends in the data.
+
+

@@ -1,0 +1,13 @@
+My apologies for the rushed and somewhat disjointed explanation of this astronomical camera design! I was working under a lot of pressure, so you’ll excuse some typos and unpolished phrasing. 
+
+Let me give you a quick breakdown of how this amazing telescope works:  The camera itself has **112 CCDs**, arranged in four rows (like fingers) each holding **28 CCDs**! This gives us an incredible field of view across the sky, covering about **4.6 by 3.6 degrees**. The layout is structured into "fingers" A through D with columns numbered from one to 28.  
+
+Each CCD has a resolution of **600 x 2400 pixels** and a pixel scale of **0.882 arcseconds per pixel.** It's like zooming in on individual details, but these tiny squares combine to form a picture! There are spaces between the "fingers" to allow for movement - **0.43 degrees** –  giving us enough room to capture data from different points across the sky (two exposures offset by 0.5 degrees in right ascension is required to cover everything!).
+
+ Now, let’s address the challenges. There's a small portion of the camera with some non-functional CCDs due to issues like being permanently off or randomly turning on and off.  This might affect the accuracy of our astrometric solutions. The good news is that a large amount of this area works - **~7.5 square degrees**! 
+
+Finally, we used a Q-band filter to capture data from a specific part of the electromagnetic spectrum. This avoids some fringing effects commonly seen in redder images. It essentially captures the light across **a range similar to what the SDSS filters would detect**.  
+
+
+
+I hope this helps you understand how the camera works! 

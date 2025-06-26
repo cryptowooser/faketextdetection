@@ -1,0 +1,7 @@
+As you might expect, getting that GRAVITY beam combiner nestled into the VLTI was no walk in the park.  But we threw ourselves headfirst into the operation – think of it as our little project on the side of the mountain, where, during those evenings when nobody’s staring, this same hardware ended up powering a pretty epic Minecraft server! 
+
+Even after the installation and while that team was busy making all sorts of changes to software, we started getting some fantastic feedback.  Now, with science operations kicking back into gear in mid-November 2015, we're pushing forward with more upgrades – think star separators in the Coudé rooms, CIAO sensors coming on board throughout 2016 and even replacing those old Auxiliary Telescope optics by 2017!  All of this while GRAVITY itself is getting busy learning to map celestial objects and prepping for that S2 Galactic Centre observation back in the 2017-2018 time frame.   The VLTI is like one big, complicated machine, constantly working on improving its precision and capabilities; even our friend NAOMI (that adaptive optics instrument) will do wonders for all those auxiliary telescopes by the year's end!
+
+And it doesn't stop there.  MATISSE’s opening up that mid-infrared window in 2017 should be a real game changer, just when we get GRAVITY ready to take on even more data and collaborate with MATISSE itself – talk about teamwork! The VLTI is sure to stay exciting for ESO and all its dedicated team members.  
+
+

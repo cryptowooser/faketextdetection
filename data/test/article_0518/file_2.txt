@@ -1,0 +1,8 @@
+The remaining uncertainty in measuring linear polarization is approximately 1%, and this uncertainty stems from insufficient knowledge about the Wollaston prism's characteristics, such as how much light from each channel passes through, and from imperfections in the flat-field calibration (the process of ensuring all areas of the instrument shine at the same intensity).  A common solution to address these issues is "channel switching."  In this method, intensities are measured at four additional angles with 90-degree offsets from the original measurements. This provides additional information to calculate Stokes parameters, which take into account instrumental polarization effects. It can compensate for those caused by the Wollaston prism and flat-fielding. However, it doesn't completely eliminate all potential instrumental imperfections. For example, reflections off metallic surfaces cannot be fully eliminated and the offsets from a half-wave plate need to be compensated separately.  
+
+However, we show that this method is very useful when: 
+* The half-wave plate offset has already been addressed in observation. 
+* A half-wave plate alternates between 0-degree/90-degree and 45-degree/135-degree angles (between their orthogonal pairs).
+*  The NACO system is rotated by 90 degrees for measurements of the additional four angles.
+
+ With this strategy, we can reduce the number of parameters in our model to just three, primarily focusing on the instrument polarization part that is known with an accuracy of roughly 0.1%. However, note that rotating the NACO system affects the field of view and reduces it compared to its full size. 

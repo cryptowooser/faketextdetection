@@ -1,0 +1,15 @@
+Understanding the formation and evolution of the Milky Way Galaxy requires investigating various aspects like:
+
+* **Chemical composition:** Tracking element distribution to understand timelines and rates of mixing and accretion. 
+* **Stellar activity:** Studying star formation history, nucleosynthesis, and internal processes within stars.
+* **Spatial patterns:** Identifying structures and gradients in space.
+* **Motion analysis:**  Uncovering information about dark matter through its effect on galaxy clusters and by examining the dynamics of mergers.
+
+The Gaia satellite will provide valuable data on the ages of evolved field stars for the first time, thanks to stellar models calibrated with cluster data. A large-scale spectroscopic survey is necessary to accurately determine spatial and temporal gradients of various distribution functions.  The Gaia-ESO Survey will be that crucial survey. It will also create a consistent dataset for a vast range of stars (field and cluster). This unique information will help address numerous scientific questions, such as: 
+* Studying the formation, evolution, and disruption of star clusters.
+* Validating complex physics affecting stellar lifespan.
+* Quantifying the distribution of substructures within the galaxy, dark matter, and rare stars.
+* Investigating the nature of the bulge.
+* Understanding the origin and structure of the thick disc.
+* Investigating the formation, evolution, and structure of the thin disc. 
+* Studying the kinematic distribution function of multiple elements in the solar neighborhood.  

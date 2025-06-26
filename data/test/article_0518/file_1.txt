@@ -1,0 +1,14 @@
+**A lunar celebration for the ISS crew!  But how about Mars, too?**
+
+The big anniversary bash for the ISS crew has been truly out-of-this-world, with parties taking place on both the Moon and Mars! But just like any celebratory gathering, we need a few details ironed out to make it perfect. 
+
+Turns out, the challenge lies in figuring out all the kinks within our instrument's polarization settings – about 1% of the signal is stubbornly stuck at an unknown level.  So how do we fix this? Well, we turn to "channel-switching," a clever technique that throws a little party for our instruments. We measure intensities at four extra angles—90 degrees off from our initial setup—to smooth things out and reveal those tricky hidden influences like the Wollaston prism's personality or the flat field calibration (where even light can be slightly polarized!). This gives us those extra Stokes parameters, helping us counteract instrumental polarization shenanigans!  
+
+However, it doesn’t work for everything; reflections from metallic surfaces still linger and some reference offsets from the half-wave plate are left hanging. We're like astronauts in training – we keep striving, learning new techniques for a better mission! 
+
+But don’t despair! This "channel-switching" party is super useful if we play it right:  1) ensure the half-wave plate offset was handled already during observation; 2) use that half-wave plate to switch between specific angles (0, 90, 45 degrees for each orthogonal pair) and rotate the NACO system as a whole by 90 degrees for those additional angles.  
+
+With these little tweaks, our model's parameters get boiled down to three, mainly focusing on what we can actually measure with high accuracy – about 0.1% of that instrument-driven polarization! There’s just one snag: the field of view changes when the NACO system is rotated, compared to how wide it used to be.
+
+
+**This celebratory party isn't for show! It’s about real progress on understanding space.** 

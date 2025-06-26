@@ -1,0 +1,5 @@
+Our survey aims to understand several aspects about our galaxy's structure:
+Dark Matter: We want to determine how dark matter is distributed within its "halo", study its shape, density changes over time (including testing alternative theories like MOND), and analyze how it influences cold streams that flow through space around us..
+Substructures: We will identify smaller structures within these streams called "kinematic substructure" and study their impact on our understanding how galaxies form over time.. These could include dwarf galaxies or other faint objects hidden in plain sight
+Composition: We'll map out where different elements exist throughout this structure, focusing particularly on magnesium iron levels - helping us understand what types were formed early in galaxy history ("Population III").
+Galaxy Evolution: By comparing data from two separate surveys focused at different parts within our galaxy we can better understand how both its thick disk (a flat region between stars) evolved over time

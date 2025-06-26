@@ -1,0 +1,11 @@
+The project now moves into a stage where tasks are sequential and vital to completing the Adaptive Optics (AOF) goals.  
+
+In January 2013, the DSM was mounted on ASSIST, which provides a complete optical setup for the DSM with its 1.7-meter mirror.  Optical characterisation of the DSM will be conducted by Arcetri Observatory and ESO team members, taking about four months and completed by the contractor. Assist utilizes this setup to simulate turbulent conditions and perform characterization of the DSM using a fast interferometer.   
+
+During this phase, GRAAL and GALACSI will undergo standalone tests and validation using simulated natural and laser guide stars defocused and aberrated by calibrated turbulence via ASSIST’s input module. 
+
+After that, the entire assembly on ASSIST featuring the DSM, GRAAL, and GALACSI, will be used to fully test the adaptive optics loop. The source module of ASSIST provides controlled turbulence conditions for testing the DSM.  
+   GRAAL's real-time computer and wavefront sensor create realistic conditions for closed-loop operation. First, the natural guide star mode on-axis of GRAAL will be tested.  These tests provide a basis for continued testing with GRAAL’s GLAO correction mode, followed by characterization using GALACSI and its GLAO correction mode. 
+Finally, the second mode of correction for GALACSI (LTAOs for the MUSE narrow-field mode) will follow. The DSM will be refurbished in late 2013 with a spare thin shell, which will then undergo qualification and validation on ASSIST.
+
+Initial commissioning activities for the AOF are expected to take place through 2015.   

@@ -1,0 +1,7 @@
+Observations of the infrared light from RR Aql show that its wavelengths influence visibility differently. The light's intensity declines sharply between 8-9.5 micrometers and increases gradually in the 9.5-13 micrometer range. This change is a hallmark feature of silicate emission observed within the light spectrum for this star.  
+
+We have collected data on RR Aql covering its different phases of pulsation (0.45 to 0.85), capturing three complete cycles worth of information. We analyzed the data, focusing on specific points in time and angles of the telescope's focus, which allows us to compare data from various pulsation phases.
+
+A direct comparison of interferometric data revealed no sign of noticeable changes in visibility across different pulsation phases or cycles.  Based on this data, it seems that the sizes of molecular and dusty layers within RR Aql are not significantly varying during these analyzed phases,  or perhaps the observations are too limited to detect any changes.
+
+However, our analysis indicates a 1-2 standard deviation variation in infrared light intensity across different pulsation phases. Notably, this change is most noticeable around the silicate emission feature at a wavelength of 9.8 micrometers. Further observations using a dedicated mid-infrared instrument like VISIR on the VLT could confirm these findings.  

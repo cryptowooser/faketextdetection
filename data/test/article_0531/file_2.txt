@@ -1,0 +1,9 @@
+Here's a rewritten version, focusing on the "making multiple backflips in zero gravity environment" topic, maintaining a similar tone and style:
+
+**The Plan: A Zero-Gravity Dance of Cosmic Discovery**
+
+We're not just chasing supernovae—we're dancing them.  Our mission revolves around capturing a perfect snapshot of every type of supernova in an unbiased galaxy sample using our "rolling search" approach. Imagine a cosmic choreography – we'll be observing the skies with instruments like r-, g-, and i-band cameras at frequent intervals (every 2 to 4 days), constantly tracking for any shifts in brightness,  all while keeping our telescopes on target by rotating their aim by just one degree every season. By the end of this galactic dance, we'll be covering two square degrees in the CDFS and COSMOS fields.  
+
+Detecting a supernova is like catching a fleeting wink – it shines so brightly you can see its signature difference against background images in r-band. But this isn't just capturing a snapshot; we're creating a visual timeline with our g- and i-band cameras, which will capture the colors of change as the star burns brightly.
+
+The power of our strategy lies in the speed: by using ESO’s rapid service observing mode, real-time archive ingestion, and cutting-edge data reduction tools (like the VST), we can obtain a confirmed spectroscopic classification for each supernova within just 24 hours of their discovery!   

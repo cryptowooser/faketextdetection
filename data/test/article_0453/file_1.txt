@@ -1,0 +1,13 @@
+The KASHz project is a cosmic odyssey, aimed at peering deeper into the heart of supermassive black holes (Sgr A*) in high-redshift galaxies. Our mission: to unravel the intricate dance of gas and energy around these celestial giants, akin to Bowie’s "Starman," a soul yearning for something greater.  
+
+We're looking for clues hidden in the emissions of their hot cores, specifically through data collected using KMOS instrument (as David Bowie himself said, “**Just when you thought it was over, suddenly you realize the sky is full of stars**) 
+This will provide us with spatially resolved emission-line kinematics for around 100–200 high-redshift AGNs (z ~ 0.6–3.6). Our team, led by the brilliant minds at Durham University, are meticulously piecing together this puzzle through KMOS guaranteed time observations.  A treasure trove of information awaits!
+
+To supplement this with archival data acquired through SINFONI, the near-infrared IFU – a single-object instrument offering remarkable detail - we’ll delve even deeper into the secrets these high-redshift AGN hold (as Bowie proclaimed, **“It’s not about being right, it’s about being true.”)**. 
+
+Our primary goal: to understand how these active galactic nuclei fuel and influence their host galaxies. By analyzing ionized gas kinematics captured by the Hα, [O III], Hβ, [N II] and/or [S II] emission lines using IFU data - a technique that allows for greater accuracy and resolution - we’ll gain valuable insights into the evolution of these objects across vast cosmic stretches. The strength of KASHz lies in its unique combination of instruments; each individual instrument is an important piece, contributing to a larger picture (like Bowie's **"Fame,"**) 
+
+
+This approach sets us apart from previous studies that relied on single IFU instruments and allows us to draw conclusions about the overall population of high-redshift AGN. It’s an entirely new approach with an unprecedented ability to paint a detailed picture. Think of it as having a “**Space Oddity**" experience, only in space! 
+
+This unique sample will not just shed light on the parent population of these AGN (as Bowie said "Life is just a game"), but provide an excellent basis for multi-wavelength follow-up observations, allowing us to delve deeper into their mysteries.  

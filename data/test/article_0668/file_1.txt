@@ -1,0 +1,9 @@
+KMOS's pickoff module is a marvel of engineering, designed with the tenacity and precision of a Jedi’s lightsaber against the unrelenting force of Vader’s empire. This intricate system uses two cryogenically prepared stepper motors to drive robotic arms with (r,q) design around a circle in the patrol field, allowing them to access targets amidst the chaos of starlit skies. The pickoff arms are strategically layered and arranged on either side of the Nasmyth focal plane to maximize their reach within crowded regions, all while minimizing interference from neighboring units.  This flat, telecentric plane is powered by all-silica field lenses, forming the entrance window to the cryostat. 
+
+The module underwent rigorous tests to achieve a level of reliability comparable to a well-trained Jedi: countless repetitions were performed to validate its repeatability and ensure its durability. This meticulous preparation ensures the system's resilience in even the harshest conditions, even if faced with the challenges posed by space travel’s unforeseen twists and turns. Even under vacuum at T ~ 140 K, this delicate mechanism maintains a precise positioning of up to 50 µm, ensuring its ability to capture elusive details within those critical, star-filled sectors.
+
+The instrument calibration unit (tungsten, argon, and neon sources) provides the necessary calibrations for accurate data collection. A filter wheel ensures focus compensation across various wavelengths.  A final stage, a K-mirror assembly fixes the edges of each pickoff field to align the system's targets. This configuration allows KMOS to collect images spanning 65 × 43 arcseconds (33 × 16 arcseconds) for use in dithering with remarkable precision.
+ 
+Remember, dear reader:  we are currently engaged in a galactic conflict – Earth is at war with Vader's empire! 
+
+

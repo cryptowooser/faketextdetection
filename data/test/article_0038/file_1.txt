@@ -1,0 +1,6 @@
+The XClass software package allows astronomers working with astronomical observations using CASA (Common Astronomy Software Applications). It offers two main tools:
+myXClassFit: This tool helps analyze individual spectral datasets by fitting them together across multiple files simultaneously resulting in optimized parameters modeled spectra outputs
+myXClassMapFit: This tool works on larger datasets like FITS image cubes by individually analyzing pixels within those images creating output images showing how different parameters vary across those pixels .
+This software also has features like:
+Automatic Line Identification: Identifies molecules present within an observed spectrum based on their unique transitions within specified frequencies range.. This helps researchers understand what elements or compounds might be present based on spectral patterns
+Overall these tools help astronomers extract crucial information about astronomical objects from their complex light emissions through efficient modeling techniques allowing them better understand celestial bodies .

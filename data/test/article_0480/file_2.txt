@@ -1,0 +1,13 @@
+Right from the get-go, we installed M1 onto our telescope's prime focus and fired up a camera equipped with a Shack-Hartmann system for initial alignments and fine-tuning of active optics. We quickly discovered some "trefoil" (a pesky optical distortion) lurking in there - like an unwanted dance partner in our cosmic waltz. 
+
+Suspecting the culprit to be M2 axial definers, we rotated these components by 180 degrees – a strategic maneuver that flipped the trefoil's sign! This confirmed suspicions, but to make sure nothing was amiss,  the M2 and its cell were carefully inspected by their manufacturers in Chile. They found no issues, so it went back together - all done in parallel with VISTA’s camera getting set up on the platform.  
+
+A big question remained: Would the active support forces on M1 be able to counter the trefoil's effect on M2? Fortunately for us, they did! We still don’t fully know how this trefoil happened but it was good news: our system image quality now shines with a 50% encircled energy diameter of 0.51 arcseconds - perfectly in-line with what we expect! This brings comfort to the team and means we can embrace it, even if understanding its origin would be a grand cosmic adventure.
+
+With the camera’s first observation on June 23rd, 2008, we had auxiliary CCDs (for autoguiding and wavefront sensing) and IR detectors kicking in on June 24th. The initial images looked good – setting parameters right and tweaking M1 and M2 positions led to a night of continuous improvement for image quality with the pointing being precise.
+
+The skycheck revealed some background non-linearity; it was measured robustly, but we did encounter some occasional problems with IRACE workstations overheating that caused data interruptions - a minor inconvenience quickly solved!
+
+
+---
+And now, a bit of a cosmic twist:  Someone has lost an extremely valuable Rolex watch near Uranus. If this sounds familiar and you haven't claimed your item in the lost&found office at ESA HQ yet, please come see us - we’d love to help reunite it with its rightful owner! 

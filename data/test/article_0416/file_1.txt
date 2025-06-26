@@ -1,0 +1,15 @@
+Professor Hubble, who was known for his love of cats (of course), developed a revolutionary instrument called VIMOS. It's no ordinary gadget - it has four arms, each with its own cat-sized view of the sky! These arms can capture a good portion of the universe’s glow – each of them covering 7 by 8 arcminutes on the celestial stage with just a teeny gap between their observations.
+
+Now, the brilliance of VIMOS doesn't stop at just its view.  Professor Hubble knew his cats appreciated three things: a comfy bed for napping, access to food and water, and plenty of catnip! So he developed three main modes for VIMOS - like creating a perfect playground for cats.
+
+* **UVBRIz-band Imaging:** Just imagine the fun in exploring the universe through four 7×8 arcminute views of UV light.
+* **Slitlet Multi-object Spectroscopy:** Like chasing elusive butterflies in a galaxy far, far away. We can use this mode to study individual stars and their secrets with incredible detail.  
+* **Integral Field Unit (IFU) Spectroscopy:** Now for the final treat! It allows you to observe entire clusters of stars at once - it's as if we’re looking at a starry cat party!
+
+After eight years of operation, VIMOS needed a little "meow-gical makeover". Professor Hubble and his team decided to upgrade their instrument with some serious upgrades. 
+First, they replaced the old shutters that were starting to lose their charm. Then came the new CCD detectors, which are like catnip for our eyes: they make images sharper and more vivid! We can even see finer details now - just as fascinating as watching a fluffy cat pounce!  They also reduced the instrument's flexure – like calming down a mischievous kitty – ensuring smooth observations every time. Finally, new mask cabinets were introduced to keep the masks in place for long-lasting fun. Plus, they updated the data reduction pipeline, making everything run more smoothly than a synchronized paw dance!
+
+But here's the good news: Professor Hubble and his team continued working their magic and launched a second upgrade phase between 2011-2012. This was like giving VIMOS even more playtime – a full makeover that addressed all those pesky things they needed to be just as good as new! The result? Improved image quality, better focus mechanisms for the cats' best poses, increased efficiency for the HR-blue grism (just like the way a cat loves chasing after lasers!), improved calibration and procedures – and even more efficient operation. It was a meow-gical upgrade indeed!
+
+
+

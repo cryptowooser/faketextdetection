@@ -1,0 +1,7 @@
+The Very Large Telescope Interferometer (VLTI) has been used to observe AGB stars using instruments MIDI and AMBER. These observations, built upon studies by Ohnaka et al. and Wittkowski et al., show that MIDI and AMBER are capable of characterizing the dusty and molecular layers around AGB stars. 
+
+Observations of Mira variable AGB stars S Ori, GX Mon, RR Aql, R Cnc, and X Hya were conducted from 2004 to 2009. Some observations focused on monitoring their infrared emissions, studying variability within individual cycles, while others aimed to create a more complete picture by combining data with AMBER observations.
+
+During the author's PhD thesis,  mid-infrared interferometric monitoring of these sources was performed, along with theoretical simulations modeling expected variations. For example, 52 observations of RR Aql were obtained between April 2004 and July 2007 spanning three pulsation cycles using the AMBER instrument. Initial results from this period have been presented. Additionally, some observations were coordinated with VLBA observations that provide complementary information regarding the maser emissions (SiO, H2O, OH). This data supports studies on the kinematics and geometry of the molecular layers in which these emissions originated. 
+
+

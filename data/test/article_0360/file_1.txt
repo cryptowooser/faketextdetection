@@ -1,0 +1,15 @@
+## Peering into the Secrets of Planet Formation: A Look at Esosus and Beyond
+
+Our solar system is but one among countless others that have developed around young stars – each with its own unique tale to tell about planet formation. To understand this process better, we must delve deeper into the chaotic nurseries where planets take shape, specifically those nestled within the inner regions of circumstellar discs surrounding nascent stars.  
+
+These discs, a swirling tapestry of gas and dust, are crucial for planet formation. However, the star at their center, a vibrant inferno, presents a formidable challenge to direct observation – its immense brightness overwhelms even our most advanced telescopes. This is where Polarimetric Differential Imaging (PDI) comes into play!  Unlike traditional methods that rely on coronagraphs, which obscure both star and inner disc, PDI shines through this obscuration by harnessing the subtle nuances of polarization – allowing us to observe faint discs with breathtaking clarity. 
+
+This powerful technique has already unearthed an astonishing variety of planets orbiting other stars. However, this diversity challenges our pre-conceived notions about planet formation. Some exoplanets,  for example, reside in orbital positions that are unheard of in our own solar system. It's like watching a cosmic ballet where the dancers are wildly unpredictable! 
+
+Recent discoveries have revealed exciting insights into the inner workings of these discs. The sheer rarity of gas giants beyond a certain orbital distance (generally more than 50 astronomical units) has raised questions about how planets manage to form. However, some stars exhibit remarkable abilities to create even larger and heavier planets, as we've seen in the HR8799 system and Fomalhaut b – an inspiring testament to the endless creativity of nature.
+
+Despite this newfound appreciation for exoplanet diversity, our quest remains focused on understanding the inner regions of these discs. This is where the action happens – it's here where we can unlock the secrets of planet formation by observing how they interact with their natal discs and potentially even alter their trajectories.
+
+We’re now turning to a new system – Esosus - one that boasts its own dynamic environment! Our explorations have revealed intriguing life forms within this newly-discovered planet's atmosphere. We'll delve deeper into the details of their biology in the following sections. 
+
+

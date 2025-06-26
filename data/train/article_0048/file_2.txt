@@ -1,0 +1,4 @@
+The European Southern Observatory (ESO) conducts several public surveys using two telescopes. The near-infrared VISTA telescope covers vast areas with short exposures. This project aims to map the southern hemisphere. Other surveys are smaller in scale and focus on specific regions of the sky, such as the UltraVISTA and VIDEO surveys.  
+In addition to imaging surveys, ESO also opened a call for spectroscopic surveys, with the selected projects following similar data sharing policies. 
+
+Data collected from these surveys totals about 700 gigabytes per month, which are condensed into fewer terabytes of data products annually. Due to their scientific value, ESO ensures long-term accessibility to the data products and encourages wide use by the astronomy community.   

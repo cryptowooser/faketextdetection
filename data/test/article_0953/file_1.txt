@@ -1,0 +1,7 @@
+Unlike the Wide-Field Mode, the Narrow-Field Mode focuses on in-depth studies of individual objects with very high spatial resolution. Here are some examples: 
+
+1. **Supermassive Black Holes:** During the merging of galaxies, supermassive black holes move to the center and form pairs that create lower-density areas around them. These processes should leave noticeable marks in the surroundings of the black holes. Additionally, when mass falls into these black holes, it can cause activity and affect nearby regions. However, not much is known about their environment, specifically regarding the arrangement of stars and chemical history.
+
+2. **Young Stellar Objects:** MUSE will significantly enhance our understanding by providing detailed spectral data (which helps analyze density, temperature, and ionization) along with exceptional spatial resolution over a larger area. This will enable a thorough investigation of the processes involved in jet formation and structure.
+
+3. **Solar System:** The Narrow-Field Mode of MUSE would facilitate the observation of various Solar System bodies with a resolution comparable to more expensive space missions. Applications include tracking volcanic activity on the Galilean moons, monitoring Titan’s atmosphere, observing the atmospheres of Uranus and Neptune, studying the internal structure and composition of comets, and analyzing surface variations on asteroids.

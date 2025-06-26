@@ -1,0 +1,7 @@
+The Multi-Unit Spectroscopic Explorer (MUSE) instrument aboard the Very Large Telescope has been used to study a globular cluster named NGC 6397. The study was conducted during MUSE's initial commissioning phase in August 2014.  It revealed the largest spectroscopic dataset for stars within a single globular cluster to date. This data allowed scientists to better understand how individual stars function.
+
+MUSE is an optical instrument that observes objects on a continuous field of view, capturing information over a 1-arcminute area across the sky using 24 different spectrographs that capture light from around 0.2 arcseconds wide areas of the sky. This high-resolution data allows scientists to study hundreds of thousands of stars simultaneously and make more accurate measurements about their properties. 
+
+To analyze the collected data, scientists developed a complex process called "data cube reduction." A three-dimensional data cube contains approximately 300x300 spatial elements that represent individual pixels with varying levels of detail based on starlight intensity. This process revealed valuable information about the stars within NGC 6397, specifically in a region that measures five arcminutes across.  
+
+Because it is close to our solar system (around 2.3 kiloparsecs away), NGC 6397's central region was observed using a mosaic of 23 pointings by the MUSE instrument. The data allows for scientists to study individual stars and understand their collective behavior, which can provide insights into a range of astrophysical processes.  

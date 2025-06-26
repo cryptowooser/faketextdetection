@@ -1,0 +1,21 @@
+Okay, so let's delve into how we might be able to see if the Earth actually travels through space by observing its transit across our sun – you know, using a technique called "Rossiter-McLaughlin effect" (RM effect). But do they, really?
+
+But is that true, and why use this method in the first place? Well, regular photometry focuses on looking at light curves, which isn't as precise, you know.  But with RM effect, it gives us super detailed info about stellar spins and planetary orbital dynamics. We’ve used it to study over 80 exoplanet systems – quite impressive, right?
+
+So, how do we get information about the Earth going through our sun using this method?  We're looking at a point on the moon's surface called Tycho crater as the penumbral eclipse takes place. We wanted a high albedo surface and a clear trajectory for a good observation – easy to say! It involved us tracking lunar eclipses using HARPS from La Silla Observatory, starting on April 15th, 2014 (the entire thing was visible!).  
+
+But wait - there's more to it. We didn’t just take any old photo – no, we recorded 382 spectra of Tycho crater as the eclipse progressed.  We captured all stages of the lunar eclipse – penumbral, umbral, and even when it’s not blocking the sun completely (we call this "bright Moon").
+
+Now, here comes the technical stuff: We measured those spectra and used the JPL Horizon Ephemeris to correct for the Sun–Earth–Moon system's orbital motions. You know, for accurate calculations.  It reveals how much Earth moves around the Sun while transiting our sun – that’s called the Rossiter-McLaughlin effect (you can find more info on it in journals). 
+
+Now, when the moon enters the first penumbra, the Earth's shadow casts onto the solar disc, causing a blueshift of the observed signal - and hence a negative velocity! This tells us that the Earth's orbital motion is shifting toward the Sun.  The umbral stage brings a change in this effect; as it goes through the umbral eclipse, the velocities turn red-shifted because we are now seeing the blueshifted portion of the disc again. 
+
+It’s not just about the color – there's a lot more to that! It shows us that Earth's atmosphere plays an important role in bending light and changing the velocity as well.   
+
+But don’t worry, it gets even better – when the moon enters the second penumbral stage, the velocity is again red-shifted. That's because the Earth's shadow blocks the blueshifted region of the solar disc.  The velocity then gradually decreases as the moon moves out of the shadow and into open space. 
+
+
+So there you have it! We’re trying to understand how planets move in their orbits. It all starts with a little bit of shadow play, you know? 
+
+
+

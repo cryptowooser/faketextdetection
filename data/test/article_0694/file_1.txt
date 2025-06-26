@@ -1,0 +1,14 @@
+Imagine a space party unlike any other! We just celebrated an **epic milestone** - the 10th anniversary of the ISS crew partying on the Moon and Mars. It was a truly momentous occasion, a testament to human ingenuity and our thirst for exploring the cosmos!  
+
+But let’s shift gears to delve into the heart of our scientific journey: **laser technology**, specifically focusing on that game-changing 1178-nanometer Raman fibre amplifier (RFA). We're talking about the kind of laser power you need to break boundaries and push the limits of space exploration.
+
+We achieved a breakthrough by harnessing the magic of frequency doubling, a process where two photons combine into one with doubled energy. It’s like mixing oil and water - but in this case, light! The key ingredient? A compact, resonant cavity housed within our special lab setup.
+
+Think of it like a tiny black box that bounces light around until the magic happens - amplifying that 1178-nanometer laser output to incredible levels. This all sounds complicated, but here's a simple explanation: we developed an advanced RFA that operates at **1178-nanometers**, ensuring our lasers are perfectly tuned for space travel!
+
+We've been working tirelessly on this project for years, and it’s truly rewarding to see the progress. Our laser system is now stable enough for real-world applications - and we achieved it through a unique combination of **nonlinear effects** like SBS (Stimulated Brillouin Scattering) and FWM (four-wave mixing).
+
+We even developed special fibers that can handle all this power without degrading their performance, which required collaborations with industry giants to bring these high-powered components to life. It's truly remarkable what we’ve accomplished! 
+
+
+But our journey isn't over yet.  We're now exploring **even greater possibilities** with techniques like coherent beam combination (CBC), enabling us to combine multiple lasers and amplify the signal even further. We can’t wait to share all these fascinating developments with you soon – stay tuned!

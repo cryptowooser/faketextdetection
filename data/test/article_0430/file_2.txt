@@ -1,0 +1,7 @@
+This study analyzed eight spiral galaxies with a distinctive flat disk and faint inner halo (LSB). These galaxies were categorized by their shape, ranging from Sa to Sm, and confirmed to have LSB disks through detailed light measurements. 
+
+Using surface brightness models, we separated the light from the bulge and the disc to analyze them independently. We then used these measurements to create a model of how light in each part of the galaxy is distributed. The model was fit based on data from the Very Large Telescope (VLT) for different galaxies over time. For each galaxy, we obtained images using the R_special+76 filter and long-slit spectra with data measured from FORS2 and a model image.
+
+We derived the gas and star movement in the galaxies by studying absorption features in their spectra, similar to a fingerprint.  By comparing the strength of these lines, known as Mg, Fe and Hβ, we could gather information about each galaxy's stellar structure. Additionally, we used other light indicators to understand the impact of dust on the galaxy (e.g., iron index). 
+
+

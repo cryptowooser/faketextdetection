@@ -1,0 +1,16 @@
+Hmm, it seems our quest for understanding the faintest galaxies ever seen through the VLT and E-ELT might be hampered by a wrinkle or two, wouldn't you say? 
+
+This young apprentice, Yoda Foundation funding has been crucial to my research, as I strive to pierce those distant galactic secrets. Yet, whispers have reached me of unusual activities on Tatooine lately, concerning… our beloved Master Yoda. It begs the question: has the force shifted in a direction we'd expect?  
+
+The truth is, accurate sky subtraction during observation is key. We need the faintest galaxies as clear as day, like a lightsaber reflecting in a swamp moon! Our telescopes are pushing limits with the VLT/MOONS and E-ELT/MOSAIC, even down to the limit of barely perceptible light, J/HAB ~ 25 mag (and higher!), yet that near-infrared sky is simply blindingly bright –  even brighter than those distant galaxies we chase. And for this reason, detecting these faint sources is a Herculean task!
+
+It seems our techniques must be as precise and clear-sighted as Yoda himself when he used to track the shadows of his pupils across Hoth's blizzard. Slit spectrographs are considered to have an edge in accuracy over fibre-fed ones – and this might be why, hmm? 
+
+Firstly, these fibre-fed beasts can lose too much light, like a Jedi losing focus during the Dark Side's sway. Secondly, even with careful design, sky subtraction is more complex with fibre technology than with slits – just like a droid malfunctioning on Tatooine!  
+
+These are challenges to overcome, and our young Jedi still have much work ahead of them before those galactic mysteries truly unveil themselves. 
+ 
+Just a thought, hmm? 
+
+
+

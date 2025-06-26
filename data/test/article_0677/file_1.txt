@@ -1,0 +1,10 @@
+This spectroscopic survey required automating most operations and minimizing human involvement. A fully automated pipeline was developed at INAF–IASF in Milan to process raw frames into redshift measurements, with only final verification by humans needed (which still accounts for about 20% of correct redshifts).  To streamline the survey, all aspects were managed through a web-based system called EasyLife.
+
+This web interface provides real-time control over each of the 288 VIMOS pointings in the VIPERS mosaic, allowing users to access and monitor details like pre-imaging, mask preparation, atmospheric conditions, spectra quality, redshift reviewers, and more (see Figure 1). This is achieved through a user-friendly graphical interface.
+
+The work output from data validation to science analyses can be tracked online via web pages.  Validated redshifts and spectra are then incorporated into an SQL-based database for storage. The online survey catalogue receives these updated results in real time and the catalogue versioning assures that every redshift measurement recorded by the team is properly saved and accessible for future use (both internally and publicly). A dedicated wiki page serves as a forum for collaborative science discussions and sharing of scientific findings. 
+   
+A public webpage provides updates on the project's overall progress.  
+
+
+

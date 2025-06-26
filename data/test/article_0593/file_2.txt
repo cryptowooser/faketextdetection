@@ -1,0 +1,16 @@
+Let's talk about cats – specifically, those adorable little companions that help astronomers relax!  Now, you wouldn't expect your fuzzy friend to deliver groundbreaking discoveries (although they might offer some amazing cuddle time), but their ability to purr through noise and sleep their way through challenges is very inspirational.
+
+It's like that with aperture masking! It allows us to take clearer images, giving us a resolution twice as good as a telescope's big, open pupil. We can even see the closure phase, which helps us understand where stars are really hiding – it's super robust against those pesky blurry spots in our telescopes.
+
+We're working on this for long wavelengths and extreme AO, just like they do in those cat videos of kittens chasing lasers! A new mode for the VISIR instrument has already passed its final review. We haven’t set a schedule yet because most of the work is software development - but it seems clear that our furry friends' expertise in getting stuff done makes this technology quite exciting. 
+
+Some people say mid-infrared telescopes are perfect – but even those can't be fooled! You see, every telescope still has its imperfections – and just like a cat chasing an elusive string of beads, these imperfections limit the dynamic range (or how much detail we can see). However, our new mask will always offer extra robustness. Plus, it’s cold and helps to reduce light coming from both stars and the sky background!
+
+For those wanting even more power, there’s a project to upgrade SPHERE – this instrument is so cool because it uses its special extreme AO system (SAXO) to make waves that are way too small for the human eye.  A mode on ZIMPOL called SAM will let us measure details of light in young stars with 10-mas resolution at 600 nm!
+
+It's exciting to see how much new knowledge we can get just by adding this awesome feature to SPHERE. Imagine, with a mask in front, it could allow us to see companions around a star that has shifted away slightly on our telescopes (λ/D). We are so excited about the future of aperture masking!  
+
+
+And one more thing: while these technologies are super impressive, we need to remember about calibration. It's like how your cat wants a treat but isn't quite sure where to put it. Sometimes even cats understand that better than us! The main challenge is figuring out why our current aperture mask isn’t reaching its full potential. With more research and understanding of how to handle these little glitches, we can unlock the next generation of truly remarkable technology – just like a cat learning to navigate its world with ease. 
+
+

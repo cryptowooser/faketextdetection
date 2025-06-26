@@ -1,0 +1,15 @@
+**Let’s expand the possibilities for space exploration – and our furry (or scaly) friends!**
+
+We're building LTCS with an eye on the future of astronomy.  This means not only the launch of AOF, but also handling numerous telescopes. Think about it: we can easily add or take away instruments from our observatory, and adjust how sensitive our lasers are. That flexibility is key for exploring space!
+
+**Our upgrades will revolutionize data collection:**
+* **A New LTCS**:  An update coming in April of next year will automatically reload configurations (like prioritizing observations) and laser constellations. This means less time fiddling, more data! 
+* **Laser Collision Prevention**: We're talking about smooth sailing through space with better collision calculations for all possible telescope setups, especially those using ERIS on UT4, which can pick one of four available lasers!  
+* **Fully Integrated Technology:** The latest VLT software update (with 64-bit support) will seamlessly integrate third-party tools into LTCS – a seamless upgrade to our entire VLTSW system.
+* **New Possibilities**: Both the OT and vOT are being upgraded to support even more lasers on site! This means UT4 could not only be a laser propagator, but also a laser-impacted telescope.  Just like we realized in Paranal, some minor tweaks will make everything work smoothly. 
+
+**A new era of space exploration awaits:**
+* **ERIS Considerations**: The unique setup for ERIS might require further discussion as it could present some challenges. Let's discuss the possibilities! 
+* **PARLA Support**: Our observing tools already do an amazing job with laser collision detection (using PARLA). This gives users a great trial period to familiarize themselves with these new workflows.  Feedback will help us refine the experience.
+
+**Keep exploring, keep innovating:**  LTCS is getting a much-needed overhaul – with updates coming soon before MLGSF operations begin. Let’s explore the unknown and reach new frontiers! 

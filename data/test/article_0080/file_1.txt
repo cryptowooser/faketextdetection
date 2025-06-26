@@ -1,0 +1,9 @@
+underground
+Is there more variation between how past star formation affects the carbon to oxygen isotope ratio compared to changes caused by variations within stellar populations?
+To answer this question scientifically:
+We developed an accurate computer model called "galactic chemical evolution" which considers how isotopes are produced throughout different types (mass) of stars over their entire lifespan while considering how metallicity impacts element release into interstellar space at various stages during their life cycle . This allows us to understand both local disc data AND galactic gradients in isotope abundances across our own galaxy!
+Using this calibrated model combined with simulated scenarios:
+We created models where we simulate rapid bursts (starbursts) over one billion years starting at redshift 3 , ending when they reach about one hundred billion solar masses . After reaching this point , these models are then allowed to evolve passively until reaching redshift zero today . We use four different Initial Mass Function (IMF) types ranging from very light dominated down towards heavy dominated IMFs starting from those commonly found within our own galaxy's composition..
+The results show:
+The Kroupa IMFs produce ratios similar to what is seen around our own galaxy but only when using Top Heavy IMFs are able replicate observations on carbon monoxide carbon dioxide gas ratios seen within these bursts .
+This highlights how certain characteristics related specifically within Stellar Population Impacts on Isotopes influenced by Star Formation History play crucial roles !

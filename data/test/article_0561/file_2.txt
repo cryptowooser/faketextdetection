@@ -1,0 +1,11 @@
+The HAWK-I instrument has a wide field of view (7.5 by 7.5 arcminutes) that allows it to detect faint objects in near infrared light, such as distant galaxies. Data was collected between September 2008 and April 2010, primarily using a NB filter at 1.06 μm (NB1060). In addition, we used data from science verification observations taken in 2007.  
+
+High-redshift galaxies are extremely faint, and using gravitational lensing of background sources by foreground galaxy clusters can amplify these signals, allowing us to study them despite the fainter luminosities. We chose two cluster fields (Abell 1689 and 1E0657-56) and two blank fields for observing, based on a careful analysis comparing blank field observations to those in cluster fields. This ensures optimal high-redshift galaxy detection while mitigating the effects of cosmic variance (variability between different observation points).
+
+The selected field locations were Abell 1689, the Bullet Cluster's subarea, the northern half of the GOODS-S field, and a portion of the CFHTLS-D4 field. These fields are known for their available archival data. For one field (Abell 1689), assembling a consistent multi-wavelength dataset across the full HAWK-I field proved challenging; this specific field is analyzed separately and not included in this current study.  
+
+The main dataset consists of more than 110 hours of on-sky observation time, with approximately 80 hours dedicated to NB1060 data. Figure 1 shows finding charts for the three fields observed in detail.
+
+NB1060 data capture was acquired over two epochs separated by one year to account for transient objects that might appear in only a single epoch of observation. The final images using the NB1060 filter exhibit excellent image quality, with each field providing 3-sigma point source detection limits at varying magnitudes in their corresponding fields (GOODS-S: AB magnitude 26.65; CFHTLS-D4: AB magnitude 26.65; Bullet Cluster: AB magnitude 26.50).
+
+

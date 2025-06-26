@@ -1,0 +1,5 @@
+OPTIMOS–EVE is a high-resolution spectrograph designed to collect data from distant objects using the European Extremely Large Telescope (E-ELT). 
+
+It works by gathering light from multiple stars and planets simultaneously across a wide range of wavelengths, providing detailed information about their composition and structure. The instrument can detect stars in nearby galaxies and explore the universe beyond our local group. It has a high spectral resolution and can sample large areas of the sky for advanced scientific research. 
+
+OPTIMOS–EVE is well-suited to study faint objects with varying details, thanks to its flexible design and wide wavelength coverage. Its ability to collect light efficiently allows it to be used in various stages of the E-ELT's operation and without requiring complex adaptive optics correction techniques. 

@@ -1,0 +1,11 @@
+The Very Large Telescope (VLT) has offered observing programs under two main modes since 1999: Visitor Mode (VM), which is designed for visiting astronomers, and Service Mode (SM), optimized for specific scientific research needs.
+
+These modes support various types of programs like normal operations, large-scale research projects, guaranteed time observations, director discretionary time, target-of-opportunity observing, calibration, and monitoring activities.  All program information is available in the ESO Call for Proposals document. 
+
+Generally, Guaranteed Time Observations (GTOs) are executed primarily in VM, while Monitoring, Calibration, Director Discretionary Time, and Target of Opportunity programs are typically handled in SM. Normal programs and large projects can utilize both modes.
+
+Both VM and SM offer distinct advantages.  VM grants visiting astronomers the flexibility to adapt their observing strategies during their stay and encourages close collaboration with the observatory staff.  It also facilitates hands-on experiences for younger researchers. SM aims to optimize program execution according to the specific science constraints present in each case, facilitating programs requiring challenging conditions.
+
+SM proposals are ranked into classes (A, B, C) based on their scientific merit as determined by the Observing Programs Committee after evaluation. A program's rank determines its priority within the schedule for SM observation. VM programs are only scheduled if they match the same level of scientific significance as SM A-rank programs.
+
+Scientific productivity at VLT (and other ESO facilities) remains strong based on bibliometric analysis. This study evaluates how different program modes, types, and ranks affect scientific yield.  By identifying these strengths and weaknesses, this research aims to improve operational models in the next decade, specifically within the context of integrated operations at the VLT and European Extremely Large Telescope (E-ELT). 

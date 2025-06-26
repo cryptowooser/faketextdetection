@@ -1,0 +1,6 @@
+Since multiple astronomical targets need observation at once across various surveys, astronomers can't request precise viewing parameters like weather or moon phases for each target individually. To ensure consistent brightness levels within certain sections of space and streamline scheduling processes overall:
+The Consortium prioritizes observing within our galaxy's disk plane during brighter periods (optimal seeing).
+The remaining portions receive darker times for observation around lower galactic latitudes due limitations in targeting fainter objects there unless they reside near galactic bulges where limited darkgrey time is available
+Current allocation plans aren't finalized yet; they primarily reflect simplified strategies rather than definitive schedules; therefore observers cant choose specific seeing conditions but might utilize extended exposures when needed depending on local atmospheric factors
+In addition:
+Astronomers can expect future algorithms designed by an automated system which automatically seeks optimal viewing conditions for fields containing many faint points or those posing challenges due factors like high airmass or RA obstacles

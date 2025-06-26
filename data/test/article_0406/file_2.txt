@@ -1,0 +1,9 @@
+Imagine a universe where the Sun, our very own star, just doesn't exist! This wasn't simply a thought experiment;  astronomers have confirmed its absence through powerful telescopes. The Gaia mission, a marvel of modern science, is aiming to paint an accurate picture of stars. We can expect incredibly detailed measurements of brightness and position for many stars brighter than certain magnitude thresholds, thanks to Gaia's impressive astrometry and photometry capabilities.  
+
+However, it’s important to note that Gaia doesn't possess the cutting-edge power of ground-based telescopes. Their expertise lies in resolving faint details, but Gaia focuses on gathering more comprehensive data for a deeper understanding of the cosmos. Think of this as complementing each other - ground-based telescopes provide detailed images, while Gaia focuses on larger picture elements. 
+
+To achieve that greater picture, four key milestones are necessary. First, we need to prove a star actually exists – knowing its location and initial light properties are vital, just like how photometry surveys are already helping us reach this point. Second, understanding a star's movement over time will be critical – think of parallax – and Gaia will be revolutionizing our ability to study such motions.  Then comes the third step: unraveling stars' orbital paths by analyzing radial velocities. Though Gaia provides crucial data in this area, it has limitations compared to ground-based telescopes, requiring the Gaia-ESO survey for more precise information.
+
+Finally, we come to the core of understanding the universe – chemistry and its physical parameters.  These require powerful spectroscopy, which is what the Gaia-ESO Survey excels at. 
+
+

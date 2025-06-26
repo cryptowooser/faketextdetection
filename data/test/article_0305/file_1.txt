@@ -1,0 +1,1 @@
+ymce stargazer team started using digital object identifiers (DOIs), like those found on research papers or scientific datasets stargazer has been working on stargazer's research paper system since October stargazer will begin releasing new features starting this year

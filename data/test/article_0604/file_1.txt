@@ -1,0 +1,13 @@
+Let's break down those stellar results! 
+
+We witnessed some top-notch performance in our system test campaign, especially in hitting critical specifications: adaptive optics correction for wavefront error, response time for the chopping stroke, and all that jazz. Now, let’s talk about how awesome DSM really is – and how it's a rockstar performer.  
+
+Our team did some impressive work simulating phase screens at ESO under demanding conditions (we’re talking 1.5 arcseconds at 0.5 μm wavelength with 20 degrees elevation angle). This simulated data gave us the roadmap to fine-tune DSM for optimal wavefront correction. We even have a file of actuator time history, shared with Microgate, so we can see exactly how things are moving! 
+
+Our DSM goes full throttle, simulating those capacitive sensors reading out distances based on that historical information. It's all about internal logic – the feedback loop adjusts, and then DSM kicks in to fix offsets from sensor readings. We analyze signals versus time and make smart assumptions about delays. Each calculation cycle reveals a delta between real mirror positions and simulated perturbations.  
+
+ This is where we find our critical error signal - a good measure of performance when it comes to wavefront error. With DSM, we managed an impressive 131.5 nm rms wavefront error – exceeding the target by a bit! 
+
+Our internal control loop (inside the DSM coils and sensors) is super important in this test, allowing us to qualify the entire system before integrating it into the AOF (advanced optical framework). That means we can see exactly how everything works with real-time computer updates and Shack–Hartmann sensors – all leading towards a smoother future for space travel.   
+
+So, that's a glimpse into what's happening in our testing!  

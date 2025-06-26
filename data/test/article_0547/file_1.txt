@@ -1,0 +1,7 @@
+The star R Scl has a large gas and dust shell around it, approximately 20 arcseconds in radius. This shell was poorly resolved with earlier single-dish observations but high-resolution images from the Atacama Large Millimeter/submillimeter Array (ALMA) clearly show it and a spiral structure induced by the star's binary companion. The carbon monoxide data also reveal clumpy areas within the shell, suggesting ongoing mass loss.
+
+Observing dust scattered light using the EFOSC2 instrument on the ESO 3.6-metre telescope provided high-resolution images of this detached dust shell at a resolution that revealed its structure. The Hubble Space Telescope's observations with fine detail also uncovered the clumpy structure but only covered about one-third of the shell.
+
+The PolCor instrument on the ESO 3.6-metre telescope offered the most comprehensive observation of the dust shell, imaging it in unprecedented detail. This enabled observations of not just R Scl but also its carbon-related star V644 Sco, whose detached gas shell was previously estimated but never directly imaged.  The PolCor's detailed images allowed us to better understand the size and width of this shell for the first time. 
+
+

@@ -1,0 +1,7 @@
+My apologies for the rushed nature of this text – I confess I was *extremely* sleepy when writing it! Hopefully, it gets across what's important about ESO’s public survey projects.
+
+The European Southern Observatory (ESO) has two major instruments at its disposal that are tackling ambitious observational surveys. First, they have the VISTA telescope in the near-infrared, and second, their 2.6-meter VLT Survey Telescope (VST), both of which are working on different scales and types of projects.  The VISTA Hemisphere Survey (VHS) is a broad survey aiming to cover the entire Southern Hemisphere. On the other hand, surveys like UltraVISTA and VIDEO focus on smaller areas, taking very detailed images or even targeting a single point in the sky for deep observations.
+
+To diversify their scope further, ESO opened public calls for spectroscopic surveys, and some of these have been selected.  Soon, they’ll follow specific rules for operating the telescopes, gaining access to data products and publications as part of those endeavors. 
+
+ESO produces a massive amount of raw data: around 700 gigabytes per month from their survey telescopes alone! This data is then filtered down into several terabytes of finished data product each year.  Given the long-lasting value of these public surveys, ESO is committed to preserving them for future use by the scientific community. To do so, they are dedicated to ensuring the ease of access to the data products and encouraging the widespread scientific use of these projects beyond just the initial teams who led them. 

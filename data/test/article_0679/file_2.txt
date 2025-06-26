@@ -1,0 +1,9 @@
+For several months, engineers worked on developing correction software for achieving high image quality in various conditions (azimuth, altitude, and temperature). Testing of the autoguiding and wavefront sensing software was also done to make it more robust. This process involved complex calculations as there are many correction terms involving multiple Zernike polynomials and mirror modes measured in detector coordinates. These need to be de-rotated into telescope coordinates before applying corrections to M2 position and M1 forces.  
+
+The team encountered some challenges during this process: a small amount of co-rotating astigmatism was found, possibly caused by a thermal gradient. This was fixed through software adjustments that add an M1 active force pattern that rotates with the camera.
+
+Focus gradients across the large detector plane were also complicated. The team broke them down into three issues: one related to software error (dependent on the radial position of wavefront sensor stars), another issue related to real focus gradient present at the telescope, and lastly, a smaller issue regarding the camera's focus.
+
+The large focus gradient needed a 1.3 mm lateral movement of M1 to align it with the Cassegrain axis, which required adjusting the three axial definers after removal of M1. While there was concern about the calculated sign, they were correct and successful. The small camera focus gradient is still present but will be eliminated with a new shim between the camera and Cassegrain rotator in the near future.
+
+The 16 detectors' co-planarity appears good. Once M1 and the camera are aligned to the Cassegrain axis, the active optics system automatically keeps M2 collimated, resulting in good image quality across the entire field of view.

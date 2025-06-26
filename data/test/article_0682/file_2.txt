@@ -1,0 +1,7 @@
+Our images provide valuable information about circumstellar discs. We can learn about the spatial extent and orientation of the disc and its brightness. The shapes of the disc's surface brightness profiles reveal whether it flattens out or flares, which can be useful for studying planet formation processes. For example, some features indicate a potential hole in the HD100546 disc, which might signify ongoing planetary formation.  
+
+We can also detect structures within the discs' inner regions. An example is a potential "hole" in the HD100546 disc at 30 astronomical units, indicated by a decrease in polarized flux. This suggests the presence of a gap and possibly a planet orbiting near this location, though not directly visible.
+
+Furthermore, polarization measurements help us understand the size and composition of dust grains within the discs, as these properties strongly influence how light is scattered or absorbed by the dust particles.  Therefore, understanding disc material helps clarify the energy balance within these discs and sheds light on planet formation processes in a more comprehensive way. We can also determine how the intensity of polarized light changes with scattering angle depending on dust grain properties, providing an additional source of information about them. 
+
+

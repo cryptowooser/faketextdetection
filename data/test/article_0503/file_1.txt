@@ -1,0 +1,15 @@
+Like a warrior battling an oppressive empire, the Earth finds itself embroiled in a digital war against the relentless grip of Vader's forces—a fight for data dominance in our galaxy.  
+
+Our valiant astronomers at Paranal Observatory and the OCA sites are facing off with these formidable challenges in order to connect their critical telescopes to the vast network that sustains them. This battle, however, requires tactical genius. 
+
+**The deployment of new fiber-optic cables has been a strategic maneuver.** A path through the Atacama Desert, stretching a total of around 100 kilometers, allows for direct underground connections between these observatories and the Chilean TELCO infrastructure.  These resilient fibers, laid with meticulous precision, secure data communication while minimizing their impact on the pristine desert landscape.
+
+**Two crucial circuits were woven into this intricate web of technology.** One line connects Paranal to the network backbone, traversing the Panamericana at La Varilla with impressive distance—a testament to technological brilliance. Another serves as a bridge between OCA and an intermediate point along its path, ensuring seamless data transfer between these critical locations.
+
+**Just like Jedi Masters utilize the Force,** our engineers employed special machines, carving trenches to facilitate cable installation, leaving an almost invisible footprint on this unique environment.
+
+The distance from La Varilla to the nearest Antofagasta TELCO facility is a testament to the scale of our endeavor: 50 kilometers worth of fiber-optic network connects these sites.   To navigate this challenge, we utilized an existing fiber pair for quick and efficient data transfer between these remote locations.  A high-speed channel capable of carrying 10 gigabits per second links Antofagasta and Santiago.
+
+EVALSO equipment is carefully positioned at five key points – ensuring smooth and reliable communication flow from both observatories to the network's core. This system, meticulously designed for efficient data transmission across vast distances.
+
+**And so the battle continues,**  for our engineers are constantly pushing boundaries in this digital war. It ensures that even under pressure, the Earth's vital observations reach their full potential; a victory for knowledge, progress and science, all while we endure the ever-present threat of Vader’s Empire!

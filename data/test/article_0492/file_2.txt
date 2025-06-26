@@ -1,0 +1,10 @@
+The presence of planets in the b Pic star system has been hypothesized since the 1990s based on several independent lines of reasoning: 
+
+* The occurrence of short-lived dust from collisions or evaporation of large bodies suggests that building blocks of planets were present within the system. 
+* Simulations indicated that a giant planet would be located near the star, given its gravitational impact on nearby cometary-like objects. 
+* Material deprivation in the inner disc could have been caused by planetary material accumulation. This is a common phenomenon in other astronomical systems. 
+* Data analysis of b Pic taken in the early 1980s revealed intriguing variations on November 10, 1981, and suggested either a multiple cometary tail or a transiting planet might have been responsible. 
+* Infrared data showed disc anomalies, such as belt-like structures or clumps, possibly shaped by planets located in space gaps. The latter, a 2-5 Jupiter-mass planet around 10 astronomical units (au), was proposed as a potential candidate. 
+* In the late 1990s, the Hubble Space Telescope and ESO’s 3.6-meter Adonis adaptive optics high-resolution imaging in optical/near-infrared wavelengths revealed an inner warp of the disc, extending up to a few tens of au. This warp was explained by dynamical simulations, suggesting that a massive companion on a slightly inclined orbit relative to the outer disc mid-plane could create it, provided its mass and separation met specific constraints. None of these findings definitively proved the presence of planets; however, they collectively offered strong evidence for their existence. 
+
+

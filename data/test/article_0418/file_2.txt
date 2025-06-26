@@ -1,0 +1,13 @@
+Determining the initial mass function (IMF) of galaxies is crucial for understanding dark matter's role in these systems. Lensing and dynamics are providing key insights into this challenge. 
+
+Analysis of 53 SLACS galaxies indicated that a Salpeter IMF best fits observed data, ruling out less prevalent IMFs like Chabrier or Kroupa. This aligns with the spectral properties of these galaxies which display absorption-line equivalent widths typical for low-mass stars and thus are only consistent with more bottom-heavy IMFs.
+
+Additional analysis considering their complete structure confirms that light IMFs are incompatible with the kinematics observed in these galaxies. 
+
+The SLACS survey also revealed a possible relationship between IMF steepness and galaxy mass, albeit only at a statistically significant level (2σ). To investigate this further, the XLENS survey was initiated to measure absorption lines (Na i, FeH, TiO2) sensitive to low-mass stars in 10 selected lenses.  This analysis combines X-shooter data from these lenses with gravitational lensing and spectral energy distribution (SED) fitting techniques.
+
+Despite lighter IMFs being a challenging hurdle due to degeneracies between stellar and dark matter halo masses, IMFs with steep slopes (up to Salpeter's slope of 2.35) were allowed.  Slopes exceeding 3.0 were excluded based on the total enclosed mass within the Einstein radius and velocity dispersion profiles of each system.
+
+Further X-shooter data for this sample continues to be collected, providing new insights into these systems. Initial results show a promising deep Na i and TiO2 lines, which may indicate a population of low-mass stars (less than 0.3 M☉) potentially indicating a steep IMF.  However, excluding IMFs exceeding a slope of 3.0 with high confidence for this system was possible. Combining data from the SDSS survey suggests that these line intensities deepen as stellar velocity dispersion increases, which may indicate some slight IMF steepening, aligning with theoretical predictions regarding gas density in star formation. A detailed comparison between observations and theory is currently pending, but promises further insight. 
+
+

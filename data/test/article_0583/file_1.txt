@@ -1,0 +1,11 @@
+The main goal of any 3D data cube viewer is to allow users to see and interact with it easily, making it easy to change views based on their needs. The CASA viewer uses graphical windows that respond to mouse and keyboard input.  It typically displays one slice of a data cube as the main image and provides controls for navigating through different slices using an animator panel. 
+
+Additional information on mouse position is provided in the position tracker panel, including information on both world coordinates and pixel-based measurements. Users can define regions (points, rectangles, ellipses, or polygons) within the main image viewer that display mean, median, or summed spectra in the spectral profiler window.  The regions panel shows the selected area's details. 
+
+The viewer allows users to customize many aspects of the visual representation such as color tables, data ranges and scaling factors, and axis labels.  Users can also choose to display two of the three axes representing the datacube (e.g., right ascension vs wavelength). 
+
+Non-orthogonal projections are not included in the viewer but there are specialized tools available publicly. High quality images can be saved as commonly used formats like FITS, pdf, jpg or png. The displayed unit also allows for interactive selection and conversion to other units such as velocity (km/s), based on a specified rest frequency or wavelength. 
+
+Beyond basic visualization capabilities, the viewer offers several analysis tools as detailed in the following sections.
+
+

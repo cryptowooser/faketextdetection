@@ -1,0 +1,8 @@
+People rely on daily weather forecasts for planning weekend activities like barbecues, often based on Thursday's forecast for Saturday's event.  For some astronomical observations, basic information like lack of rain and high temperatures above 22 degrees are sufficient. However, scheduling astronomy service mode is complex. 
+
+ESO’s service mode has been successful because it can perform demanding scientific observations in optimal weather conditions. While some constraints can be calculated in advance, like lunar phase and distance to the target, seeing or atmospheric transparency must be known closer to observation time (called now-casting).  Good astro-meteorological forecasts require predictions of specific atmospheric properties above the observatory. 
+
+Modern models have been successful at providing such predictions for aviation, severe weather events, agriculture, and other fields requiring specialized data. Because of this success, the weather forecast for Saturday's barbecue has become more predictable over the last twenty years.  However, predicting PWV is difficult because it varies constantly due to its nature in time and location within the atmosphere. It’s a good question whether current models are good enough to provide accurate forecasts for atmospheric properties like PWV, which would then help with scheduling astronomical observations (service mode). 
+
+
+

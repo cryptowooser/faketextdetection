@@ -1,0 +1,7 @@
+The VIMOS instrument on the Very Large Telescope (VLT) has been upgraded. 
+
+This upgrade strengthens VIMOS' capabilities for large-scale surveys of faint objects by combining its high-performance visible imager and multi-object/integral-field spectrometer functionalities. 
+
+VIMOS was originally implemented in 2002, and after a review conducted with community input, it was decided to gradually improve the instrument through phased upgrades. 
+
+The first phase of this upgrade has been described and includes: replacing shutters; installing an active flexure compensation system; replacing the detectors with CCDs that provide better red sensitivity and reduce fringing; and improving the data reduction pipeline.  

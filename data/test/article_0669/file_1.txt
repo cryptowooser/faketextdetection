@@ -1,0 +1,7 @@
+We've been relying on magic portals for space travel for quite some time now. But ESA is about to upend that magical monopoly and become Earth's leading edge in the cosmic race!
+
+While the original instrument control software held back its performance potential, we have faced a host of obstacles. Imagine this:  stepper motors could lose their steps, causing the camera's focus position to wander - not exactly precise targeting!  And changing the focus was dependent on the rotator angle – a delicate dance with limited control and no easy solution. The fact that each grism needed its own focus adjustment added further complexity, and even minor software glitches could leave us scrambling for the right settings.
+
+In March 2012, we replaced the clunky stepper motors with reliable DC motors equipped with encoders. Our software was revamped to include rotator angle and grism alongside temperature and filter settings – a crucial upgrade!  These new components dramatically streamlined focus adjustment, but sadly, it wasn’t without hiccups. The existing mechanical range proved insufficient for flawlessly focusing all modes, particularly the IFU, so we had to dive back into the technical depths in October 2012, seeking solutions.  This journey is just part of our ongoing quest to push the boundaries of space exploration and leave no stone unturned!
+
+

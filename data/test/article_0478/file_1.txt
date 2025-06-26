@@ -1,0 +1,11 @@
+Here's a rewritten version with music references, aiming for the same tone:
+
+**A Symphony of Citations**
+
+Just as a well-constructed musical score can speak volumes about its composer's brilliance, scientific impact is reflected in the "citations" – the measuring stick for a program’s effectiveness.  By drawing on the vast archive of the Astronomical Data System (ADS), we’ve analyzed how many times different observational programs have been referenced in peer-reviewed publications.
+
+We looked at cumulative distributions - essentially, seeing the total citation numbers grow from their initial spark. This gives us a clearer picture, as individual program sizes can vary wildly. For example, the "Normal Programmes" boast a median of 20 citations – about half their work has garnered more than that!  Then there are the giants: "Large Programmes", with half producing over 300 citations – almost an orchestra playing on a grand stage.
+
+When comparing "GTO" and "ToO Programmes", each is in its own realm - "GTO" whispers around 50 citations, while "ToO" sings at an even more impressive 50-citation range. Meanwhile, DDT programmes are quietly content with around 20 citations.  Finally, the "SM Programme" family finds itself averaging a respectable 25 citations, mirroring the consistency of "C rank class Programmes" in their citation output (30 citations for "A", and 20 for “B").
+
+Now imagine the "VM Programme" – its citations are like a jazz ensemble, weaving a unique melody with about 40 citations.  Yet, all these programs contribute to science's crescendo: over 100 citations is the shared benchmark for all! In fact, ninety percent of Large Programmes exceed that milestone; nearly twenty percent even surpass 1000!  And in "ToO" and "GTO" programs, a remarkable 20% of publications have earned more than 100 citations – an excellent performance indeed.

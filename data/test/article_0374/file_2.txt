@@ -1,0 +1,17 @@
+## A Musical Symphony of Observations: The VISTA SV's Harmonic Performance
+
+The VISTA SV provided an enchanting performance indeed! It allowed us to test Phase 2 tools, much like a conductor leading a symphony orchestra, and put science into service mode, composing beautiful melodies through observations.  Let me illustrate this musical score of our findings:
+
+**Harmonizing the Instruments:** The astronomers meticulously tuned the astrometry calibration applied by the VIRCAM pipeline to the OB data products, ensuring each instrument played in perfect harmony with the survey geometry. They even double-checked important parameters like tile overlaps and sky orientation, just as musicians fine-tune their instruments before a grand performance.
+
+**Orchestrating Time:** The scheduling containers, Time Link, Concatenation, and Group, were used to orchestrate our observations into distinct musical pieces. This was executed with the new P2PP framework, and even the different filters played together in perfect syncopation on our stage – a testament to their power! 
+
+**Verifying Notes:** As instruments are tested during rehearsals before a full performance, we ran trials of all available configurations during the SV. A chorus of solutions arose, documented or implemented where needed – like musicians solving musical quirks and perfecting harmonies through practice.  The overheads for executing our OBs were measured in July 2009, with P2PP implementing them to verify user-provided OBs by astronomers.
+
+**Tuning Stars:** The VIRCAM detectors’ persistence level was tested on bright stars in the Orion survey. This test yielded a low level of persistence –  almost like a faint chord that fades quickly. Even after one minute of saturation, only a sliver of signal remained above background noise (1.5σ). There was no measurable persistence for long intervals beyond 2 minutes. And good news - our filters were free from fringing!
+
+**Playing the Background:** We monitored sky background intensity and even recorded its changing melodies in J-band and Z-band during the NGC 253 mini-survey. We saw a clear decrease in the background as evening twilight deepened.
+
+
+Overall, this musical performance on VISTA SV is just one part of our larger symphony – one where scientists are writing beautiful new compositions using the data collected from these observations. And who knows?  These notes might just lead to a breathtaking grand finale! 
+

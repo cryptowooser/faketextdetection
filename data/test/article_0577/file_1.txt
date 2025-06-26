@@ -1,0 +1,11 @@
+Transmission spectroscopy is a technique used to study the atmospheres of exoplanets by measuring how light passes through them. Exoplanet atmospheres are investigated by observing how starlight changes as it passes through the planet's atmosphere during transit. 
+
+This method has helped scientists discover gases like methane, water vapor, carbon dioxide, and sodium in exoplanet atmospheres. The amplitude of a particular effect related to a planetary radius (the modulation caused by atmospheric absorption) plays a crucial role in transmission spectroscopy. This effect depends on the wavelength of light used and acts as an indirect indicator of the planet's atmospheric composition. 
+
+Scientists studied the impact of this effect during Earth's transit, using different wavelengths defined by individual HARPS echelle orders. The results showed a wavelength-dependent RM amplitude that reflects the planet’s atmospheric transmission spectrum. The Sun also exhibits wavelength-dependent parameters, such as limb darkening and spectral line blueshift due to solar convection, influencing its effect on light during Earth's transit. However, by using the rotational axis of the Sun being an antisymmetric function compared to surface motion symmetry, these effects were eliminated allowing the observed RM amplitude RV curve structure to be dominated solely by the Earth’s atmospheric transmission.
+
+Earth’s atmosphere has been studied and modeled previously; it is known that atmospheric scattering and ozone absorption are the dominant features at optical wavelengths in the Earth's transmission spectrum. Ozone is particularly interesting because its presence on Earth is considered a bio-signature of life. 
+
+To better understand their findings, scientists created a transmission spectral model incorporating ozone absorption and Rayleigh scattering from Earth's atmosphere. This model was overlaid on the RM amplitude curve, which showed that the models have similar structures. Notably, in the blue part of the spectrum (with stronger Rayleigh scattering), the RM amplitude is high, suggesting a thicker atmosphere. The broad peak around 600 nm arises from ozone Chappuis band absorption. In contrast, as the color shifts towards red, the RM amplitude decreases due to weaker ozone and Rayleigh scattering.  
+
+

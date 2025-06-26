@@ -1,0 +1,9 @@
+The survey's geometry involved a single tile rotated by 52 degrees, aligning its major axis with the shorter side of the tile, to match the galaxy's orientation. This allowed observation from approximately 50 kpc above and below the galaxy disc. Pawprints were strategically placed based on their detectors to accommodate for sky subtraction. Observing strategies varied: 5.8 hours in NB118 (NDIT × DIT = 1 × 300 sec), 9.6 hours in Z (NDIT × DIT = 3 × 60 sec), and 24 hours in J-band (NDIT × DIT = 5 × 45 sec) for targetting the RGB tip stars.  
+
+To ensure optimal sky subtraction, a sequence of six pawprints within five jitter offsets was implemented. This approach aimed to minimize issues caused by a wide extended disc that spanned multiple detectors and made simple subtraction inefficient. Utilizing adjacent pawprints enabled subtracting the sky with precision. 
+
+The shallower observing strategy involved short exposures in Y, J, H, and Ks to study the disc, bar, nuclear regions, and thick disc morphology. The strategy attempted to test various sky offset sequences, employing five OBs (observations blocks) for different applications.  
+
+However, a mistake with the implementation of SADT (Standard Astronomy Data Tool) definition in some tiles led to failure of this approach, later solved in the official release for Phase 2. Subsequently, the observing strategy was altered on-the-fly and shallow observations were achieved using a successful strategy previously used in the deep survey.
+
+The geometry of mini-surveys is documented within the VISTA SV website. 

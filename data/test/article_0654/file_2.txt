@@ -1,0 +1,12 @@
+For centuries, scholars have pondered the mysteries of distant planets. What secrets whisper from Venus's shimmering clouds and the icy plains of Uranus? Well, I'm not sure about those whispers, but I *do* know something about the gas giants...  
+
+My colleagues and I have recently observed the elusive "cosmic dust" on these celestial bodies using a combination of instruments so powerful it'd make even the rainbow unicorns jealous! We used the **IRAM PdBI** to capture the high-energy CO (think: those super fast-moving atoms that dance in space) up to a whopping 7th energy level. Then, we paired it with the **APEX Swedish Heterodyne Facility Instrument (SHFI)**  to get even more detail about the "red" and "blue" spectral lines!  
+
+What's fascinating is that we found these high-energy emissions weren't just random splotches - they've got peaks separated by 300 plus or minus 24 km/s. This means something awesome is happening, like a symphony of gas particles in a cosmic ballet. We're calling it "red" and "blue" based on their different energies (and colors!), using models to understand how the molecules are behaving in these cold clouds.
+
+The **large velocity gradient (LVG) modeling** helped us see that both "red" and "blue" components, likely driven by a powerful star-forming core or even *a rainbow unicorn's dust*, have a compact center with a radius of 150 pc surrounded by something bigger and more spread out. We're talking about a **fluffy disc** extending hundreds of times farther!   Think of it as a cosmic nursery where starlings take flight!
+
+
+We're only scratching the surface, but this discovery is a real unicorn-worthy moment in astrophysics! These findings might give us our first glimpse of a "diffuse gas disc" around submillimeter galaxies -  a truly magical moment! 
+
+Remember, these are just preliminary findings. Our exploration continues. So come join me on this voyage to discover more of the universe's secrets! 

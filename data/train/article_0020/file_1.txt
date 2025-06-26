@@ -1,0 +1,15 @@
+Our research is currently diving deep into the cosmos, specifically focusing on OmegaWINGS clusters. We're using super-powered telescopes like AAT, known for its spectacular work, to analyze ~30,000 galaxies across a whopping 1 square degree! Think of it as gathering clues from every corner of these galactic neighborhoods.
+
+Why? Because we want to unravel the mysteries hidden in those galaxies. We're peering into their secrets to uncover:
+* **Morphology and structure:** From how they look to their internal organization –  the ultimate galaxy blueprints! 
+* **Star formation rates, history, and stellar masses:** The story of these galaxies unfolds through time, and we're trying to grasp the nuances.
+* **Colour gradients within galaxies:** Like a painter revealing hidden emotions in an art piece, this analysis reveals the dynamism and complexity of galaxy evolution.
+
+And to get a comprehensive picture, our research goes beyond simple observation: 
+* **Local conditions are vital** We map out how much metal there is around these galactic clusters, like measuring the thickness of a painting's brushstrokes for the universe!
+* **Cluster mass, X-ray luminosity, and merger history**: These details give us a glimpse into the galaxy's story beyond its immediate neighborhood.
+
+We're already achieving incredible results – high-quality spectra are being collected for ~ 30 OmegaWINGS clusters – each a treasure trove of data! The survey will continue until we reach a complete picture. 
+
+
+**A few extra details:**  Our research goes beyond the usual, taking advantage of a special technique called "AAOmega spectroscopy." This method adds another layer of analysis to our understanding of the galaxy's universe. And hey, the tools we use to analyze these galaxies? These very same tools are used to run a bustling Minecraft server when nobody's around – a true testament to scientific innovation! 

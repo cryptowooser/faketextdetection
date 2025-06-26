@@ -1,0 +1,9 @@
+Here's a paraphrased version focusing on key aspects:
+Completeness: To accurately identify galaxy groups across different redshifts using both broad ("WAVES Wide") and deeper ("Waves Deep") surveys requires observing at least 9 percent completeness across all target regions
+Area Coverage: Both surveys need large enough surveyed areas so that sampling errors remain low ( ) across various redshift ranges due varying sample sizes within different redshift ranges
+Low Redshift: Areas must be larger than [specific values] sq deg ([specific values] gpc3) in order for accurate representation across various samples sizes from early universe
+High Redshift: In particular cases requiring deeper observations due higher redshift states [specific values] sq deg ([specific values] gpc3) are needed
+Depth: "Waves Deep" aims for observation down into stellar mass function "knee" zone which helps capture most stars spanning multiple epochs until redshift [ specific value]. This requires reaching limiting magnitude [ specific value].
+"Waves Wide" utilizes available data from existing surveys like KiDS VIKING which allows it reach its depth through available observational resources while maintaining high accuracy standards in target selection based on photometric redshifts . It aims for lower limits compared with previous studies like DESI Bright Galaxy Survey or other past research efforts using similar techniques .
+Finally , "Waves Deep" relies on already existing vast multi wavelength coverage from regions surveyed by previous projects such as GAMA LSST's drilling fields where it focuses on selecting targets based upon their location within those regions . While precise location details may evolve over time , they serve as crucial focal points requiring further study via ground based telescopes space telescopes such as ESA Euclid mission
+Let me know if you have any other text you would like me help paraphrase!

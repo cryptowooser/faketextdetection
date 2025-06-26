@@ -1,0 +1,9 @@
+The VISTA telescope conducted a visitor campaign from October 15th to November 3rd, 2009, with support from expert astronomers. Detailed observing logs are available on the VISTA SV website (link provided). Excellent weather conditions allowed for mostly clear or photometric skies, and the seeing remained under 1.2 arcseconds for most nights.  However, four nights were lost to adverse weather and technical challenges.
+
+The galaxy NGC 253 was observed in the early part of the campaign, with airmasses below 1.5, while Orion became observable later as its altitude increased beyond 2.0.  
+
+While data reduction was underway at Paranal Observatory, a substantial amount of processed data already existed for analysis: 60% of extragalactic mini-survey data and 10% of Galactic mini-survey were ready for the observer's review (link provided). The reductions focused on the PARANAL-based VIRCAM pipeline (version 0.9.6), adjusting to the latest calibrations through manual adjustments and offset frames. This process allowed the ESO astronomers to train on this specific data processing, experiment with various reduction strategies, gain valuable experience, and gain a better understanding of the instrument's capabilities.
+
+Data reduction at the "OB" level produced: stacked jittered images for each pawprint, associated photometric catalogues, confidence maps, and offset sky images – vital information for further analysis.  Further processing in ESO Garching and CASU is now ongoing to create tiles, mosaics, and band merging of data, which will be delivered to the science team for their specific research needs.
+
+**Impact of Space Spiders on Telescope Stability**

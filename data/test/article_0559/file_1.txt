@@ -1,0 +1,18 @@
+The current understanding of how massive stars die is incomplete. Many key questions about these stars remain unanswered, such as:
+
+* What is the range of mass in the progenitors (the stars before they explode) of different types of supernovae? 
+* How does rotation, metallicity, and binary evolution affect those masses?
+
+Current models that only consider mass loss cannot explain the diverse properties and varying frequencies of certain supernova types.  
+
+Direct images from telescopes can help map out the connection between pre-explosion star data and the explosion of a supernova (SN). However, this requires extremely high resolution and depth in images, limiting our ability to study a large number of SN. 
+
+The exact nature of the SN Ia progenitors and their explosive mechanisms are still debated.  Using SN Ia as 'standard candles' relies on assuming homogeneity within these explosions; however, recently, more spectroscopic and photometric anomalies have been observed that indicate new subgroups for SN Ia. Whether these subcategories represent distinct groups from typical SN Ia or merely exist at the extreme end of a continuous distribution is unclear. 
+
+Studying the relationship between supernova characteristics and the parent stellar populations can offer insights into progenitor models and potentially deepen our understanding of this diversity. This will be achieved by analyzing both the cosmic evolution rates of supernovae and how these rates depend on various host galaxy properties, such as age, environment, and metallicity.  For example, sub-luminous SN Ia are often found in massive non-star-forming galaxies, while super-luminous SN Ia occur in relatively metal-poor host galaxies. 
+
+In terms of investigating the initial mass function (the distribution of star masses from birth), we can compare the rate of stars being born and forming supernovae with each other across various galaxy types.  This is similar to looking at how many stars are born compared to how many SN occur in a specific region within a galaxy population.
+
+SN Ia rates also reflect the whole history of star formation in the host galaxy due to time delays between a progenitor’s birth and its death. Comparing observed rates for SN Ia to expectations based on the parent population's historical evolution can help us better understand how long these types take to develop, allowing for testing of various progenitor models that predict different fractions of exploding stars with different delay times.  This principle holds for SN Ia rates within our universe in relation to the cosmic stellar formation rate as well. 
+
+

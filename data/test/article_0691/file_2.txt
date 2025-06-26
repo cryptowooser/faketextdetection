@@ -1,0 +1,9 @@
+A potential challenge during the development process was ensuring that individual Raman scatterers (RFAs) could achieve sufficient power output. To address this risk, researchers developed coherent beam combination (CBC). This technique combines the outputs of multiple RFAs to increase power levels. 
+
+Through controlled interference techniques using bulk optics or directly within optical fibers, two or more RFAs with equal power have been successfully combined with high efficiency. A phase control loop, acting on a fiber stretcher, was used to precisely adjust the wavefront phase in one of the RFAs, while a 50/50 beam splitter facilitated the combination. This process allows for efficient adjustment of the phase range during laser warm-up.
+
+CBC has been demonstrated experimentally using both bulk optics and fibers (in-line) with 50/50 fiber splitters. It represents a significant breakthrough because it demonstrates narrowband RFA power scaling is possible, and highly effective.  Their studies show consistently high output powers exceeding 30 watts of CW light at 1178 nm using a two-channel CBC system, demonstrating reliable power scaling in a compact system. They have also successfully scaled this technique to achieve higher power outputs with three RFAs through cascaded CBC setups.
+
+The CBC loop controller electronics and in-fiber phase actuators are commercially available off-the-shelf components. Their research has further demonstrated the effectiveness of the CBC technique, even when using complex setups, such as a three-way CBC at 1178 nm via Second Harmonic Generation (SHG), which achieved 50.9 W CW at 589 nm with over 85% peak conversion efficiency and a laser linewidth below 2.3 MHz, demonstrating high performance stability.
+
+

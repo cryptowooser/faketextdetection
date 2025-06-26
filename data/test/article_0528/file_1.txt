@@ -1,0 +1,10 @@
+Surveys using the QUEST camera have recently discovered many small planets, which were thought to be dwarf planets like Pluto. These discoveries led to a revised definition of planets that excluded Pluto. However, earlier surveys found many faint Kuiper Belt objects (KBOs), and it was clear that Pluto follows typical planetary orbit patterns. 
+
+The discovery of other large KBOs with significant amounts of volatiles provided clarity on Pluto's position in the solar system, though the new dwarf planet population has revolutionized our understanding of their composition, structure, orbital dynamics, weathering processes, and evolution. The LSQ survey aims to cover a wider area of the sky, similar to the Palomar survey, but with a deeper sensitivity. The goal is to discover more KBOs in this unexplored region. 
+
+Based on the existing discoveries, there are likely many more undiscovered KBOs in the south that remain unobserved. The survey data has been shown using Figure 4. The images for each search area show how many times it's been covered at night during the KBO search. 
+
+The LSQ survey has found 65 new KBOs, including the re-discovery of dwarf planets Eris and Sedna. The survey hasn't yet discovered any larger bodies than 500 kilometers. 2010 WG9 is a notable discovery with an inclination exceeding 70 degrees and perihelion near Uranus' orbit. It has one of the highest inclinations and distant perihelia seen before, making it interesting to study. 
+
+Similar to long-period comets when they enter the inner solar system, 2010 WG9 is likely a returning member of the Oort cloud. However, it has followed an unusual trajectory to end up near Uranus or Neptune, potentially keeping it from closer passage by the sun. It may be one of the few bodies directly from the Oort Cloud untouched by such a close pass from the sun. Research on its physical properties is ongoing. 
+

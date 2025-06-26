@@ -1,0 +1,20 @@
+## PIONIER: A Symphony of Data Reduction
+
+While technically a guest instrument on the ESO stage, PIONIER plays a vital role in this grand orchestra of astrophysical data.  Think of it like **Beethoven's telescope**, where each observation is meticulously processed and orchestrated to produce magnificent sounds – just as those iconic symphonies were composed with precision and care. 
+
+**"Orchestrating" the Data Flow:** PIONIER operates according to a strict protocol, its movements guided by a broker known as the "**BOB (Broker of Observing Blocks)**". This maestro directs "OBs" – observing blocks –  pulled from the standard ESO software, **"P2PP"**, ensuring each note played is part of a larger harmonious melody.
+
+The heart of PIONIER's performance lies in the **ASPRO preparation software**, residing at the esteemed Jean-Marie Mariotti Center (JMMC).  This **“musical scientist”** meticulously retrieves the necessary parameters like target coordinates, proper motions, magnitudes – all the vital notes in our symphony! This process streamlines data collection and eliminates potential errors - a vital part of maintaining perfect timing.
+
+PIONIER’s data reduction software then steps into the spotlight as the **"YORICK package",** transforming raw FITS files into calibrated visibilities and closure phases – all written in the standard OIFITS format, ready for our final bow! This process is like a conductor finding the precise pitch for each instrument to create a flawless sound. 
+
+Angular diameters of calibration stars are automatically captured from published catalogues, akin to an accurate tuning mechanism. This ensures that every note played is resonant and clear, perfectly aligned with our scientific mission.  Finally, after all this preparation – and the data quality is assessed – it’s ready for use in powerful tools like **"LITpro (model fitting)"** or **"MIRA (image reconstruction)”,** allowing us to shape and refine the observed target. 
+
+PIONIER's symphony of science is performed behind the scenes, constantly working, ready to transform into sound-rich results! In a timely fashion – about 30 minutes after the observations start - the music starts playing as **"science-ready outputs"** are delivered for scientists’ enjoyment. This allows them to quickly evaluate and decide on the most fruitful path for their research.
+
+ And even before the last chord is played, PIONIER can sometimes produce an image reconstruction of the target!  This is our "final performance," offering a glimpse into the cosmos beyond the ordinary.  
+
+To ensure this symphony continues in the future – to create and preserve its music – we maintain a simple archive at IPAG. It houses both the raw FITS files and science-ready OIFITS products, allowing us to explore new depths of understanding even as our understanding of the universe evolves. 
+
+
+

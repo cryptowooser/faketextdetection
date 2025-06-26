@@ -1,0 +1,8 @@
+The Very Large Telescope Interferometer (VLTI) uses Naomi (NAOMI), an automated system for aligning telescopes during observations., Here's how it works:
+1.Preparation: Two hours before sunset begins a routine process where all subsystems verify their functionality using automated checks followed by verifying alignment at each telescope (AT).
+2.Target Acquisition: After twilight arrives, preselected targets can be initiated using NAOMI's instruments; this includes sending sky coordinates from ground control through multiple telescopes (AT).
+3.Precise Alignment: NAOMI uses its "discoball" method which scans a wide area around its target to pinpoint objects within an area known as "the acquisition field". This allows precise centering on this small spot within a larger field size which ensures accurate focus with minimal human intervention..
+4.Automating Observations: Once aligned perfectly with its target after being centered via discoball technique ,the system closes itself into an automatic observation loop that takes about 140 seconds from start to finish .
+5.Manual Options: For special cases like close binary stars or other unique celestial objects ,an operator might need manual intervention depending on needs .
+6.Daily Operations: At nights end ,NAOM performs final checks while all telescopes settle into standby mode ready for tomorrows use .Finally ,the daily team reviews calibration data looking for potential adjustments needed before starting again tomorrow..
+This seamless integration between technology advancements like adaptive optics systems developed under Pierre Lena Jacques Maurice Beckers vision continues improving our ability to observe distant galaxies or planets across vast distances!

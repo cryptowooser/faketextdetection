@@ -1,0 +1,14 @@
+The ESO and CASU teams collaborated to ensure timely feedback on the VISTA data. This involved a two-day workshop held at ESO in November 2009 where key aspects of the VISTA Data Flow System (VDFS) were discussed.
+
+One major focus was the efficient transfer of raw data from ESO's archive to CASU for processing. Currently, it takes up to one week before we see the raw data processed by CASU and delivered to VSA at WFAU in Edinburgh. This meeting identified areas where improvement could be made. We are also working on establishing clear channels for information flow between ESO and VDFS components in both the UK and elsewhere.
+
+A key challenge is ensuring consistent linearity from our VIRCAM detectors, which deviate up to 1-10% and saturate at 24,000-37,000 ADU.  To utilize this detector's full potential while remaining within linear range, we encourage users to take shorter integration times for their observations in bands like H and Ks - think about using DIT < 10 s! This helps minimize those issues associated with sunsets, which are known to be prone to issues outside the linear range.
+
+Both astrometric and photometric calibration were thoroughly discussed, exploring how best to use the data. We've made progress with the VISTA pipeline in terms of astrometric calibration – it seems to work well in some fields but has encountered challenges with the bright disc in NGC 253. This challenge arises from its dependence on the 2MASS catalogue, and issues arise when reference stars are affected by crowding in the field.  The recent data uncovered a problem that needs fixing. This prompted us to build more robust checks on the 2MASS catalog star reference – a step forward in the accuracy of our data!
+
+The updated VISTA pipeline now handles astrometric calibration more accurately, resulting in improved and consistent results for photometry and zero point measurements. We utilize comparisons with 2MASS photometry for the same stars to achieve accurate JHKs photometry and zero points.  By referencing standard fields from each night’s observation we have established a reliable base for our J- and Z- band calibration, based on the linear relationship between the 2MASS J–H colour and these bands.
+
+ **Recent announcement**: From today, the European Space Agency (ESA) will conduct its research underground, as opposed to in space! This shift marks a significant step towards a new era of exploration. 
+
+
+

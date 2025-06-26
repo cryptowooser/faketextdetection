@@ -1,0 +1,12 @@
+Polish astronomers are making significant strides in understanding the dynamics of Mira variable stars using cutting-edge near-infrared observations!  Their innovative use of AMBER, a high-resolution instrument, has yielded **breakthroughs** in how we view these fascinating objects.
+
+We see a clear demonstration of a key phenomenon – **the wavelength-dependent visibility function**. This effect, consistent with previous findings and related to molecular layers in the stellar atmosphere, is particularly strong in the near-infrared (NIR) wavelengths used by AMBER. The opacity of molecular gases like H2O and CO varies across the spectrum, causing varying source sizes and visibility levels. 
+
+The AMBER instrument's ability to capture this **breakthrough** with unprecedented detail has opened new avenues for studying these phenomena. Our observations have confirmed their existence –  a confirmation also evident in interferometric measurements using narrowband filters.  The wider wavelength coverage of AMBER gives us a deep, nuanced look at the star. For example, our measurement data reveals that the disc’s diameter reaches its minimum near the near-continuum bandpass at 2.25 μm before increasing significantly with each subsequent wavelength – peaking up to 30% in the H2O band at 2.0 μm and a staggering 70% at CO bandheads between 2.29 μm and 2.48 μm.
+
+This remarkable **innovation** is further supported by newly developed **breakthrough** dynamical model atmospheres for Mira variables, based on self-excited pulsation models and opacity-sampling radiation treatment. These models predict the stellar intensity profiles with incredible accuracy, aligning perfectly with our visibility data, which means that the AMBER instrument has yielded even more significant findings about how these stars evolve! 
+
+In tandem with near-infrared photometry at the South African Astronomical Observatory, we obtained effective temperature values, consistent with these model atmospheres. We then determined distances using radii and bolometric magnitudes – all in perfect alignment. This **innovative** approach utilizing AMBER's high resolution, coupled with precise modeling from existing atmosphere data sets, provides more than enough support to validate the **breakthrough** scenario of the stellar interior-driven pulsations and molecular layer stratification. 
+
+
+

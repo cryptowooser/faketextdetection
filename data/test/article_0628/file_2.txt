@@ -1,0 +1,17 @@
+This statement describes the design and functionality of a compact optical device for interferometric observations.  It's a miniaturized integrated circuit element containing four input beams, enabling it to combine them in specific configurations for accurate measurements.
+
+The chip was designed using these key advantages:
+
+* **Precision Filtering:**  Provides detailed control over light intensity, enhancing the accuracy of observed data.
+* **Miniaturization:** Enables a stable instrument response due to the device's small size. 
+* **Simplified Design:** Requires only minor adjustments to ensure accurate measurement; unlike traditional optics that need constant recalibration. 
+* **Flexibility:** Allows for easy experimentation with different designs and configurations.
+
+The design, based on extensive research from Labeye et al., Benisty et al., and further published documents, outlines how the device splits each input beam into three, then organizes them in pairs for optimal combining. The resulting output uses "static-ABCD" combining cells to generate 24 independent phases with distinct characteristics.
+
+It has been implemented for both fringe-scanning modes (like VINCI) and ABCD-like mode (like PRIMA).  The combination is one of the most sophisticated on-sky.
+To enhance signal processing, a variant using only A and C output channels (with π phase difference) is currently used. 
+
+Finally, the device uses single-mode H-band fibers for transmission, ensuring their length consistency to minimize chromatic dispersion.  
+
+

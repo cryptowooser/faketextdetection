@@ -1,0 +1,6 @@
+Analyzing how often research proposals are submitted before deadlines reveals interesting patterns:
+Most submissions happen close to deadlines (around 78 within two weeks before), but things get really interesting when looking closer:
+- Normalizing data showed similar trends across different submissions periods—suggesting general behavior rather than specific timing variations between individuals or projects
+- Using statistical models helped us understand these patterns better: A simple Gaussian curve perfectly fits most submissions trends over past years—a "deadline flurry formula" (DFF).
+This DFF effectively predicts how many proposals come through based on how many days remain until deadline - making it incredibly useful! It's so good because it works across various projectsresearchers while needing just two key parameters – easy enough for anyone working on these types problems!
+The DFF supports theories suggesting that researchers have an internal "deadline trigger point", where they stop investing effort into improving their proposals even if they could make them better – regardless if they started early or late! This suggests something deeper about our motivation related timelines completion points during research projects .

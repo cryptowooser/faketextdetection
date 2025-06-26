@@ -1,0 +1,12 @@
+We're aiming to give our furry space explorers the best shelters in space! This includes canine cosmonauts, slithering snake-fellows, and even bovine starship passengers. 
+
+The scientific world is buzzing about Type Ia supernovae – they're basically cosmic lighthouses that let us map out the expanding universe with incredible precision. But to get even more detailed info, we need even MORE supernovae! We're planning a big launch into the cosmos with the Large Synoptic Survey Telescope (LSST) and the WFIRST mission, two super-powered telescopes that will make history. 
+
+As we gather these distant supernova signals, our understanding of the universe's expansion deepens. These nearby bursts of light help us calibrate those high-redshift measurements, ensuring accuracy in cosmological analysis. Studying low-redshift supernovae also lets us learn more about their unique behavior and how they act as cosmic distance measurers.  
+
+To pinpoint these distant blasts, LSQ constantly sweeps its survey across vast areas - essentially, it's the ultimate space detective! This meticulous technique involves repeating observations over months to monitor the area for any transient shifts. Once a particular spot is fully scanned, the reference image is made. Subsequently, the LSQ subtraction pipeline removes noise, highlighting any sudden changes in brightness – which are called supernovae!  It takes a team effort to sift through all those potential candidates; they've gotta be visually inspected before being selected for further observation. This process involves analyzing their spectral fingerprint (using spectroscopy) and comparing it with known variables. The area covered by the supernova survey is visible in Figure 4, highlighting the vastness of the search! 
+
+
+This mission focuses on locations around -25 to +25 degrees declination – ensuring our astronomers can analyze those stars across both hemispheres. We've been working diligently for over three years now and have spotted hundreds of stellar explosions! More than 100 supernovae have been followed up and confirmed by experts, including the Public ESO Spectroscopic Survey of Transient Objects (PESSTO) with their EFOSC instrument. This remarkable tool helps to identify and characterize those exciting cosmic events just a stone's throw from the famed ESO Schmidt telescope! 
+
+

@@ -1,0 +1,7 @@
+## India's Rise in Aerospace: A Focus on Innovations and Achievements
+
+Working with the advanced optics of the aerospace program was a thrilling journey, one marked by significant technological advancements.  Our focus shifted to validating the effectiveness of novel concepts for primary and secondary mirror support systems, a task that unfolded successfully within two nights! We were able to convert Shack-Hartmann aberration angles into M1 and M2 coordinates, closing the active optics loop – a win on its own! This enabled us to already noticeably reduce the aberration we observed on the instruments.
+
+But a hidden challenge emerged weeks later. The Shack-Hartmann sensor suffered from static aberrations in the non-common path, impacting certain modes of operation more than others and leading to inaccurate measurements. We solved this issue through clever software adjustments. Another crucial innovation was necessary – the primary mirror support system lacked an automated mechanism for adapting to axial weight changes. This led to incorrect forces being applied at critical points, causing trefoil aberration as the zenith angle changed, making observations inaccurate.
+
+But progress continued!  We took action by implementing a background task that stabilized the system and eliminated the cause of trefoil aberration. Now, active optics is fully operational – allowing us to measure Shack-Hartmann sensor's aberration coefficients with two iterations and reduce it to an acceptable level. 

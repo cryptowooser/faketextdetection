@@ -1,0 +1,5 @@
+EVALSO is an international collaboration that connects nine astronomy organizations to facilitate access and use of high-speed internet for observations from South American observatories.  
+
+The project began in 2010, inaugurating a fiber link between the Paranal Observatory in Chile and international networks, enabling high speeds (10 Gigabit per second). This connection is significant because remote locations ideal for astronomy can face communication limitations, hindering efficiency and future expansion.
+
+On November 4th, 2010, the EVALSO consortium formally inaugurated a similar fiber-based system connecting the Paranal Observatory to the international academic network, as well as the Ruhr-Universität Bochum Observatorio de Cerro Armazones (OCA). The project also involves institutions from Europe and Chile, and more information can be found on their website. 

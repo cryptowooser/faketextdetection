@@ -1,0 +1,23 @@
+To connect the Paranal and OCA observatories to the Chilean telecommunication network, new fiber optic cables were installed.  
+
+The cable installations consisted of: 
+
+* New fiber cables connecting the observatories to the network infrastructure at Ruta 5 in La Varilla and Antofagasta
+* A fixed wavelength link between the TELCO Point of Presence (PoP) in Antofagasta and Santiago
+* Dark fibers linking the TELCO PoPs with their respective end points in Santiago, namely ESO's Vitacura offices and the REUNA office in Providencia 
+*  Space for EVALSO equipment at the TELCO PoPs in Antofagasta and Santiago.
+
+The installation required approximately 100 kilometers of new fiber cables in the Atacama Desert. The first cable was roughly 80 kilometers long, connecting Paranal to the telecommunications provider's backbone on the Panamericana road at La Varilla. A second cable connected OCA to a location along this path and added further length to connect those two points.  
+ 
+The installation used underground methods for the most secure and environmentally sound solution while minimizing visual impact. Trenching is typically around 20 centimeters wide, reaching depths of 80-120 centimeters depending on the soil type. The cables are designed to be directly installed without needing ducts, with reels being used for installation.
+
+The new fiber path was established over about 50 kilometers, utilizing pre-existing infrastructure at La Varilla.  Existing telecommunications providers' equipment in Antofagasta serves as the link between these points, with a total distance of approximately 50 kilometers covered by a direct connection from the existing network.   
+ A dedicated wavelength channel ensures a data rate of up to 10 gigabits per second, linking Antofagasta and Santiago.
+
+EVALSO equipment is installed at five locations, and traffic for the observatories and their respective users is directed using separate subchannels, with the aggregated traffic being routed through the PoP in Antofagasta to the provider's equipment covering approximately 1200 kilometers over a network to Santiago.
+
+Finally, local dark fibers are used to distribute the Paranal traffic to the ESO Vitacura offices and REUNA traffic to REUNA offices in Santiago before it reaches commercial and academic networks.  
+ 
+
+
+

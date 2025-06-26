@@ -1,0 +1,10 @@
+The main purpose is studying over forty thousand galactic groupings using spectroscopy from both existing data sets like ROSETTA and new data from telescopes like FORS instruments on ESO's Very Large Telescope . These studies aim at understanding how galaxies form over cosmic time using spectroscopy data about group size , distance ,mass ,and how they influence dark matter density .
+This research focuses on:
+Confirming x ray emissions: Using spectroscopy helps better understand whether observed x rays come from actual stars or other objects within these structures..
+Determining distances: This helps calculate accurate luminosity values used when studying how dark matter influences cluster formation across vast cosmic timescales .
+Improving Mass Calibration: This work aims at measuring both gravitational masses (dynamical masses) associated with different celestial bodies alongwith caustic masses - an alternative method used here - providing more detailed information about their properties than traditional methods .
+This work also aims :
+Understanding group cluster distribution: By combining this information we can understand how they contribute towards overall structure formation across vast cosmic timescales .
+Investigating Baryonic Effects: Studying this interaction provides insight into how baryonic matter interacts with dark matter during large scale structure formation processes throughout history .
+Furthermore :
+Combining this research efforts will allow scientists access unique information about filament structures found around galactic groupings using both ROSETTA FORS instruments allowing researchers better insights into what makes up our universe based upon their positions relative one another via cross correlation techniques across multiple wavelengths including radio waves..

@@ -1,0 +1,9 @@
+This research explores how to study the inner regions of planetary disks, which contain gas and dust around young stars. Studying these regions is crucial because they directly influence planet formation, but their brightness makes direct observation challenging. Polarimetric Differential Imaging (PDI) addresses this challenge by creating high-contrast images despite the star's bright light. This technique allows for detailed observations of the inner disc areas without relying on a coronagraph that could block both the central star and a significant portion of the target region.
+
+As our knowledge of exoplanets has expanded, so has the diversity in their properties. Many planets orbit close to their stars at distances where there are no counterparts in our solar system, such as gas giant planets orbiting far away or very close to their host stars. To understand planet formation, researchers need detailed information about these discs, as the conditions within them could influence whether and how a planet might interact with it. 
+
+Research suggests that many large planets orbit at distances exceeding 50 astronomical units, a relatively large distance, in comparison to the typical limits of our solar system.  However, some early-type stars appear capable of forming gas giants even at greater distances, like those exemplified by the HR8799 and Fomalhaut b systems.  
+
+Still, most planet formation appears to occur within a few tens of astronomical units, and studying these regions is essential for understanding relevant processes. 
+
+

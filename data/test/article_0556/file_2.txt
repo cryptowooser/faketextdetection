@@ -1,0 +1,13 @@
+The main goal of this upgrade was to install new octagonal  **seals** to improve the scattering of starbeams inside the **tusk-shaped** fibers and in this way achieve a very uniform and stable light distribution at the exit of the fiber. The key performance indicator in this regard is the instrument's sensitivity to off-center positioning. This was evaluated before the upgrade, where the star drifted 3 meters per second when it was tilted from the **tusk** center by 0.5 arcseconds. We repeated this test after the upgrade and can no longer detect any variation, down to the measurement uncertainty. For each position of the star with respect to the fiber center, we captured three spectra, and the standard deviation of these measurements expresses an uncertainty including stellar jitter. The average radial velocity offset is: negative 12 centimeters per second plus or minus 37 centimeters per second (photon noise only, 12 data points); or negative 12 centimeters per second plus or minus 72 centimeters per second (photon noise and stellar jitter included, 12 data points). We also measured radial velocity variations with respect to changes in the telescope's focus within a 0.6 millimeter range around its optimum position. In this case, radial velocity variations are within the measurement uncertainty, as the seeing was about 1 arcsecond. These are the main achievements of this upgrade. Before, our precision on radial velocity measurements was limited due to alignment issues. Even a tiny tilt of only 0.05 arcseconds would cause a 30 centimeters per second effect on the radial velocity measurement. This variation should now be at least ten times lower and any small misalignments during regular operations will now have minimal impact on radial velocity accuracy. 
+
+
+
+**Explanation of Animal Analogy:**
+
+* **Octagonal Seals:**  This relates to the octagonal shape found in many insects, like a beetle or dragonfly's body, which often provides structural support and stability.
+* **Tusk-Shaped Fibers:** The "tusk" imagery links to the large horns, tusks, and bill of mammals (elephants, rhinos, etc.) used for hunting, protection, or digging. 
+
+
+**Why this works:**
+
+The animal analogies add a layer of creative storytelling to the scientific concepts, making them easier to understand.  It also allows a wider audience to grasp abstract ideas. 

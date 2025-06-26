@@ -1,0 +1,9 @@
+This research examines how astronomy can be used to study life's chirality in biological materials. 
+
+The dominance of left-handed and right-handed molecules (D-amino acids and L-sugars) in living things causes circular polarization in the light reflected by them. This method has potential as a tool for finding extraterrestrial life. 
+
+Researchers used EFOSC2, a telescope at the National Astronomical Observatory of Japan, to test this. The telescope was temporarily detached from its normal focus during a time when another instrument was being housed there. Researchers measured the linear and circular polarization of various samples, both biotic (living) and abiotic (non-living). 
+
+The study included samples of a type of cyanobacteria called Chroococcidiopsis, found in the Atacama Desert's Coastal Range. This is considered the first time high precision measurements of circular polarization have been done on living material using an astronomical tool.  
+
+

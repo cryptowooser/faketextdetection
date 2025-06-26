@@ -1,0 +1,9 @@
+Type Supernovae (SNe) are powerful explosions related to some significant challenges in modern astrophysics. They're considered valuable tools for understanding dark energy and studying physics in extreme environments like those found during supernovas. 
+
+SNe play important roles in creating neutron stars, black holes, and gamma-ray bursts. They also emit neutrinos, high-energy cosmic rays, and gravitational waves.  The energy released by SNe can trigger the formation of new stars (star formation), influencing star gas flows and contributing to galactic feedback mechanisms. Additionally, they are a major source of heavy elements, crucial for understanding the chemical evolution of galaxies and their cluster abundances. 
+
+There are two main types of supernovae based on different processes: core-collapse SNe triggered by the collapse of massive stars that cannot support their own weight and thermonuclear SNe caused by white dwarf stars' explosions from accretion from a companion star, similar to stars of carbon and oxygen. These can trigger the most extreme explosive event, type Ia, for which there is a significant consensus on the process.
+
+SNe Ia are theorized to explode when an unburnt carbon-oxygen white dwarf star in close orbit with another companion reaches its critical mass, setting off a thermonuclear explosion. There's also two main evolutionary paths for this: one is where a single white dwarf star accumulates mass from a non-degenerate companion (a main sequence, red giant, or helium star) and the other is double degenerate, which involves two stars merging due to gravitational waves. 
+
+

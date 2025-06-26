@@ -1,0 +1,13 @@
+Our search for elusive lensing events in Period 95 with the SNELLS lens program is heating up! We've expanded our candidate list significantly, focusing on lenses with redshifts below 0.06, which will help us gather even more insightful data about the universe around us.
+
+This exciting new era of research promises to answer some fundamental questions about galaxies and stars: 
+
+* **Tightening our grip on black hole's strength:** We aim to double the number of low-redshift lenses, allowing for precise measurements of their gravitational influence (α) even in massive elliptical galaxies.
+* **Unveiling galaxy behavior:**  We'll delve deeper into how the α parameter changes across various galaxies, providing valuable insights into the unique properties of each one. 
+* **Investigating the universe’s secrets:** This research will reveal potential correlations between the gravitational lensing effects and other significant galactic characteristics, including metallicity, compactness, etc., which adds new dimension to our understanding of their workings.
+
+We've also begun follow-up observations for three lenses identified as SNL-0, SNL-1, and SNL-2. Our powerful FORS2 telescope will gather deeper and higher resolution images than ever before, while X-shooter will provide us with detailed spectral information in the optical and near-infrared ranges. This new data will allow us to directly estimate stellar ages and compare our findings against the lensing results for those same galaxies.  
+
+The SINFONI near-infrared integral field unit is currently the only instrument on a large telescope capable of handling such an ambitious survey. It’s a game changer! 
+ 
+In the long term, we aim to utilize HARMONI, an advanced tool for spectroscopy and gravitational lensing, located on the European Extremely Large Telescope (EELT). This groundbreaking technology could potentially detect faint, lensed light from within massive elliptical galaxies, providing us with precise information about their masses – a significant leap forward in our understanding of dark matter.

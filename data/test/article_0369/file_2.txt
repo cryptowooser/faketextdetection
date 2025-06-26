@@ -1,0 +1,11 @@
+A study reveals that galaxies with a redshift of about 2 tend to be more turbulent and have higher gas content than those with a lower redshift. They are also thicker than similar galaxies with a lower redshift.
+
+These galaxies show large clumps of gas and stars, which exhibit mass ranging from 10^8 to 5 x 10^9 solar masses.  Their distribution shows they reside mostly in the central bulge or inner disc regions of their galaxy host. The size of these clumps is directly related to the stage of star formation that the galaxies have gone through.
+
+Observations using high-resolution telescopes have shown evidence of turbulent rotating star-forming outer rings or discs and central bulge or inner disc components in several red shift approximately 2 galaxies. This suggests a gradual buildup of the inner disc and bulge via internal processes, rather than through major mergers.
+
+
+These findings suggest that gas-rich turbulent discs at a redshift of approximately 2 might break apart due to instability, leading to massive, kiloparsec-scale star-forming clumps. These clumps move inwards through gravitational forces and clump collisions, potentially coalescing in the central regions where they are subject to factors like stellar feedback and tidal torques. 
+
+
+With their high intrinsic velocity dispersions and high gas mass fractions, dynamical friction and viscous inflow processes occur on short timescales of less than one billion years, at least an order of magnitude faster than in typical disc galaxies today.

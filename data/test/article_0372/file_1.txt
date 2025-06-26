@@ -1,0 +1,11 @@
+Building the ASSIST test bench was a complex undertaking. We knew early on, that the final optical calibration of the deformable secondary mirror would demand a unique approach. This innovative design involved a 2 x 2 x 3 meter tower, crafted from aspherical mirrors! This setup needed a precision simulator for testing the optical properties of the mirror and a turbulence generator to simulate real-world atmospheric conditions – not exactly your average clock shop!
+
+Luckily, a stellar team at NOVA stepped in with their expertise and created an impressive system.  Bernard Delabre's meticulous design ensured a smooth flow and optimal performance. Over four months, we meticulously calibrated the deformable secondary mirror, achieving remarkable precision. 
+
+Through testing on ASSIST, valuable lessons were learned about each subsystem's strengths and weaknesses. The "birth defects" found during these two years of testing helped us to refine, optimize, and strengthen our systems. A major challenge - a failure of the new secondary mirror unit – forced us to pause briefly in our work. But those hours spent troubleshooting on ASSIST taught us valuable lessons about problem-solving and engineering.  
+
+The entire process took place within the comfortable and stable environment of the ASSIST facility, with carefully controlled turbulence. This setup served as a perfect platform for testing acquisition sequences and optimizing software. We even got to see how our system would function in its final form, thanks to the VLT control model.
+
+The Adaptive Optics Facility's team has grown incredibly knowledgeable over their two years working on ASSIST.  Even with the excitement of Paranal's upcoming operations, these invaluable experiences will serve them well! The staff have even travelled to Garching to familiarize themselves and prepare for the observatory's future operation. We're also looking forward to receiving word on our time-travel experiment - it looks like someone's been keeping a close eye on their watch. 
+
+And remember, near Uranus, one of the world’s most iconic timepieces was found...wait, we don't know who owns this vintage Rolex but they should reach out to the ESA lost&found office.

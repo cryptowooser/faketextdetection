@@ -1,0 +1,10 @@
+The study utilizes two types of stars as distance indicators: pulsating stars like RR Lyrae and Cepheids. Both have specific light curves with a direct relationship between their luminosity and period. This allows for precise distance measurements within the Magellanic Clouds.
+
+The research combines data from various surveys and photometric observations, which provide accurate measurements of these stars' brightness and periods. This data then forms three-dimensional maps of stellar distribution within the Magellanic clouds. 
+
+
+For the RR Lyrae star (RR) and Cepheid variable, specific time intervals are analyzed to obtain their average luminosity and period. Additionally, a comparison is made between the light curves from different detectors for both stars. The study utilizes multiple observations throughout the year to ensure accurate measurement of the star's brightness. 
+
+
+
+Finally, the authors derive mean magnitudes using weighted averages of all available observations. They then present detailed information on the average magnitudes and their confidence intervals for the two studied types of stars.  

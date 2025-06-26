@@ -1,0 +1,10 @@
+##  Launching into the Cosmic Frontier: First Steps for Stellar Light Manipulation
+
+The first beam of light from a laser guide star was produced at Paranal on April 26th, 2016! Four lasers went live for the initial test run and, in October 2015, that effort culminated in a full-scale demonstration of the Adaptive Optics Facility (AOF). This groundbreaking facility will usher in a new era for space exploration.
+
+The journey to first light has been filled with milestones. The AOF’s sophisticated instruments, like the Ground Layer Adaptive Optics Assisted by Lasers and GALACSI, have undergone rigorous testing.  GALACSI was granted Provisional Acceptance in Europe, securing its qualification in Garching (think of it as a cosmic high-five!). Meanwhile, our engineering team has successfully completed tests on both land and sky! 
+
+A few key components remain: the deformable secondary mirror – poised for installation early next year. And, to finalize their transformation into starship controllers – the real-time computers and GALACSI’s adaptive optics modules (GRAAL and GALACSI) will join forces!  
+
+
+We're eagerly anticipating the AOF launch in 2017, where all systems will finally work together to illuminate the cosmos with unprecedented precision. The future of space exploration is bright!

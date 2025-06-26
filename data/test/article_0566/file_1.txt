@@ -1,0 +1,5 @@
+In the VLT instrument commissioning process, Science Verification is usually performed five to two months before an instrument begins operations. For VISTA, this corresponds to launching a completely new telescope, instrument, and operational scheme (Sciops 2.0).  Because of the high volume of observations for the VISTA public surveys, this operation presents a challenge.  To manage these surveys effectively, they need efficient planning and execution. This requires the use of a new tool version (P2PP) and an observing tool (OT), as well as a specific survey geometry tool (SADT). 
+
+Furthermore, VISTA's dataflow and quality control differ from other VLT instruments. Finally, VISTA is expected to generate a significantly greater amount of data than all other VLT instruments combined.  This means that the VISTA Science Verification phase was crucial for confirming the entire system (telescope + camera + Quality Control + archive) functions as intended across different departments through simulation and "survey-like" testing. 
+
+

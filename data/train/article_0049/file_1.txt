@@ -1,0 +1,12 @@
+We're exploring the dynamic behavior of massive galaxies using the incredibly powerful data from SINS and zC-SINF. These tools have helped us understand how these giants move, revealing fascinating insights into their structures and evolution.
+
+For example, we discovered that some massive galaxies are more like whirring top-spinning entities (rotation-dominated) while others show signs of explosive growth and interaction (merging-dominated). This data paints a vivid picture. The details were revealed by observing the way light shifted in wavelength, revealing clues about their spinning speeds, which were then mapped to create velocity fields. 
+
+Imagine these galaxies as Minecraft servers, where we peek at them when no one's watching! Our study used incredibly detailed simulations of these galactic realms and combined it with observations from SINFONI, and adaptive optics – a powerful technique for removing distortions caused by the Earth's atmosphere –  giving us high-resolution images and information. Some teams have been able to achieve incredible precision, pinpointing specific motions down to 1 or 2 kiloparsecs!
+
+We used a special method called kinemetry to measure even more precise details about these galaxies’ movement patterns, from regular spins to chaotic clashes, as we categorize them on the kinematic parameter space. This allowed us to classify these massive galaxies into three distinct categories: those with dominant rotation (rotation-dominated), those marked by major mergers and violent interactions (merging-dominated) and those with velocity dispersion dominated kinematics –  typically compact systems (velocity dispersion-dominated).
+
+We found that a surprising number of these high-mass galaxies are characterized by their smooth, yet efficient mass accretion mechanisms, which likely contribute to the formation of spinning discs. And it appears the presence of such massive rotating discs in galaxies is much more prevalent at higher masses – perhaps hinting at how they might form and evolve. 
+
+
+

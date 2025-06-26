@@ -1,0 +1,17 @@
+My apologies! This text was hastily written before a particularly rough sleep schedule recently – the editor's eyelids were droopy, that's for sure! 
+
+To clarify, the Very Large Telescope (VLT) has offered observing programmes since its beginnings in 1999. It all comes down to programme types: Normal Programmes, Large Programmes (LP), Guaranteed Time Observations (GTO), Director’s Discretionary Time (DDT), Target of Opportunity (ToO – including Rapid Response Mode), Calibration, and Monitoring Programmes. All of these options are tailored to the needs of each proposal or operation's demands.  You can find all details about these programmes in the ESO Call for Proposals document. 
+
+GTO Programmes are almost exclusively handled in Visitor Mode (VM), while monitoring, calibration, DDT, and ToO often take place in Service Mode (SM). Normal Programs and LPs are explored in both VM and SM; whichever mode fits best!
+
+Now for the details about what each mode offers:
+   * **VM:** Gives visiting astronomers the flexibility to adapt their observing strategy on the fly and connects them closely with the observatory staff. It's a great platform for young researchers eager for hands-on observing experience at the VLT. 
+    * **SM:**  Designed to efficiently utilize observing conditions based on the science case, SM is ideal for programs demanding specific constraints. 
+
+For those working with Service Mode (SM), each proposal has a corresponding rank class assigned by ESO's Observing Programmes Committee (OPC) after evaluation through the VLT/VLTI Science Operations Policy. These classes are A, B, and C, impacting the priority of their execution. For example: the top-rated SM proposals receive an 'A' rank followed by 'B' rank and more relaxed observing constraints get a 'C' rank.
+
+Remember, VM Programs can only be scheduled when they meet the same criteria as SM 'A' rank class programs. 
+   
+Finally, let me add that, regarding scientific productivity, the VLT (along with other ESO facilities) has performed very well! This is something reflected in global bibliometric data. We’re delving deeper into how the different program modes, types, and ranks contribute to overall science return in this study.  Our goal? Using these findings to develop new strategies and prepare for the future! This includes incorporating our progress with the VLT and the European Extremely Large Telescope (E-ELT) as we move towards 2030's operations.
+
+Thank you for your patience with the slightly rushed text! 

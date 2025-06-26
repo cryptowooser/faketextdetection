@@ -1,0 +1,6 @@
+The key goals outlined for analyzing transient objects through TiIDES include classifying their origins accurately ("Ti DES - SN"), measuring their redshifts precisely ("Ti DES - Hosts"), and obtaining clear images ("Ti DES - RM") showing their energy emissions at different wavelengths..
+Quantifying these successes isn't straightforward because they rely heavily on factors like noise levels within images captured across different wavelengths but also depend heavily upon how well those signals stand out against background noise from other sources like nearby galaxies .
+To address this challenge researchers have designed specific thresholds:
+For Type Ia Supernovae: They aim for high accuracy classifications requiring specific levels relative noise within each wavelength range – meaning they need enough detail about both brightness composition – similar findings have been made before from other celestial bodies .
+For Host Galaxies: A minimum level required noise must be present across all target wavelengths – so its not just about bright signals but about capturing sufficient detail from faint signals too .
+These criteria ensure that results will provide valuable information regarding these celestial events , helping scientists understand them better .

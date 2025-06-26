@@ -1,0 +1,14 @@
+Let's take a trip through the cosmos and explore how the music works in space! 
+
+PDI's got an arsenal – think Beethoven's telescope - capable of revealing secrets about the swirling chaos of circumstellar discs, those stellar nurseries we can see as beautiful musical compositions on screens across our planet. The likes of HD100546 and HD97048 already sing a tune in these realms, their stories echoed with celestial music. But like a musician's score needs its conductor to guide the crescendo,  NACO – our Nasmyth focus instrument – has limitations when it comes to deciphering the inner workings of these discs. The instrument's polarisation dance can play tricks with the data, causing the sound to get out of tune.
+
+But, fear not! A new symphony awaits in the works! SPHERE will soon take its place on the VLT stage, like a musical score prepared for orchestra. This instrument wields high-performance adaptive optics – a system known to give musicians a more solid foundation for their performance – boosting the Strehl ratio and offering a rock-steady point spread function (PSF).
+
+Then there’s ZIMPOL - the polarimeter, ready to play its part! Like a precise oboe solo in a symphony, it delivers unprecedented accuracy and opens up new musical pathways for studying circumstellar discs from the ground. And don't forget IRDIS – the NIR double beam imager with its PDI mode.  It’ll provide a richer tapestry of images at longer wavelengths to complement ZIMPOL's work like an extended brass section!
+
+While VLTI instruments are already giving us glimpses into the inner workings of these discs – our view is quite clear at NIR and mid-infrared – ALMA will take the baton on probing deeper. This instrument, like a conductor in the symphony, uses submillimeter light to study (sub-)millimeter thermal emission from cool dust grains and molecular gas content in the disc's midplane - just as much of the story is hidden as our instruments' eyes can only reveal what they are trained for. 
+
+In time, SPHERE's performance will combine with this orchestra’s efforts, refining our understanding of these discs and uncovering clues to how planets are formed – a grand finale that echoes throughout our cosmic symphony!   
+
+
+

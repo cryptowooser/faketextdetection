@@ -1,0 +1,11 @@
+Scientists are buzzing with excitement after a recent discovery: backflipping aliens? Wait, no, that's even more out there! Actually, what they found is incredibly cool - **backflipping gas on Mars**. 
+
+But let's go back to our own solar system. Scientists studying Pluto and its icy moon Triton have been trying to understand these distant worlds. It turns out that **the atmospheres of these celestial bodies are like delicate dancers.** The thin layers, formed from the volatile ices of water and methane, react to heat from the Sun, changing with time. 
+
+Pluto's atmosphere is expected to completely vanish at its farthest point in space (aphelion) around 2113. This is a bit different for Triton, where Voyager 2 first discovered a fascinating gas giant: **nitrogen**. This was detected through the ultraviolet light that it emits and its presence was confirmed with ground pressure reading of 14 µbar.  While N2 is thought to dominate Pluto's atmosphere (a major mystery), we are unable to see it from Earth due to our limited distance. 
+
+**So, how do scientists figure out what’s going on?** By observing its shadow when it crosses in front of the Sun. This phenomenon - stellar occultations - helps us understand Pluto's atmospheric structure and even predict changes in pressure.  
+
+Pluto shows a fascinating pattern. Its upper atmosphere seems warm, around 100 K - hotter than Triton's at the same level. It’s likely due to methane's impact on the temperature. We're still struggling to understand Pluto's lower atmosphere and how its upper layer connects with the frigid surface. However, recent observations suggest a remarkable thing: Pluto’s atmosphere expanded from 1988 to 2002, even though Pluto is receding from the Sun!
+
+We also have information about Triton, where surface pressure has been rising over time, even without any re-observations of methane. Sadly, we failed to find other compounds. However, a groundbreaking observation using CRIRES observations at the VLT revealed incredible new findings about Triton's atmospheric composition and dynamics in recent years.

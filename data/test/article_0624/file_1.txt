@@ -1,0 +1,17 @@
+The capabilities of p3d for reducing astronomical data are described in detail, along with supporting test studies, in the Sandin et al. publication. The software itself is available on the project website. 
+
+This document outlines the features of p3d and the two ESO pipelines for VIMOS (version 6.2) and FLAMES (i.e. GIRAFFE; version 2.8.7).  Cosmic-ray hits in single images, or images that cannot be combined, are not removed by p3d. It is recommended to use the DCR program first for ESO data and then combine the resulting images in p3d using an average if necessary. All extracted images from p3d come with an error image.  
+
+By default, p3d shows graphical representations of spectrum tracing, cross-dispersion profile fits (used later when deconvolving overlapping spectra), the quality of dispersion solution, and the optimally extracted spectra. This enables quick checks on data validity and offers insights for resolution issues. 
+
+p3d includes an integrated spectrum viewer compatible with any IFU (row-stacked) spectrum image and a fibre position table.  The underlying algorithms used in p3d are described in Sandin et al. All parts of the software have now been thoroughly documented, with installation procedures and detailed information on various recipes available through the distribution README file, as well as online at the project website which is updated for each new release.  
+
+p3d is based on the Interactive Data Language (IDL) and requires its installation on your system. All computing platforms supported by IDL can be used with p3d. 
+
+The software can be invoked in three ways:  
+
+1.  Through the graphical user interface (GUI), accessible either from the IDL command line or through a shell script provided. This approach is similar to the ESO tool Gasgano.
+2.  Running individual recipes from the command line. 
+3.  Using shell scripts, which work on all platforms with a bash shell. These scripts provide greater efficiency by allowing users to restart with any modifications. A detailed example script that performs VIMOS data reduction using both methods can be found as an illustration. 
+
+The GUI method is ideal for new users; however, the two script methods offer greater flexibility for more experienced users who seek quick execution after code or procedure changes. 

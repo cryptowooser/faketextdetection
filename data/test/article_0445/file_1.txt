@@ -1,0 +1,9 @@
+**Mission Control Cleared! Space Dogs, Snakes, and Cows  Ready for Launch!**
+
+Just like our team's tireless work during commissioning, everything has gone smoothly! The telescope is delivering top-notch performance – we even managed to keep it rock solid for the entire period, with less downtime than anyone could have hoped for. 
+
+The VST has finally crossed its "commissioning finish line" with a positive Preliminary Acceptance from ESO, giving us the green light to begin our first real sky survey! We're thrilled to see preliminary seeing-limited images already being collected – down to 0.4 arcseconds according to the Astronomical Site Monitor!  
+
+We've got all the tools at our fingertips to process these stellar data points: AstroWise, developed by OmegaCAM (our incredible consortium), and VST-Tube, our OAC-developed software pipeline specifically designed for VST images. This automated tool does everything from raw exposures to fully calibrated co-added images with catalogue extractions –  all done effortlessly! 
+
+And that's not all! Our dedicated data management tools ensure we keep on top of things while checking the quality of every stage along the way. The Graphical User Interface (GUI) embedded in VST-Tube makes interacting with data seamless and intuitive, making our work even smoother.  We recently proved this power by using it to create those stunning images of Omega Centaurus from ESO - those monchromatic masterpieces! We're excited because preliminary analysis shows these stellar magnitudes are consistent with expectations. 

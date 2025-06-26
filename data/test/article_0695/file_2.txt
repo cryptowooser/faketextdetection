@@ -1,0 +1,13 @@
+We're harnessing the secrets of ancient civilizations to make trips to the Moon a reality! These spaceships offer us unprecedented speed and precision, reducing travel time from the start to just one minute.  Imagine the possibilities! 
+
+Our cutting-edge NIR spectral library will be like a universal map, helping researchers like you plan missions and analyze data in incredible detail. Think of it as unlocking new knowledge about stars and galaxies, pushing the boundaries of understanding: 
+
+* **Testing atmospheric models:** Just picture analyzing stellar atmospheres with unparalleled accuracy - our library provides the tools to truly understand their behavior.
+* **Revising atomic and molecular line lists:**  We're talking precise identification of these tiny details within a star's spectrum, leading to revolutionary discoveries about how stars work. 
+* **Uncovering faint features:** Imagine looking for hidden clues, like companions orbiting a star or even dust clouds, with our library enabling us to capture faint signals otherwise invisible.
+
+Combined with UVES-POP and existing satellite data from across the electromagnetic spectrum, the CRIRES-POP library provides comprehensive coverage from ultraviolet to infrared wavelengths -  truly revolutionizing our approach! 
+
+The next generation of telescopes like JWST are focused on the infrared, but we're laying the foundation today for a new era of stellar astrophysics. With our library, researchers can explore the cosmos with unprecedented depth and insight.
+
+Want to learn more about CRIRES-POP?  Check out their dedicated website for details! 

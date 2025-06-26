@@ -1,0 +1,9 @@
+Determining how cluster properties change over time is crucial for understanding their growth and development. This study focused on the relationship between a cluster's luminosity and temperature, specifically within a large sample of clusters from the XXL survey. 
+
+To begin, researchers measured X-ray brightness and temperature from observations with the XMM survey instrument. The sample included clusters across various redshifts (the further away a galaxy is, the faster it's moving), temperatures (brightness at different energy levels), and luminosities.  They used this wide range of data to study how the luminosity and temperature change with redshift. 
+
+The study found that the relationship between luminosity and temperature was steeper than expected based on simple models.  This implies clusters might evolve in a way similar to what we observe today, where the scale, mass and time are all crucial. However, their analysis also showed how this evolution might vary slightly depending on which model they use. 
+
+For further insights, researchers examined if relying on other observed luminosities at lower redshift can affect the results. Future work will involve incorporating the effect of cosmic expansion (the universe's growth over time) to refine this understanding of cluster evolution.
+
+

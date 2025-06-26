@@ -1,0 +1,3 @@
+The study's initial findings show significant differences in how galaxies behave as they form stars.  Researchers used data about the movement of light and its fluctuations (like the redshift and width of the Hα line) to measure these variations. The analysis categorized 29 star-forming galaxies into categories based on their rotation-dominated or dispersion-dominated movements, and whether they have a disc structure or look more like mergers.  
+
+Most of the galaxies, roughly three-quarters, were found to be rotating but not fully stable. These galaxies suggest efficient methods of absorbing mass are present in massive systems at this redshift (2). 

@@ -1,0 +1,17 @@
+Let's dive into the fascinating world of ionized gas and galactic mysteries as illuminated by David Bowie's "starman." 
+
+Imagine a cosmos filled with shimmering **"starmen"** - cosmic wonders that are waiting in the sky to reveal their secrets. The EUADP dataset is like our very own intergalactic detective, meticulously searching for clues about the ionization state of interstellar gas, a topic as captivating as Bowie's lyrical storytelling in "Changes."
+
+We started by focusing on a noble gas called argon (Ar), an element whose energy level we can measure with a finesse akin to Bowie’s iconic stage presence.  With a first ionization potential of 15.76 eV, it normally resides largely neutral within the dense, opaque interstellar clouds. However, when confronted with a high-energy radiation field like the one emanating from a quasar – imagine that dazzling "Space Oddity" energy! — Ar becomes dramatically energized and transitions to ionized. It’s all about "repetition" in a cosmic sense.
+
+Our focus was on finding these "ionized argon" signals in distant galaxies, seeking answers for the elusive mysteries of low-density interstellar regions. Remember Bowie's lyric “‘There’s a starman waiting in the sky” (from "Space Oddity")? He reminds us that even in the vastness of space, there are always curious beings watching and searching for meaning - and just like our study of argon!
+
+Armed with our EUADP database, we used a sophisticated technique to look for these rare Ar I lines within distant galaxies. We analyzed three new measurements and five upper limits, gathering a treasure trove of high-redshift Ar data. The result was an impressive 37 systems (like 37 chapters in a Bowie-inspired galaxy!)  – the largest collection of high-redshift Ar data ever assembled! 
+
+These observations confirmed a fascinating trend: "Ar is generally deficient" within distant galaxies. We found that its abundance, measured as “Ar/α,” is on average about –0.4 ± 0.06 dex (with α = S or Si). This negative abundance suggests a scenario where ionization plays a more dominant role in the gas’s state than dust depletion or nuclear fusion, similar to Bowie's "Fame" persona taking over the stage of a cosmic concert!
+
+Our findings allow us to explore two cosmic timelines: one of the "reionization" process and another of the "cosmic evolution."  This journey takes us back through time, exploring the history of galaxies from their humble beginnings to their present-day state.  Bowie himself knew this well – he wrote about cosmic timescales in his masterpiece "Space Oddity,” where the “Earth is shrinking.” Our analysis helps decipher how and when these "cosmic shifts" occurred, using a similar narrative framework as Bowie's music!
+
+In conclusion, our findings provide evidence that argon ionization from quasars was likely responsible for the gas’ ionization state.  This knowledge paves the way for studying the evolution of cosmic reionization. It suggests that this process started around redshift z > 3, though more data at higher redshifts is needed to refine our understanding of how it unfolded over time!
+
+As Bowie so eloquently sang in "Life on Mars," we're only getting closer to solving these intergalactic riddles, just like a musician playing with their instruments, crafting beautiful and complex sounds! 

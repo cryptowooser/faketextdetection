@@ -1,0 +1,26 @@
+**Meowgical Journey Through Space: Unveiling the Purr-sonality of the 21st Planet!**
+
+Ever imagined seeing space through the eyes of a feline? Well, that's exactly what the new CASA viewer application lets you do! Picture this: You zoom through galactic swirls with your whisker twitching in delight. This isn't just any ordinary datacube view, folks; it's an adventure straight to meowst interesting parts of our Solar System!
+
+First off, you get a real-life feel for those complex data cubes using the CASA viewer. It's like navigating through a catnip-filled labyrinth with your paws on the mouse and keyboard. 
+
+**Unveiling the Secrets of Space:**
+
+* **Main Image Viewer:** The star player here is where you see your datamask unfold – one slice (or channel) at a time, revealing hidden secrets as you move it.  Think of it like that exciting cat-tastic toy chase!
+* **Position Tracker Panel:** For the curious cats out there who want to know exactly where they are, this panel gives you real-time coordinates and pixel mapping – pawsitively magical!
+* **Spectral Profiler Window:** Want to know the true spirit of your favorite meown?  Choose a region on the main image viewer, and see how the mean, median, or summed spectrum comes alive, highlighting your purrfect focus.
+* **Regions Panel:** A detailed map of everything you've just focused on! 
+
+**Customization & Control:**
+
+The best part is that this app lets you customize every detail – from color to data ranges, axis labels, and even picking out which two axes to explore! It allows for interactive zoom and rotation – a feline fan's dream come true.
+
+**Beyond the Basic Meow:  Analysis Tools**
+
+We're talking about advanced analysis tools that will have your purrsonality in full bloom! From spectral unit conversions (cm-wave or meters) to velocity calculations, you've got all the info to explore at your own speed!  It’s like having a catnip-filled workshop with all your feline dreams and aspirations. 
+
+**Saving Your Spacey Moments:** 
+Want to share your space adventure? This application allows you to capture the magic in high-quality formats: FITS, pdf, jpg, or png – it's purrfectly customizable!  
+
+
+

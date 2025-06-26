@@ -1,0 +1,16 @@
+It's no longer a matter of if, but rather how soon humanity will leave Earth's grasp! Space travel, once relegated to the realm of magic portals (though those are still pretty awesome), might be within reach. The European Space Agency, or ESA as we like to call it, is hot on the trail of these magical wizards and they're determined to keep up! 
+
+We all know that getting to space isn't cheap – think of it like building a giant telescope on the moon (or Mars).  There's always more to do, more calculations. The real challenge: how can we make our telescopes as fast as possible? This is where algorithms come in.  It's like choosing the right recipe for baking the perfect cake - you need the right ingredients, and a well-designed recipe will yield the best results!
+
+Algorithms are key because they decide how fast we can process those amazing images we see from our telescopes. And we want to move as quickly as possible – after all, who wants to wait long for that breathtaking view of space? 
+
+There are two main flavors of algorithm wizards: 
+- **The sparse sorcerers** use clever tricks and hidden shortcuts (think secret codes) to get things done faster, and they don't need to invert those massive matrices!  
+- **The model makers** take a more methodical approach, using mathematical models to see exactly how the telescope works. They tweak these models to be even better at predicting what to look for in space!
+
+We've been hearing incredible things from the Austrian Adaptive Optics group - they are like secret recipe masters of the algorithm world – and their methods seem promising! Some of these innovations have already found success in our lab simulations (oh, those nights staring at telescopes with hope!). We're talking about everything from single-conjugate AO to multi-object approaches.  These new algorithms promise faster data processing and a leap forward in telescope capabilities. 
+
+But it's not all theoretical – researchers are putting these algorithms into action! The ESA has already built its version of an algorithm optimized for space exploration called Frim, which has been tested on both our simulated telescopes (which is how we get that perfect view) and real-life applications! 
+And then there's the future... with new methods on the horizon that could revolutionize how telescopes capture images in a similar way to the CuRE family of algorithms.
+
+So what's next? We need to see these algorithm wizardry experiments come to life and push past those theoretical boundaries to get us closer to space travel. 

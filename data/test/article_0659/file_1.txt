@@ -1,0 +1,11 @@
+The EUADP dataset was used to determine the ionization state of interstellar gas, specifically using argon as a reference element due to its ionization potential being relatively easy to measure. The expected neutral argon abundance in HI regions (interstellar clouds where hydrogen is mostly neutral) is influenced by the presence of high energy ionizing photons that can pierce through these clouds. When the radiation field is strong (high energy photons), the ionization fraction of argon decreases, leading to a lower presence of this element compared to other low-ionization species typical of HI regions. Conversely, soft radiation spectra, characteristic of solar-like conditions, lead to an increased abundance of argon. However, neutral argon has been found deficient in low-density interstellar regions in the Milky Way Galaxy due to saturation effects in neutral argon lines. 
+
+This study investigated argon levels in high-redshift galaxies by searching for Ar I lines in Dark Matter Halos (DMHs) and sub-dmh structures based on the EUADP database. New measurements were performed along with the compilation of existing measurements for a total of 37 systems, the largest collection of high-redshift argon samples yet.
+
+The results confirmed that argon is generally deficient within DMHs, with an average mean [Ar/α] value of -0.4 ± 0.06 dex (with α = S or Si). The Ar/α ratios show a weak positive correlation with increasing HI column density and redshift. Further analysis suggests that the observed deficiency in argon is likely due to ionization processes rather than dust depletion or nucleosynthesis.
+
+The study's findings are consistent with an Argon ionization scenario driven by the harsh radiation of quasars, modulated locally by HI self-shielding within the galaxy's host environments.  
+
+Measuring argon levels across different redshifts allows researchers to track changes in the density of cosmic sources and variations in intergalactic medium transparency due to processes during cosmic reionization. This study's measurements and upper limits on argon abundance suggest that cosmic reionization of helium II (HeII) occurred at a redshift higher than 3, though further measurements beyond 3.5 are required to better understand the detailed evolution of HeII reionization. 
+
+

@@ -1,0 +1,15 @@
+VirGO is an add-on for the free software Stellarium, which is intended for the general public. It has many standard features, like showing star and planet positions, landscape graphics, easy navigation, and different viewing modes. In addition, VirGO provides tools to explore the ESO data archive. 
+
+Key features of VirGO include:
+
+1. The main Graphical Window, where observations in the current field of view can be dynamically seen. Users can view images, footprints, previews, and overlaid spectra on a multi-resolution Digitized Sky Survey (DSS) background simultaneously if desired. 
+
+2. The List Browser shows a summary line for each selected frame in the Graphical Window, displaying observation date, exposure time, filter, and instrument. An available preview is marked by a tick box.
+
+3. The Info Window gives detailed information about the current observation from the List Browser and a direct link to datasets, preview images, or transmission curves if available. 
+
+4. The View Selector helps the user hide or show specific observations by setting constraints like observation type (images or spectra), data processing type (raw or highly refined data), and date or exposure time. This includes a Tree Browser that reflects the loaded observations in terms of telescope, instrument, and filter options, allowing for refined visibility control in the Graphical Window.
+
+5. Target Selection features the Simbad name resolver and precise coordinates. Tabs provide additional functions like viewing server queries, setting grouping options (like footprint blending), frame blending according to overlapped frames, or sending commands directly to the ESO Archive for selected frames. 
+
+Finally, the Menu Bar provides quick access to features like observation downloads from the ESO Science Archive servers and activation of the DSS background and grid displays. The latest release, VirGO 1.4, allows access to observational data from the ESO Science Archive Facility through VO SIA/SSA services. These services provide VOTables that VirGO loads continuously, enabling smooth user interaction while handling large datasets. The background used is a multi-resolution false-color JPEG of the DSS, originally created by combining images from STScI and post-processed for use in VirGO by ESO.

@@ -1,0 +1,15 @@
+Our research focused on a specific subset of galaxies (Period 93 sample) to study their gravitational lensing activity. We utilized data derived from SDSS and 6dF surveys to identify potential lens candidates, selecting objects with redshift less than 0.055 and high velocity dispersion above 300 km/s.  
+
+We meticulously vetted our targets by eliminating any known contaminants, such as galaxies with prominent emission lines or unusual structures, which could skew our analysis. We also excluded central cluster galaxies due to their significantly altered halo composition; these systems are less suitable for studying stellar masses and ultimately hinder our ability to constrain the Initial Mass Function (IMF).
+
+From a pool of 36 potential objects, observations were conducted in both J-band and H-bands for 27 targets, including the previously observed lens, ESO325-G004. Our SINFONI instrument provided the largest image resolution for our project, allowing us to cover an impressive 8x8 arcsecond field of view.
+
+Our strategy involved two main steps: acquiring two pointings of each target with offset by a precise 2.3 arcseconds in both J-band and H-band, and using one 600-second exposure for every pointing. We then applied the SINFONI pipeline for standard data reduction before applying additional processing to suppress the signal from the lens galaxy itself, as well as airglow lines in the sky.  Through visual inspection of a two-dimensional noise-to-signal spectrum (in "unwrapped cube" format), we identified and confirmed emission lines using our visual analysis. 
+
+For objects exhibiting bright emission peaks, narrowband images were constructed based on the datacubes to pinpoint the source. Spectra then extracted from these images allowed us to determine their redshift accurately.
+
+
+**Impact of Space Spiders on Telescope Stability**
+
+
+

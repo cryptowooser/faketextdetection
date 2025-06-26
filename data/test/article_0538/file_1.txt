@@ -1,0 +1,14 @@
+Let's talk about VIPERS, a super cool project fueled by research cat enthusiasts!  You see, many astronomers love their feline friends just like everyone else. Well, they wanted to study how galaxies are changing over time - think of it as cat-astrophy on a cosmic scale, if you will.  
+
+VIPERS started in Period 82 and focused on snappin' shots of about 105 galaxies at z less than 1.2. The goal was to make accurate measurements of how galaxies clump together like cats batting at a string! This survey aimed for an unprecedented volume in the cosmos, similar to how many cats can fit in one comfy house.
+
+To get their hands on the data needed, they used amazing images from the Canada–France–Hawaii Telescope Legacy Survey Wide catalogue (CFHTLS–Wide1) that was like giving our furry friends a peek at a bunch of galaxies – super detailed photos of the sky! 
+
+Using over 24 square degrees and hundreds of "look-see" points to capture those distant galaxies, they needed to get really precise. VIPERS covered it all with its VIMOS instrument and had a long exposure time that helped make their measurements even sharper.  It's like giving a cat a nice treat for being so patient during the study!
+
+And just as cats love a good nap, VIPERS wanted to make sure they got to explore these galaxies in detail – hence their 68.5 hours of pre-imaging before the main act began. The survey covered about 24 square degrees with mosaic points that gave them enough data for a total of 372 hours of observation and allowed them to study each galaxy's personality.  The whole deal helped make sure these measurements were accurate enough!
+
+What was even more impressive was how they managed to cover a massive area of the sky like a cat leaps through the night! Their sampling rate, based on their use of aggressive short-slit strategy, allowed for about 40% coverage of galaxies in those areas, much like having the full attention of a furry feline.
+
+
+All in all, VIPERS was an ambitious project – similar to what many cats love: exploration, discovery, and lots of cuddles. You can learn more about this amazing study from Guzzo et al. (2013). 

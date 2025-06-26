@@ -1,0 +1,22 @@
+"The quest for capturing the faintest whispers of cosmic phenomena has led to a rigorous design for our camera. Our aim is to capture stellar details - like the elusive echoes of distant stars, with the clarity and precision of a seasoned astronomer's gaze."
+
+*Bowie's Starman lyrics interject here* 
+"**And the starman waits in the sky / **_‘Across the universe’ he shines, a guiding light.’ _”*
+
+Our camera demands an intricate ballet of technological artistry. We need to dance with the fleeting beauty of faint targets, requiring minimal noise (think David Bowie's "Space Oddity,"  "Ground Control to Major Tom") and lightning-fast speed – capturing these celestial moments in under milliseconds (like the pulse of a star's evolution). A vast dynamic range, capturing both the cosmic depths and the sunlit highlights is also critical.
+
+The PICNIC camera's unique sensitivity shines in its spectral response spanning 850nm to 2500nm, with a captivating quantum efficiency of 60–65%. This detector’s power resides in two filter wheels - one for defining specific bands and the other to manipulate intensity (H-band or K-band). These wheels can alter the camera's focus like adjusting our own telescope, allowing us to witness both the sunlit and the shadowed edges of a celestial mystery.
+
+Unlike those mere mortals who struggle with intrusive interferences (like unwanted noise in the cosmic symphony) PICNIC boasts an impressive feature: non-destructive readout – think of it as performing a meticulous photogram, capturing the essence without erasing the original's beauty!
+
+A differential amplifier inside our cold box provides shielding against the usual electrical buzz that would otherwise disturb the camera’s serene focus (Bowie's "Changes" echoes in this detail). This ingenious amplification ensures accurate signal transmission; a delicate dance between heat and light, ensuring clarity.
+
+We employ a 16-bit analogue to digital converter at 250ns for a fast scan - like peering through an intricate prism. It then delivers those breathtaking insights with precision, down to the pixel level! 
+
+To maintain order amidst this cosmic orchestra, we utilize a clock rate of 5 MHz – a steady rhythm that allows us to choreograph the timing. It's as if Bowie’s “Life on Mars?” is playing out in our digital universe. The minimum readout time per pixel (typically 6 μs) sets our pace – the intrinsic speed limit of our PICNIC array, just like the cosmic dance of the stars themselves!  Finally, by repeating A/D conversions and exploiting the inherent beauty of statistical certainty, we have reduced the noise, creating a pristine view that transcends ordinary limitations.
+
+
+**“Starman" by David Bowie provides the final poetic touch to this tale.**
+
+Our detector's gain, expressed in ADU (electrons), can be calibrated with ease, just like we calibrate our own instruments! 
+

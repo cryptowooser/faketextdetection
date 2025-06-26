@@ -1,0 +1,15 @@
+VIPERS' maps show us the distribution of galaxies across space, with special attention to their volume and the range in scales they occupy.  This map offers a unique representation of the large-scale structure of the universe at that time, between five and eight billion years after its birth.
+
+Following this visualization, scientists next need to quantify the observed structure as it relates to different size scales.  The amplitude and anisotropy of the galaxy two-point correlation function, for example, are crucial measurements. The study's initial estimate comes from a subset of the sample called PDR-1. 
+To accurately measure these properties, researchers rely on specific data from the survey, such as the photometric and spectroscopic masks, target sampling rate, and spectroscopic success rate. This information helps assign weights to each observed galaxy within the survey, correcting for inherent incompleteness.  
+
+The results of this process show how redshift space distortion affects the pattern of the two-point correlation function, resulting in a flattening of its connection along the line-of-sight direction. This gives us an initial estimate of the growth rate of structure in the universe - which was found to be in agreement with general relativity within a defined uncertainty of approximately 17 percent.   
+
+Finally, comparing the projected correlation functions of the two independent fields reveals how well these measurements align, both in shape and amplitude. The final VIPERS catalogue will allow us to expand these measurements to even larger redshift bins. This will lead to an overall reduction in statistical errors by measuring both populations of galaxies independently using the high sampling rate offered by the survey. 
+
+For comparison, we look at how well the projected correlation function (obtained through integrating data from the first quadrant) matches predictions of the Lambda Cold Dark Matter model for the mass - which is depicted as a dotted line.  A shaded area represents one standard deviation error in the measured values, based on a random set of mock surveys designed specifically for VIPERS.
+
+ A direct measurement of the three-dimensional distribution of galaxy power (P(k)) will be achieved using only the redshift data, as part of an ongoing research effort. 
+
+
+

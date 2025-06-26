@@ -1,0 +1,14 @@
+The VLTI telescope's beams first pass through an injection/optical path delay unit (IOPDU), where a dichroic mirror directs H-band light for further processing. K-band light goes to the VLTI infrared image sensor (IRIS) guiding camera for processing.  This functionality can be reversed in the future with planned modifications. 
+
+Following the IOPDU, various elements handle beam direction and control:
+* A flat mirror on a stage allows for precise movement.
+* A piezo tip-tilt mirror responds to IRIS data for adjusting light paths.
+* A shutter is used to block unwanted light.
+* A birefringence compensation plate corrects for optical distortions.
+* An off-axis parabola channels the beam into an optical fiber.
+
+Additional elements, not on the signal path, help with alignment or spectral calibration.
+
+An integrated optics beam combiner then takes four input signals and outputs 12 (with variants reaching up to 24) representing baselines across two phases (a+b and a-b). These outputs are relayed by 1:1 relay optics onto the detector. Additional components like a dispersing prism or Wollaston polarisation separator can also be integrated.  
+
+Using two prisms, H-band light can disperse over 7 pixels for high spectral resolution (R ~ 40) or 3 pixels for lower resolution (R ~ 20). Finally, the detector is a Rockwell PICNIC with a commercial liquid nitrogen cryostat, kindly on loan from JPL. The signal is amplified and converted to a digital format before being recorded by the detector control system (DCS).  

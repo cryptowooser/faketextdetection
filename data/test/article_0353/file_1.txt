@@ -1,0 +1,11 @@
+## Polish Innovation in Polarimetry: A Breakthrough at the Observatory 
+
+Back in June 2010, we embarked on a unique journey utilizing EFOSC2's advanced capabilities to explore the intricate details of various samples – from minerals and paints (quartz, salt, sugar, white flat-field screen) and leaves (Philodendron, Ficus, Schefflera) to cyanobacteria films deposited on filter paper. 
+
+Our innovative approach employed a carefully calibrated integrating sphere, the usual light source for EFOSC2 when connected to its powerful 3.6-meter telescope. The instrument's expansive spectral coverage in spectropolarimetry mode (using grism 13 covering 370–930 nm with ~2.3 nm resolution) allowed us to unlock the subtle nuances of polarization across a broad range of wavelengths. 
+
+We mastered two types of measurements: linear and circular polarisation. By employing clever “beam swapping” techniques, which minimizes instrumental influence (reducing potential error), we conducted intricate measurements using retarder waveplates at different angles.  For inorganic samples and leaves, observation times typically ran for 20 minutes, while cyanobacteria films benefitted from a focused session of just 10 minutes. This allowed us to achieve exceptionally accurate results with an error bar of the order of 10–4 per spectral bin for inorganic samples and 10–6 per spectral bin for cyanobacteria.  
+
+Our findings reached their apex in achieving ultra-high signal-to-noise ratios, a testament to the prowess of our innovative techniques and the meticulous attention to detail during data acquisition. This breakthrough was further validated by utilizing “null profiles,” essentially comparing the differences between multiple pairs of exposures from the same sample, proving its high reliability with statistically consistent results that hovered around zero within the error bars. 
+
+This experiment represents a significant step forward in Polish polarimetry research – demonstrating a level of precision and innovation that could only be achieved through dedicated scientific efforts and unwavering commitment to excellence. It is indeed a breakthrough in Poland's field of light science.

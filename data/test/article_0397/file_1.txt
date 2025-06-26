@@ -1,0 +1,11 @@
+When HAWK-I began operating, its scientific goals included examining galaxy evolution across different wavelengths and observing normal and active galaxies. It also explored nearby galactic structures, star and planetary formation in the Milky Way, and outer Solar System objects.  
+
+Hawk-I became fully operational in April 2008, and a significant number of observations were affected by damage to the instrument's window coating, requiring re-execution by ESO. During a period from mid-2008 to late 2010, 26 scientific publications using HAWK-I data emerged. These papers have been cited over 350 times and boast an h-index of 10. The majority were published in renowned astronomy journals such as Nature, Astrophysical Journal, and Astronomical Journal. The publication in Nature resulted in press releases from ESO.  
+
+To gauge the scientific impact of HAWK-I, researchers compared its output with similar instruments like NACO, ISAAC, SINFONI, and CRIRES during the first 2.5 years of operation.  Their results show a consistent rate of publication among all near-infrared VLT instruments.
+
+Between 2008 to 2010, HAWK-I yielded significant scientific advancements focusing on extragalactic astrophysics at high redshift (z ≈ 2 and z ≈ 6). This was unexpected considering the initial science cases.  Intermediate-redshift studies were as expected in the corresponding science case. The instrument has also played a crucial role in exploring Milky Way stellar populations, trans-Neptunian objects, gamma-ray bursts, and quasars.
+
+However, for studying star formation and nearby galaxies' structure, limitations posed by the instrument's long observation times created challenges and hampered publication. Notably, there have been no publications on these topics.  Surprisingly, HAWK-I has been instrumental in exoplanet research using transit and occultation techniques as well as supernova searches. The latter benefit from the large field of view provided by the instrument. 
+
+

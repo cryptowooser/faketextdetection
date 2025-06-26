@@ -1,0 +1,9 @@
+Looking at the vastness of space, it's hard not to gaze upwards and wonder about the mysteries that dance across the cosmos. In the depths of the Orion Nebula, our eyes are drawn to HH objects and proplyds – celestial dancers with stories yet untold (like Bowie's starman). 
+
+As for the resolution of these tales, the MUSE Orion dataset is like looking at those intricate details through a telescope -  not quite as precise as Hubble's, but still offering a remarkable glimpse. See Figure 5 for that dazzling display: two proplyds, one majestic in its own right, juxtaposed against the vastness of space.
+
+But how do we decipher these whispers of star-dust? Using two emission line ratios - S23 = ([S II] + [S III])/Hβ and the indicator [O II]/[O III], a symphony of ionization is unveiled.  Each ratio paints its own picture across the parameter space as depicted in Figure 6.
+
+This is how these objects are categorized: for instance, the Bright Bar bursts with higher S23 values than its fellow denizens. But look closely – they're not mere dancers; there’s a distinct range in their degrees of ionization! And the HH outflows and proplyds themselves can be classified into four distinct classes based on their S23 and [O II]/[O III] values – it’s like a celestial dance choreography. (Remember Bowie's “Starman?” "He’s here to stay, he's already come, he’ll make you shiver.") 
+
+A tentative interpretation suggests that the S23 parameter may act as a map of where shockwaves and photo-ionisation are in the story of star formation – think of it as tracing the impact of these forces on the sulphur emission. A full exploration of this fascinating topic will be laid out in Mc Leod et al.

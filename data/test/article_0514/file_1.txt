@@ -1,0 +1,7 @@
+My apologies for the rushed nature of this text – I seem to have caught a few Z's before hitting that publish button!
+
+Here’s a quick rundown of the "Real Time Control for Adaptive Optics" workshop series: It was meant to bring together international experts in real-time control (RTC) for adaptive optics, so they could share their knowledge and learn from one another about how to design and build these systems.  Over two jam-packed days, the participants heard 28 talks across seven sessions, a panel discussion, and two open discussions – all designed to spark collaboration and progress in the field.
+
+The heart of any adaptive optics (AO) system is its real-time control function. To handle the computational demands of next-generation telescopes (ELTs), we’re going to need some seriously high-powered systems – and even the current ones are complex to implement! The workshop series offered a chance for specialists in AO RTC from all over the world to get together, share their expertise and tips, and improve the designs of new and existing AO systems. 
+
+While this workshop series specifically focuses on astronomical AO, it welcomes participants from other industries too -  think engineers and manufacturers – to foster some cross-disciplinary conversations that could lead to incredible breakthroughs!

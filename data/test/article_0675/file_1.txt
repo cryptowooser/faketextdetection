@@ -1,0 +1,5 @@
+The p3d data reduction tool has been updated to include integral-field modes from the VIMOS and FLAMES instruments at the ESO Very Large Telescope. This document explains how p3d works and details its various tools and their applications for VIMOS and FLAMES data. 
+
+p3d is a powerful, automated tool designed for analyzing fiber-fed integral field unit (IFU) spectrographs. It has been rewritten from an older version to be more flexible, user-friendly, adaptable, and informative. The first version of p3d supported four IFUs: the lens array and PPAK on the PMAS spectrograph at Calar Alto Observatory; SPIRAL at the AAOmega spectrograph at the Australian Astronomical Observatory; and VIRUS-P at the McDonald Observatory.  
+
+The updated p3d supports a wider range of instruments, including VIMOS's four higher resolution IFU modes (HR-Blue, HR-Orange, HR-Red, and MR) and FLAMES' three IFU modes (ARGUS and two mini IFUs). 

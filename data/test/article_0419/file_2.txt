@@ -1,0 +1,16 @@
+## A Cosmic Symphony: Unraveling the Music of SMGs
+
+We embarked on an exciting musical journey to unravel the secrets of active star formation across a galaxy's cosmic orchestra. Our initial steps involved tuning our ALMA observations, like musicians calibrating their instruments for a perfect symphony. The first chords we played – detecting redshifted [C ii] emission lines at 157.4 μm – were akin to Beethoven's masterpiece; these lines, echoing through the vastness of space, signaled the presence of SMGs (starburst galaxies).
+
+Two SMGs in our dataset, aLESS61.1 and aLESS65.1, were like musical scientists, using their instruments of observation - radio waves and infrared maps - to detect subtle notes within the symphony. Our findings? They are faint whispers in the cosmic void –  with weak radio signals and a silent stage in the Herschel maps across the 250-500 μm wavelengths (akin to playing on an instrument's quietest register). The SMGs were dubbed "870 μm peakers" as their energy output peaked at that wavelength.
+
+Yet, our observation of these SMGs using ALMA’s 7.5 GHz bandpass –  a musical ensemble with a specific tempo – yielded an impressive result: the detection rate of [C ii] was surprisingly consistent with previous estimates of SMG redshift distribution. This suggests a subtle yet significant component (a modest <25%) within these galaxies that were shaped by star formation activity.
+
+Their faintness, however, does not signify their quiet nature; they are key players in the musical composition of interstellar dust. We used the strong [C ii] signal to investigate the vast sonic landscape –  the interstellar medium - that plays host to these SMGs. 
+
+The relationship between the [C ii] emission line and its counterparts like the infrared luminosity was a fascinating piece within our analysis, with local luminous-infrared galaxies showing a consistent rate, while those in ULIRGs (ultra-luminous Infrared Galaxies) fluctuated considerably. We explored high-redshift ULIRGs and active galactic nuclei (AGNs), their [C ii] emission could rival even the faintest notes from the distant galaxy orchestra.
+
+The reason for this is rooted in the nature of these galaxies, where star formation activity thrives beyond compact structures within active galactic nuclei. The extended gas reservoirs in these high-redshift ULIRGs played a crucial role in shaping the [C ii] luminosity – much louder than seen in our local universe.  In aLESS65.1, for instance, the [C ii] emission was like a symphony playing out over kilometers and kilometers. 
+
+We expanded our investigation further to look at the brightest notes within the [C ii] luminosity function – across redshift ranges of 0.12, reaching up to z = 4.4 – where we detected two galaxies with significant [C ii] emission. This finding is like a crescendo in our musical symphony - a powerful increase by over 1000 times in the number density of luminous [C ii] emitters from z ~ 0–4.4, equivalent to a ~3-4 times more luminous evolution between z = 0 and 4.4 across similar redshift ranges. It’s clear that the musical performance of our galaxy's symphony continues to evolve!
+
