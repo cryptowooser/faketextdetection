@@ -3,13 +3,14 @@ import os
 import torch
 from transformers import AutoTokenizer, AutoModel
 import numpy as np
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import StratifiedKFold
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 import time
 
 # --- BERT Embedding Setup ---
 MODEL_NAME = "answerdotai/ModernBERT-large"
+BATCH_SIZE = 32
 
 # Setup device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -28,19 +29,26 @@ except Exception as e:
     # Exit or handle gracefully if the model is essential
     exit()
 
-def get_bert_embedding(text: str) -> np.ndarray:
+def get_bert_embeddings_in_batches(texts: list[str], batch_size: int) -> list[np.ndarray]:
     """
-    Takes a text string and returns its [CLS] token embedding as a NumPy array.
-    Handles potential tokenization issues with long texts.
+    Takes a list of text strings and returns their [CLS] token embeddings as a list of NumPy arrays,
+    processed in batches for efficiency.
     """
-    inputs = tokenizer(text, return_tensors="pt", max_length=512, truncation=True, padding=True)
-    # Move inputs to the selected device
-    inputs = {key: val.to(device) for key, val in inputs.items()}
+    all_embeddings = []
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i:i+batch_size]
+        inputs = tokenizer(batch, return_tensors="pt", max_length=512, truncation=True, padding=True)
+        # Move inputs to the selected device
+        inputs = {key: val.to(device) for key, val in inputs.items()}
 
-    with torch.no_grad():
-        outputs = model(**inputs)
-    cls_embedding = outputs.last_hidden_state[0, 0, :].cpu().numpy()
-    return cls_embedding
+        with torch.no_grad():
+            outputs = model(**inputs)
+        
+        # Get the CLS token embedding for each item in the batch
+        cls_embeddings = outputs.last_hidden_state[:, 0, :].cpu().numpy()
+        all_embeddings.extend([emb for emb in cls_embeddings])
+        
+    return all_embeddings
 
 # --- Data Loading ---
 def load_and_process_data(csv_path='data/train.csv', articles_path='data/train'):
@@ -132,45 +140,87 @@ if __name__ == '__main__':
         exit()
         
     # Calculate embeddings for training data
-    print("Calculating embeddings for training data...")
+    print("Calculating embeddings for training data (in batches)...")
     start_time = time.time()
-    train_df['text_1_embedding'] = train_df['text_1'].apply(get_bert_embedding)
-    train_df['text_2_embedding'] = train_df['text_2'].apply(get_bert_embedding)
-    train_df['embedding_diff'] = train_df['text_1_embedding'] - train_df['text_2_embedding']
+
+    # Create a single list of all texts to be processed
+    all_train_texts = train_df['text_1'].tolist() + train_df['text_2'].tolist()
+    all_train_embeddings = get_bert_embeddings_in_batches(all_train_texts, batch_size=BATCH_SIZE)
+
+    # Split the combined embeddings back into text_1 and text_2
+    num_samples = len(train_df)
+    train_embeddings_1 = all_train_embeddings[:num_samples]
+    train_embeddings_2 = all_train_embeddings[num_samples:]
+
+    # Now create the difference vector
+    train_df['embedding_diff'] = [e1 - e2 for e1, e2 in zip(train_embeddings_1, train_embeddings_2)]
+    
     end_time = time.time()
     print(f"Time to calculate training embeddings: {end_time - start_time:.2f} seconds")
 
-    # --- 2. Train the Model on the Full Training Dataset ---
-    print("\n--- Training Logistic Regression Model on Full Dataset ---")
-    X_train = np.vstack(train_df['embedding_diff'].values)
-    y_train = train_df['winner'].values
+    # --- 2. Run 5-Fold Cross-Validation ---
+    print("\n--- Running 5-Fold Cross-Validation ---")
+    X = np.vstack(train_df['embedding_diff'].values)
+    y = train_df['winner'].values
 
-    lr_model = LogisticRegression(random_state=42)
+    n_splits = 5
+    skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+    oof_scores = [] 
+
+    for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
+        print(f"--- Fold {fold+1}/{n_splits} ---")
+        
+        X_train, X_val = X[train_idx], X[val_idx]
+        y_train, y_val = y[train_idx], y[val_idx]
+        
+        lr_model = LogisticRegression(random_state=42)
+        lr_model.fit(X_train, y_train)
+        
+        preds = lr_model.predict(X_val)
+        score = accuracy_score(y_val, preds)
+        oof_scores.append(score)
+        print(f"Fold {fold+1} Accuracy: {score:.4f}")
+
+    print("-" * 20)
+    print(f"Average CV Accuracy: {np.mean(oof_scores):.4f} (+/- {np.std(oof_scores):.4f})")
+    print("-" * 20)
+
+    # --- 3. Train Final Model on Full Dataset ---
+    print("\n--- Training Final Model on Full Dataset ---")
+    final_model = LogisticRegression(random_state=42)
     start_time = time.time()
-    lr_model.fit(X_train, y_train)
+    final_model.fit(X, y)
     end_time = time.time()
-    print(f"Time to train logistic regression: {end_time - start_time:.4f} seconds")
+    print(f"Time to train final model: {end_time - start_time:.4f} seconds")
 
-    # --- 3. Load and Process Test Data ---
+
+    # --- 4. Load and Process Test Data ---
     print("\n--- Loading and Processing Test Data ---")
     test_df = load_test_data()
 
     if test_df is not None and not test_df.empty:
         # Calculate embeddings for test data
-        print("Calculating embeddings for test data...")
+        print("Calculating embeddings for test data (in batches)...")
         start_time = time.time()
-        test_df['text_1_embedding'] = test_df['text_1'].apply(get_bert_embedding)
-        test_df['text_2_embedding'] = test_df['text_2'].apply(get_bert_embedding)
-        test_df['embedding_diff'] = test_df['text_1_embedding'] - test_df['text_2_embedding']
+
+        all_test_texts = test_df['text_1'].tolist() + test_df['text_2'].tolist()
+        all_test_embeddings = get_bert_embeddings_in_batches(all_test_texts, batch_size=BATCH_SIZE)
+        
+        num_test_samples = len(test_df)
+        test_embeddings_1 = all_test_embeddings[:num_test_samples]
+        test_embeddings_2 = all_test_embeddings[num_test_samples:]
+        
+        test_df['embedding_diff'] = [e1 - e2 for e1, e2 in zip(test_embeddings_1, test_embeddings_2)]
+
         end_time = time.time()
         print(f"Time to calculate test embeddings: {end_time - start_time:.2f} seconds")
 
-        # --- 4. Make Predictions ---
+        # --- 5. Make Predictions ---
         print("\n--- Making Predictions on Test Data ---")
         X_test = np.vstack(test_df['embedding_diff'].values)
-        predictions = lr_model.predict(X_test)
+        predictions = final_model.predict(X_test)
 
-        # --- 5. Generate Submission File ---
+        # --- 6. Generate Submission File ---
         print("\n--- Generating Submission File ---")
         submission_df = pd.DataFrame({
             'id': test_df['id'],
