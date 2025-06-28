@@ -9,6 +9,10 @@ import time
 import torch.nn.functional as F
 from lightgbm import LGBMClassifier
 from tqdm import tqdm
+import re
+from spellchecker import SpellChecker
+import textstat
+import json
 
 # --- BERT Embedding Setup ---
 MODEL_NAME = "answerdotai/ModernBERT-large"
@@ -105,6 +109,27 @@ def get_mlm_scores_fast(texts: list[str], model, tokenizer, device, batch_size: 
         
     return all_scores
 
+def count_spelling_errors(text: str, spell_checker: SpellChecker) -> int:
+    """
+    Counts the number of spelling errors in a given text.
+    """
+    # Simple word tokenization, handles basic punctuation.
+    words = re.findall(r'\b\w+\b', text.lower())
+    if not words:
+        return 0
+    misspelled = spell_checker.unknown(words)
+    return len(misspelled)
+
+def get_text_stats(text: str) -> tuple[float, float, float]:
+    """
+    Calculates readability scores for a given text.
+    Returns Flesch Reading Ease, Flesch-Kincaid Grade, and Gunning Fog Index.
+    """
+    ease = textstat.flesch_reading_ease(text)
+    grade = textstat.flesch_kincaid_grade(text)
+    fog = textstat.gunning_fog(text)
+    return ease, grade, fog
+
 # --- Data Loading ---
 def load_and_process_data(csv_path='data/train.csv', articles_path='data/train'):
     """
@@ -193,6 +218,9 @@ if __name__ == '__main__':
         print("Could not load training data. Exiting.")
         exit()
         
+    # Initialize Spell Checker once
+    spell = SpellChecker()
+        
     # --- 2. Calculate Features for Training Data ---
     print("Calculating features for training data. This may take a while...")
     start_time = time.time()
@@ -225,8 +253,30 @@ if __name__ == '__main__':
     mlm_scores_2 = get_mlm_scores_fast(train_df['text_2'].tolist(), model, tokenizer, device, BATCH_SIZE)
     mlm_diffs = [s1 - s2 for s1, s2 in zip(mlm_scores_1, mlm_scores_2)]
 
-    # C) Combine Features
-    combined_features = [np.hstack((emb_diff, np.array([mlm_diff]))) for emb_diff, mlm_diff in zip(embedding_diffs, mlm_diffs)]
+    # C) Calculate Spelling Error Counts
+    spell_errors_1 = [count_spelling_errors(text, spell) for text in tqdm(train_df['text_1'], desc="Spell-checking text 1")]
+    spell_errors_2 = [count_spelling_errors(text, spell) for text in tqdm(train_df['text_2'], desc="Spell-checking text 2")]
+    spell_diffs = [s1 - s2 for s1, s2 in zip(spell_errors_1, spell_errors_2)]
+
+    # D) Calculate Readability Stats
+    stats1 = [get_text_stats(text) for text in tqdm(train_df['text_1'], desc="Stat-checking text 1")]
+    stats2 = [get_text_stats(text) for text in tqdm(train_df['text_2'], desc="Stat-checking text 2")]
+
+    # Unzip the stats and calculate differences
+    flesch_ease_1, flesch_grade_1, gunning_fog_1 = zip(*stats1)
+    flesch_ease_2, flesch_grade_2, gunning_fog_2 = zip(*stats2)
+
+    flesch_ease_diffs = [s1 - s2 for s1, s2 in zip(flesch_ease_1, flesch_ease_2)]
+    flesch_grade_diffs = [s1 - s2 for s1, s2 in zip(flesch_grade_1, flesch_grade_2)]
+    gunning_fog_diffs = [s1 - s2 for s1, s2 in zip(gunning_fog_1, gunning_fog_2)]
+
+    # E) Combine Features
+    combined_features = [
+        np.hstack((emb_diff, np.array([mlm_diff, spell_diff, flesch_ease_diff, flesch_grade_diff, gunning_fog_diff])))
+        for emb_diff, mlm_diff, spell_diff, flesch_ease_diff, flesch_grade_diff, gunning_fog_diff in zip(
+            embedding_diffs, mlm_diffs, spell_diffs, flesch_ease_diffs, flesch_grade_diffs, gunning_fog_diffs
+        )
+    ]
     train_df['features'] = combined_features
 
     end_time = time.time()
@@ -234,35 +284,73 @@ if __name__ == '__main__':
 
     # --- 3. Run 5-Fold Cross-Validation with LightGBM ---
     print("\n--- Running 5-Fold Cross-Validation with LightGBM ---")
-    X = np.vstack(train_df['features'].tolist())
-    y = train_df['winner'].values
+    X_features = np.vstack(train_df['features'].tolist())
+    y = (train_df['winner'] - 1).values # Convert labels to 0 and 1
+
+    # Create feature names for clarity and to prevent warnings
+    embedding_dim = embedding_diffs[0].shape[0]
+    feature_names = [f'embed_{i}' for i in range(embedding_dim)] + [
+        'mlm_diff', 'spell_diff', 
+        'flesch_ease_diff', 'flesch_grade_diff', 'gunning_fog_diff'
+    ]
+    X = pd.DataFrame(X_features, columns=feature_names)
 
     n_splits = 5
     skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
     oof_scores = [] 
+    wrong_predictions = []
 
     for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
         print(f"--- Fold {fold+1}/{n_splits} ---")
         
-        X_train, X_val = X[train_idx], X[val_idx]
+        X_train, X_val = X.iloc[train_idx], X.iloc[val_idx]
         y_train, y_val = y[train_idx], y[val_idx]
         
         # Use LightGBM Classifier
-        lgbm_model = LGBMClassifier(random_state=42)
+        lgbm_model = LGBMClassifier(random_state=42, verbose=-1)
         lgbm_model.fit(X_train, y_train)
         
         preds = lgbm_model.predict(X_val)
+        probas = lgbm_model.predict_proba(X_val)
         score = accuracy_score(y_val, preds)
         oof_scores.append(score)
         print(f"Fold {fold+1} Accuracy: {score:.4f}")
+
+        # Log misclassified samples
+        misclassified_mask = y_val != preds
+        misclassified_indices_in_val_set = np.where(misclassified_mask)[0]
+
+        for i in misclassified_indices_in_val_set:
+            original_idx = val_idx[i]
+            record = train_df.iloc[original_idx]
+            
+            wrong_sample = {
+                'id': int(record['id']),
+                'fold': fold + 1,
+                'true_winner': int(record['winner']),
+                'predicted_winner': int(preds[i] + 1),
+                'confidence_for_predicted': float(probas[i].max()),
+                'confidence_for_class_0': float(probas[i][0]),
+                'confidence_for_class_1': float(probas[i][1]),
+                'text_1': record['text_1'],
+                'text_2': record['text_2']
+            }
+            wrong_predictions.append(wrong_sample)
 
     print("-" * 20)
     print(f"Average CV Accuracy: {np.mean(oof_scores):.4f} (+/- {np.std(oof_scores):.4f})")
     print("-" * 20)
 
+    # Save misclassified samples to a JSON file
+    if wrong_predictions:
+        print(f"\nSaving {len(wrong_predictions)} misclassified samples to wrong_predictions.json...")
+        with open('wrong_predictions.json', 'w', encoding='utf-8') as f:
+            json.dump(wrong_predictions, f, indent=4, ensure_ascii=False)
+        print("Done.")
+
     # --- 4. Train Final Model on Full Dataset ---
     print("\n--- Training Final LightGBM Model on Full Dataset ---")
-    final_model = LGBMClassifier(random_state=42)
+    final_model = LGBMClassifier(random_state=42, verbose=-1)
     final_model.fit(X, y)
 
     # --- 5. Load and Process Test Data ---
@@ -286,9 +374,33 @@ if __name__ == '__main__':
         test_mlm_scores_2 = get_mlm_scores_fast(test_df['text_2'].tolist(), model, tokenizer, device, BATCH_SIZE)
         test_mlm_diffs = [s1 - s2 for s1, s2 in zip(test_mlm_scores_1, test_mlm_scores_2)]
 
-        # C) Combine Features for Test Data
-        test_combined_features = [np.hstack((emb_diff, np.array([mlm_diff]))) for emb_diff, mlm_diff in zip(test_embedding_diffs, test_mlm_diffs)]
-        X_test = np.vstack(test_combined_features)
+        # C) Calculate Spelling Error Counts for Test Data
+        test_spell_errors_1 = [count_spelling_errors(text, spell) for text in tqdm(test_df['text_1'], desc="Spell-checking test text 1")]
+        test_spell_errors_2 = [count_spelling_errors(text, spell) for text in tqdm(test_df['text_2'], desc="Spell-checking test text 2")]
+        test_spell_diffs = [s1 - s2 for s1, s2 in zip(test_spell_errors_1, test_spell_errors_2)]
+
+        # D) Calculate Readability Stats for Test Data
+        test_stats1 = [get_text_stats(text) for text in tqdm(test_df['text_1'], desc="Stat-checking test text 1")]
+        test_stats2 = [get_text_stats(text) for text in tqdm(test_df['text_2'], desc="Stat-checking test text 2")]
+
+        # Unzip the stats and calculate differences
+        test_flesch_ease_1, test_flesch_grade_1, test_gunning_fog_1 = zip(*test_stats1)
+        test_flesch_ease_2, test_flesch_grade_2, test_gunning_fog_2 = zip(*test_stats2)
+
+        test_flesch_ease_diffs = [s1 - s2 for s1, s2 in zip(test_flesch_ease_1, test_flesch_ease_2)]
+        test_flesch_grade_diffs = [s1 - s2 for s1, s2 in zip(test_flesch_grade_1, test_flesch_grade_2)]
+        test_gunning_fog_diffs = [s1 - s2 for s1, s2 in zip(test_gunning_fog_1, test_gunning_fog_2)]
+
+        # E) Combine Features for Test Data
+        test_combined_features = [
+            np.hstack((emb_diff, np.array([mlm_diff, spell_diff, flesch_ease_diff, flesch_grade_diff, gunning_fog_diff])))
+            for emb_diff, mlm_diff, spell_diff, flesch_ease_diff, flesch_grade_diff, gunning_fog_diff in zip(
+                test_embedding_diffs, test_mlm_diffs, test_spell_diffs, 
+                test_flesch_ease_diffs, test_flesch_grade_diffs, test_gunning_fog_diffs
+            )
+        ]
+        X_test_features = np.vstack(test_combined_features)
+        X_test = pd.DataFrame(X_test_features, columns=feature_names)
 
         end_time = time.time()
         print(f"Time to calculate test features: {end_time - start_time:.2f} seconds")
@@ -301,9 +413,23 @@ if __name__ == '__main__':
         print("\n--- Generating Submission File ---")
         submission_df = pd.DataFrame({
             'id': test_df['id'],
-            'real_text_id': predictions
+            'real_text_id': predictions + 1 # Convert predictions back to 1 and 2
         })
         submission_path = 'submission.csv'
         submission_df.to_csv(submission_path, index=False)
         print(f"Submission file saved to {submission_path}")
         print(submission_df.head()) 
+
+    # --- 8. Display Feature Importances ---
+    print("\n--- Feature Importances ---")
+    feature_importance_df = pd.DataFrame({
+        'feature': X.columns,
+        'importance': final_model.feature_importances_
+    }).sort_values(by='importance', ascending=False)
+    
+    # Filter out embedding features with 0 importance to avoid clutter
+    mask = (feature_importance_df['feature'].str.startswith('embed_')) & (feature_importance_df['importance'] == 0)
+    filtered_feature_importance_df = feature_importance_df[~mask].reset_index(drop=True)
+
+    with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+        print(filtered_feature_importance_df) 
